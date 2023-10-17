@@ -2,7 +2,7 @@
 title: Infosec EN
 description: InfoSec / CyberSec news bot on Bluesky
 published: true
-date: 2023-10-08T18:51:53.702Z
+date: 2023-10-17T19:16:57.687Z
 tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-08T18:51:47.728Z
