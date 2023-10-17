@@ -2,7 +2,7 @@
 title: Tutoriels Bluesky
 description: Une collection de tutoriels pour Bluesky
 published: true
-date: 2023-10-06T15:12:27.623Z
+date: 2023-10-17T13:44:42.560Z
 tags: bluesky, tutoriels
 editor: markdown
 dateCreated: 2023-10-06T12:13:11.758Z
