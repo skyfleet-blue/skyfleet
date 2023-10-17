@@ -1,8 +1,8 @@
 ---
-title: Guide pour Bluesky
+title: Guides pour Bluesky
 description: Collection de guide pour bien démarrer sur Bluesky
 published: true
-date: 2023-10-17T12:40:56.950Z
+date: 2023-10-17T13:34:26.102Z
 tags: bluesky, guide
 editor: markdown
 dateCreated: 2023-10-06T15:11:24.096Z
