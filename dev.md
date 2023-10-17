@@ -2,7 +2,7 @@
 title: le Coin des Devs
 description: Ressources devs pour Bluesky
 published: true
-date: 2023-10-17T18:09:28.536Z
+date: 2023-10-17T18:09:37.808Z
 tags: dev
 editor: markdown
 dateCreated: 2023-10-06T20:33:14.088Z
@@ -17,7 +17,7 @@ dateCreated: 2023-10-06T20:33:14.088Z
 > Vous pouvez rentrer directement en contact avec Ricardo via le chat en bas à droite
 {.is-warning}
 
-# Tutorials
+# Tutoriels
 
 > Collection of tutorials, guides on how to get started building on AT Protocol
 {.is-info}
