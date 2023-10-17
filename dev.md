@@ -2,7 +2,7 @@
 title: le Coin des Devs
 description: Ressources devs pour Bluesky
 published: true
-date: 2023-10-17T13:42:06.283Z
+date: 2023-10-17T13:43:23.215Z
 tags: dev
 editor: markdown
 dateCreated: 2023-10-06T20:33:14.088Z
@@ -13,6 +13,9 @@ dateCreated: 2023-10-06T20:33:14.088Z
 > Cette page est largement en construction, il y a des centaines de choses à rajouter
 > on va le faire petit à petit !
 {.is-info}
+
+> Vous pouvez rentrer directement en contact avec Ricardo via le chat en bas à droite
+{.is-warning}
 
 
 # Custom feeds 
