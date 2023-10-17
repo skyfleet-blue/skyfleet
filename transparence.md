@@ -2,7 +2,7 @@
 title: Transparence
 description: Transparence à propos de Skyfleet, méthodologie, politique éditoriale, frais de fonctionnement
 published: true
-date: 2023-10-17T13:39:16.372Z
+date: 2023-10-17T13:39:19.180Z
 tags: édition, frais, transparence, skyfleet
 editor: markdown
 dateCreated: 2023-10-04T14:44:31.904Z
