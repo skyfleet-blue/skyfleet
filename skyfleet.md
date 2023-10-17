@@ -2,7 +2,7 @@
 title: Skyfleet
 description: la skyfleet est une flotte de bot thématique ou médias pour bluesky
 published: true
-date: 2023-10-17T16:11:14.296Z
+date: 2023-10-17T16:12:05.481Z
 tags: bluesky, bots, news, info, media
 editor: markdown
 dateCreated: 2023-10-04T14:40:36.584Z
@@ -24,7 +24,6 @@ Sur certains cas, par exemple TrumpWatch ou Elections2024, il se peut qu'en fonc
 
 ![skyfleet1.jpg](/images/skyfleet1.jpg)
 
-<hr>
 
 <h2 class="tabset">Tabs</h2>
 
@@ -110,8 +109,6 @@ Veille info multi-sports en
 Veille info sur Trump, son procès à venir et les répercussions en cours de l'insurrection du Capitol du 6 janvier 
 - [TrumpWatch](https://bsky.app/profile/trumpwatch.skyfleet.blue) 🇺🇸
 
-
-
 ### On-Demand
 
 #### Veille Gourmande pour les fans du bien manger ;) 🇬🇧 🇫🇷
@@ -134,5 +131,6 @@ Veille info sur Trump, son procès à venir et les répercussions en cours de l'
 
 #### Veille info publication de média indépendant Russe 🇬🇧 🇷🇺
 - [Protiv](https://bsky.app/profile/protiv.osintukraine.com)
+
 
 
