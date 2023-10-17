@@ -2,7 +2,7 @@
 title: Skyfleet
 description: Liste des comptes Bluesky faisant partie de la Skyfleet
 published: true
-date: 2023-10-17T21:32:13.897Z
+date: 2023-10-17T22:22:41.315Z
 tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-17T19:15:18.530Z
@@ -176,16 +176,13 @@ son procès à venir et les répercussions en cours de l'insurrection du Capitol
 #### Veille info sur le Climat et manifs 🇬🇧
 - [Climate Tracker](https://bsky.app/profile/climate.skyfleet.blue)
 ---
----
----
 
 #### Veille info multi-sports en  🇬🇧 🇫🇷
 - [Sports](https://bsky.app/profile/sports.skyfleet.blue)
 ---
----
 
 #### Veille info Sciences en  🇬🇧 🇫🇷
-- [Sports](https://bsky.app/profile/sciences.skyfleet.blue)
+- [Sciences](https://bsky.app/profile/sciences.skyfleet.blue)
 
 #### the Food Feed 🇬🇧 🇫🇷
 - [the Food Feed](https://bsky.app/profile/foodfeed.skyfleet.blue)
@@ -219,7 +216,6 @@ son procès à venir et les répercussions en cours de l'insurrection du Capitol
 - [Protiv](https://bsky.app/profile/protiv.osintukraine.com)
 
 
-## Graph de la Skyfleet produit avec Gephi 
----
+# Graph de la Skyfleet produit avec Gephi 
 
 ![skyfleet1.jpg](/images/skyfleet1.jpg)
