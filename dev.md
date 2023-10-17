@@ -2,7 +2,7 @@
 title: le Coin des Devs
 description: Ressources devs pour Bluesky
 published: true
-date: 2023-10-17T18:07:58.854Z
+date: 2023-10-17T18:09:28.536Z
 tags: dev
 editor: markdown
 dateCreated: 2023-10-06T20:33:14.088Z
@@ -22,7 +22,7 @@ dateCreated: 2023-10-06T20:33:14.088Z
 > Collection of tutorials, guides on how to get started building on AT Protocol
 {.is-info}
 
-[Getting started with #atdev](https://graysky.app/blog/2023-10-17-getting-started-atproto) by the developers of graysky.app
+[Getting started with #atdev](https://graysky.app/blog/2023-10-17-getting-started-atproto) by the developers of graysky.app [code](https://github.com/mozzius/bsky-simple-viewer)
 
 # Custom feeds 
 
