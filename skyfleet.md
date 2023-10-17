@@ -2,7 +2,7 @@
 title: Skyfleet
 description: Liste des comptes Bluesky faisant partie de la Skyfleet
 published: true
-date: 2023-10-17T19:19:02.537Z
+date: 2023-10-17T19:20:52.220Z
 tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-17T19:15:18.530Z
@@ -112,7 +112,7 @@ Quelques médias  (médiapart,franceinfo,F24, Reflets etc..)
 son procès à venir et les répercussions en cours de l'insurrection du Capitol du 6 janvier 
 - [TrumpWatch](https://bsky.app/profile/trumpwatch.skyfleet.blue)
 
-### On-Demand
+### Sur demande
 
 #### Veille Gourmande pour les fans du bien manger ;) 🇬🇧 🇫🇷
 - [the Food Feed](https://bsky.app/profile/foodfeed.skyfleet.blue)
