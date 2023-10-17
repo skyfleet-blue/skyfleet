@@ -2,7 +2,7 @@
 title: Skyfleet
 description: Liste des comptes Bluesky faisant partie de la Skyfleet
 published: true
-date: 2023-10-17T21:20:42.332Z
+date: 2023-10-17T21:21:57.844Z
 tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-17T19:15:18.530Z
@@ -95,7 +95,7 @@ Quelques médias  (médiapart,franceinfo,F24, Reflets etc..)
 - [InfoSecFR](https://bsky.app/profile/infosecfr.skyfleet.blue)
 
 #### Veille info sur la Tech  🇫🇷
-- [InfoSecFR](https://bsky.app/profile/techfr.skyfleet.blue)
+- [TechFR](https://bsky.app/profile/techfr.skyfleet.blue)
 
 #### Veille info sur des blogs Tech / HN  🇬🇧 (en réparation)
 - [HN Tech Blogs](https://bsky.app/profile/techblogs.skyfleet.blue)
