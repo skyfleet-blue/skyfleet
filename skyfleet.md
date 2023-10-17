@@ -2,7 +2,7 @@
 title: Skyfleet
 description: Liste des comptes Bluesky faisant partie de la Skyfleet
 published: true
-date: 2023-10-17T19:20:52.220Z
+date: 2023-10-17T21:08:00.612Z
 tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-17T19:15:18.530Z
@@ -42,12 +42,6 @@ Quelques médias  (médiapart,franceinfo,F24, Reflets etc..)
 - [AlterMedia](https://bsky.app/profile/altermedias.skyfleet.blue)
 - Liste des [sources](https://blog.rmendes.net/2023/08/24/altermedia-un-flux.html)
 
-#### Rappel Conso  🇫🇷
-- [Rappel Conso](https://bsky.app/profile/rappelconso.skyfleet.blue)
-
-#### Veille info sur les mouvements de grèves aux 🇺🇸
-- [Striking News](https://bsky.app/profile/strikenews.skyfleet.blue)
-
 #### Veille info Européenne  🇪🇺 🇬🇧 🇫🇷 🇪🇸
 - [EUwatch](https://bsky.app/profile/euwatch.live)
 
@@ -68,6 +62,13 @@ Quelques médias  (médiapart,franceinfo,F24, Reflets etc..)
 
 ### Thématique / Topic
 
+#### Rappel Conso  🇫🇷
+- [Rappel Conso](https://bsky.app/profile/rappelconso.skyfleet.blue)
+
+#### Veille info sur l'actualité juridique 🇫🇷
+
+- [ActuDroit](https://bsky.app/profile/actudroit.skyfleet.blue) 
+
 #### Veille info sur les dérives sectaires 🇬🇧
 - [Cultish](https://bsky.app/profile/cultish.skyfleet.blue)
 
@@ -78,13 +79,16 @@ Quelques médias  (médiapart,franceinfo,F24, Reflets etc..)
 #### Veille technique sur les failles de cybersécurité 🇺🇸
 - [CVE Alerts](https://bsky.app/profile/cve.skyfleet.blue) 
 
+#### Veille info sur les mouvements de grèves aux 🇺🇸
+- [Striking News](https://bsky.app/profile/strikenews.skyfleet.blue)
+
 #### Veille info sur la cybersécurité/infosec  🇬🇧 🇺🇸
 - [InfoSecBot](https://bsky.app/profile/infosec.skyfleet.blue)
 
 #### Veille info sur la cybersécurité/infosec  🇫🇷
 - [InfoSecFR](https://bsky.app/profile/infosecfr.skyfleet.blue)
 
-#### Veille info sur des blogs Tech / HN  🇬🇧
+#### Veille info sur des blogs Tech / HN  🇬🇧 (en réparation)
 - [HN Tech Blogs](https://bsky.app/profile/techblogs.skyfleet.blue)
 
 #### Veille info sur la situation des réfugiés dans le monde  🇬🇧 🇫🇷
@@ -114,6 +118,8 @@ son procès à venir et les répercussions en cours de l'insurrection du Capitol
 
 ### Sur demande
 
+Mise en place de sujet d'info sur demande d'autres Blueskyers
+
 #### Veille Gourmande pour les fans du bien manger ;) 🇬🇧 🇫🇷
 - [the Food Feed](https://bsky.app/profile/foodfeed.skyfleet.blue)
 
@@ -136,7 +142,7 @@ son procès à venir et les répercussions en cours de l'insurrection du Capitol
 - [Protiv](https://bsky.app/profile/protiv.osintukraine.com)
 
 
-## Graph produit avec Gephi de la Skyfleet
+## Graph de la Skyfleet produit avec Gephi 
 ---
 
 ![skyfleet1.jpg](/images/skyfleet1.jpg)
