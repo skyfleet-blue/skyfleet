@@ -2,7 +2,7 @@
 title: Skyfleet
 description: la skyfleet est une flotte de bot thématique ou médias pour bluesky
 published: true
-date: 2023-10-17T14:31:17.251Z
+date: 2023-10-17T16:11:14.296Z
 tags: bluesky, bots, news, info, media
 editor: markdown
 dateCreated: 2023-10-04T14:40:36.584Z
@@ -26,8 +26,10 @@ Sur certains cas, par exemple TrumpWatch ou Elections2024, il se peut qu'en fonc
 
 <hr>
 
-## Info / Médias
- 
+<h2 class="tabset">Tabs</h2>
+
+### Info / Médias
+
 Le journal Le Monde et ses customs feeds par catégorie 
 - [Le Monde en Feed](https://bsky.app/profile/lemonde.skyfleet.blue) 🇫🇷
 
@@ -62,9 +64,7 @@ Veille info Belgique
 AFSCA / FAVV
 - [AFSCA-FAVV](https://bsky.app/profile/afsca-favv.skyfleet.blue) 🇧🇪🇳🇱 
 
-<hr>
-
-## Thématique / Topic
+### Thématique / Topic
 
  Veille info sur les dérives sectaires 
 - [Cultish](https://bsky.app/profile/cultish.skyfleet.blue) 🇬🇧
@@ -111,33 +111,28 @@ Veille info sur Trump, son procès à venir et les répercussions en cours de l'
 - [TrumpWatch](https://bsky.app/profile/trumpwatch.skyfleet.blue) 🇺🇸
 
 
-<hr>
 
+### On-Demand
 
-## Liste de compte que j'ai contribué à mettre en place sur Bluesky
-
-### Veille Gourmande pour les fans du bien manger ;) 🇬🇧 🇫🇷
+#### Veille Gourmande pour les fans du bien manger ;) 🇬🇧 🇫🇷
 - [the Food Feed](https://bsky.app/profile/foodfeed.skyfleet.blue)
 
-### Veille info sur quelques sources de bonnes nouvelles 🇬🇧 🇫🇷
+#### Veille info sur quelques sources de bonnes nouvelles 🇬🇧 🇫🇷
 - [Good News-ish](https://bsky.app/profile/goodnews.skyfleet.blue)
 
-### Jazzpt 🇵🇹
+#### Jazzpt 🇵🇹
 - [Jazz.pt](https://bsky.app/profile/jazzpt.bsky.social) 
 
-### Ukraine Video Telegram Archive 🇬🇧🇺🇦
+#### Ukraine Video Telegram Archive 🇬🇧🇺🇦
 - [Ukraine Telegram Archive](https://bsky.app/profile/videos.osintukraine.com)
 
-### Veille info sur l'Ukraine en Anglais 🇬🇧🇺🇦
+#### Veille info sur l'Ukraine en Anglais 🇬🇧🇺🇦
 - [Veille Info BenB](https://bsky.app/profile/benborges.xyz)
 
-### MédiasLibres  (Indymedia,Basta,Infokiosque etc.)
+#### MédiasLibres  (Indymedia,Basta,Infokiosque etc.)
 - [MediasLibres](https://bsky.app/profile/mediaslibres.skyfleet.blue) 🇫🇷
 
-<hr>
-
-### Veille info publication de média indépendant Russe 🇬🇧 🇷🇺
+#### Veille info publication de média indépendant Russe 🇬🇧 🇷🇺
 - [Protiv](https://bsky.app/profile/protiv.osintukraine.com)
 
-<hr>
 
