@@ -2,7 +2,7 @@
 title: Skyfleet
 description: Liste des comptes Bluesky faisant partie de la Skyfleet
 published: true
-date: 2023-10-17T21:16:21.394Z
+date: 2023-10-17T21:16:41.408Z
 tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-17T19:15:18.530Z
@@ -54,7 +54,7 @@ Quelques médias  (médiapart,franceinfo,F24, Reflets etc..)
 #### Veille Info Italie  🇮🇹
 - [MediaItaliani](https://bsky.app/profile/mediasit.skyfleet.blue)
 
-#### Veille Info Canada 🇬🇧 🇫🇷
+#### Veille Info Canada 🇨🇦 🇬🇧 🇫🇷
 - [MediaItaliani](https://bsky.app/profile/mediasca.skyfleet.blue)
 
 #### Veille Info Moyen-Orient 🇬🇧 🇫🇷
