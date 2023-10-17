@@ -2,7 +2,7 @@
 title: Skyfleet
 description: Liste des comptes Bluesky faisant partie de la Skyfleet
 published: true
-date: 2023-10-17T21:09:05.341Z
+date: 2023-10-17T21:13:05.821Z
 tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-17T19:15:18.530Z
@@ -88,17 +88,14 @@ Quelques médias  (médiapart,franceinfo,F24, Reflets etc..)
 #### Veille info sur la cybersécurité/infosec  🇫🇷
 - [InfoSecFR](https://bsky.app/profile/infosecfr.skyfleet.blue)
 
+#### Veille info sur la Tech  🇫🇷
+- [InfoSecFR](https://bsky.app/profile/techfr.skyfleet.blue)
+
 #### Veille info sur des blogs Tech / HN  🇬🇧 (en réparation)
 - [HN Tech Blogs](https://bsky.app/profile/techblogs.skyfleet.blue)
 
 #### Veille info sur la situation des réfugiés dans le monde  🇬🇧 🇫🇷
 - [Refugees](https://bsky.app/profile/refugees.skyfleet.blue)
-
-#### Veille info sur le Climat et manifs 🇬🇧
-- [Climate Tracker](https://bsky.app/profile/climate.skyfleet.blue)
-
-#### Veille info multi-sports en  🇬🇧 🇫🇷
-- [Sports](https://bsky.app/profile/sports.skyfleet.blue)
 
 #### Podcast mixe, avec the Pod Feed  🇫🇷
 - [the Pod Feed](https://bsky.app/profile/podfeed.skyfleet.blue)
@@ -118,7 +115,14 @@ son procès à venir et les répercussions en cours de l'insurrection du Capitol
 
 ### Sur demande
 
-Mise en place de sujet d'info sur demande d'autres Blueskyers
+> Mise en place de sujet d'info sur demande d'autres Blueskyers
+{.is-info}
+
+#### Veille info sur le Climat et manifs 🇬🇧
+- [Climate Tracker](https://bsky.app/profile/climate.skyfleet.blue)
+
+#### Veille info multi-sports en  🇬🇧 🇫🇷
+- [Sports](https://bsky.app/profile/sports.skyfleet.blue)
 
 #### Veille Gourmande pour les fans du bien manger ;) 🇬🇧 🇫🇷
 - [the Food Feed](https://bsky.app/profile/foodfeed.skyfleet.blue)
