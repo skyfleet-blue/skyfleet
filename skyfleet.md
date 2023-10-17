@@ -2,7 +2,7 @@
 title: Skyfleet
 description: la skyfleet est une flotte de bot thématique ou médias pour bluesky
 published: true
-date: 2023-10-17T18:01:31.385Z
+date: 2023-10-17T18:01:56.548Z
 tags: bluesky, bots, news, info, media
 editor: markdown
 dateCreated: 2023-10-04T14:40:36.584Z
@@ -26,12 +26,12 @@ Sur certains cas, par exemple TrumpWatch ou Elections2024, il se peut qu'en fonc
 
 ### Info / Médias
 
-#### LeMonde
+#### LeMonde 🇫🇷
 Le journal Le Monde et ses customs feeds par catégorie 
-- [Le Monde en Feed](https://bsky.app/profile/lemonde.skyfleet.blue) 🇫🇷
+- [Le Monde en Feed](https://bsky.app/profile/lemonde.skyfleet.blue)
 
-#### Média d'investigation DiscloseNGO
-- [DiscloseNGO](https://bsky.app/profile/disclosengo.bsky.social) 🇬🇧 🇫🇷
+#### Média d'investigation DiscloseNGO 🇬🇧 🇫🇷
+- [DiscloseNGO](https://bsky.app/profile/disclosengo.bsky.social)
 
 #### Médias Français 🇫🇷
 Quelques médias  (médiapart,franceinfo,F24, Reflets etc..)
