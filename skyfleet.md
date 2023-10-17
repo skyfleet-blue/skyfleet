@@ -2,7 +2,7 @@
 title: Skyfleet
 description: Liste des comptes Bluesky faisant partie de la Skyfleet
 published: true
-date: 2023-10-17T21:13:05.821Z
+date: 2023-10-17T21:16:21.394Z
 tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-17T19:15:18.530Z
@@ -53,6 +53,9 @@ Quelques médias  (médiapart,franceinfo,F24, Reflets etc..)
 
 #### Veille Info Italie  🇮🇹
 - [MediaItaliani](https://bsky.app/profile/mediasit.skyfleet.blue)
+
+#### Veille Info Canada 🇬🇧 🇫🇷
+- [MediaItaliani](https://bsky.app/profile/mediasca.skyfleet.blue)
 
 #### Veille Info Moyen-Orient 🇬🇧 🇫🇷
 - [Middle-East Tracker](https://bsky.app/profile/me.skyfleet.blue)
@@ -124,10 +127,13 @@ son procès à venir et les répercussions en cours de l'insurrection du Capitol
 #### Veille info multi-sports en  🇬🇧 🇫🇷
 - [Sports](https://bsky.app/profile/sports.skyfleet.blue)
 
-#### Veille Gourmande pour les fans du bien manger ;) 🇬🇧 🇫🇷
+#### the Food Feed 🇬🇧 🇫🇷
 - [the Food Feed](https://bsky.app/profile/foodfeed.skyfleet.blue)
 
-#### Veille info sur quelques sources de bonnes nouvelles 🇬🇧 🇫🇷
+#### FOOD IT  🇮🇹
+- [MediaItaliani](https://bsky.app/profile/foodit.skyfleet.blue)
+
+#### Veille info sur quelques sources de "bonnes" nouvelles 🇬🇧 🇫🇷
 - [Good News-ish](https://bsky.app/profile/goodnews.skyfleet.blue)
 
 #### Jazzpt 🇵🇹
