@@ -2,7 +2,7 @@
 title: Skyfleet Sources
 description: la skyfleet est une flotte de bot thématique ou médias pour bluesky
 published: true
-date: 2023-10-17T19:27:05.987Z
+date: 2023-10-17T19:29:18.604Z
 tags: bluesky, bots, news, info, media
 editor: markdown
 dateCreated: 2023-10-04T14:40:36.584Z
@@ -16,12 +16,15 @@ dateCreated: 2023-10-04T14:40:36.584Z
 # Tabs {.tabset}
 ## Médias
 
+
+### 🇫🇷
 [Mediasfr](/fr/skyfleet-sources/mediasfr)
 
 [laUne](/fr/skyfleet-sources/laune)
 
 ## Topic
 
+### 🇺🇸
 [Trumpwatch](/fr/skyfleet-sources/trumpwatch)
 
 [ElectionsUS](/fr/skyfleet-sources/electionsUS)
