@@ -2,13 +2,13 @@
 title: Skyfleet
 description: la skyfleet est une flotte de bot thématique ou médias pour bluesky
 published: true
-date: 2023-10-17T13:53:15.129Z
+date: 2023-10-17T13:53:24.768Z
 tags: bluesky, bots, news, info, media
 editor: markdown
 dateCreated: 2023-10-04T14:40:36.584Z
 ---
 
-# Liste comptes Bluesky faisant partie de la skyfleet
+# Liste de comptes Bluesky faisant partie de la skyfleet
 
 Ceci est une liste non exhaustive de compte bluesky thématique ou de veille média que j'ai mis en place sur bluesky ou que j'ai aidé à mettre en place depuis quelques mois. 
 
