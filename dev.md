@@ -2,13 +2,13 @@
 title: le Coin des Devs
 description: Ressources devs pour Bluesky
 published: true
-date: 2023-10-15T15:36:52.173Z
+date: 2023-10-17T13:42:06.283Z
 tags: dev
 editor: markdown
 dateCreated: 2023-10-06T20:33:14.088Z
 ---
 
-# le dev corner
+# le coin des devs
 
 > Cette page est largement en construction, il y a des centaines de choses à rajouter
 > on va le faire petit à petit !
