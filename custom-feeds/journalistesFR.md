@@ -2,13 +2,17 @@
 title: Journalistes Francophones
 description: Un custom feeds des journalistes francophones sur Bluesky
 published: true
-date: 2023-10-21T13:31:21.960Z
+date: 2023-10-21T16:14:59.943Z
 tags: customfeeds, journalisme
 editor: markdown
 dateCreated: 2023-10-21T12:50:07.798Z
 ---
 
 # Journalistes Sur Bluesky
+
+## Intention
+
+Le but de ce custom feed est de mettre le travail des journalistes en valeur, d'avoir un flux d'info qui leur permet de faire des threads de leurs articles sur Bluesky avec plus de contexte, de mettre d'autres parties de leurs travail en valeur, de mettre en avant des journalistes peu connus et ainsi créer une dynamique saine entre le public et les journalistes sur Bluesky.
 
 ## Liste
 
