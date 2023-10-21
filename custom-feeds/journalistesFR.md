@@ -2,7 +2,7 @@
 title: Journalistes Francophones
 description: Un custom feeds des journalistes francophones sur Bluesky
 published: true
-date: 2023-10-21T13:13:01.423Z
+date: 2023-10-21T13:17:45.198Z
 tags: customfeeds, journalisme
 editor: markdown
 dateCreated: 2023-10-21T12:50:07.798Z
@@ -39,13 +39,21 @@ dateCreated: 2023-10-21T12:50:07.798Z
 [Lien](https://bsky.app/profile/did:plc:gc7pqgc337bwj2n5mbnkixzk/post/3kcb3csu34y2a)
 
 
-## Commentrer dans la liste
+#### Calibrage
+
+- Pour l'instant le calibrage est tel que décris plus haut, au besoin on fera des ajustements au fur et à mesure des retours reçus. 
+
+## Comment entrer dans la liste ?
 
 Se manifester auprès de [@skyfleet.blue](https://bsky.app/profile/skyfleet.blue) sur Bluesky
 
-## Comment sorir de la liste
+## Comment sorir de la liste ?
 
 Simple demande à [@skyfleet.blue](https://bsky.app/profile/skyfleet.blue) sur Bluesky
 
 
-## 
+### Observations
+
+- Une fois sorti de la liste tous vos posts seront automatiquement viré du Feed
+- Il peut y avoir un résidu de cache le temps que le Feed soit à nouveau généré. 
+- Il n'y a aucune interventions de notre part, tout est automatisé une fois que vous rentrez dans la [Liste](https://bsky.app/profile/skyfleet.blue/lists/3kcamwfdufc2w). 
