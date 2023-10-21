@@ -1,8 +1,8 @@
 ---
-title: Outils
+title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-10-17T18:20:41.320Z
+date: 2023-10-21T16:19:00.053Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-06T14:48:25.778Z
