@@ -2,7 +2,7 @@
 title: Journalistes Francophones
 description: Un custom feeds des journalistes francophones sur Bluesky
 published: true
-date: 2023-10-22T18:27:40.586Z
+date: 2023-10-22T18:28:30.060Z
 tags: customfeeds, journalisme
 editor: markdown
 dateCreated: 2023-10-21T12:50:07.798Z
@@ -40,12 +40,12 @@ dateCreated: 2023-10-21T12:50:07.798Z
 
 - Accepter la publication sur le site skyfleet.blue
 
-En cochant cette case vous signalez autoriser l’inscription de votre profil, dans l’annuaire des professionnels des médias numériques sur les réseaux sociaux, mis en ligne publiquement sur le wiki skyfleet.blue, seul votre nom et profils vers réseaux sociaux déjà public seront affiché publiquement.
+En cochant cette case vous signalez autoriser l’inscription de votre profil, dans l’annuaire des professionnels des médias mis en ligne publiquement sur le wiki skyfleet.blue, seul votre nom et profils vers vos réseaux sociaux déjà public seront affiché publiquement.
 
 - Annuaire publique
 
 La base de données est affichée publiquement. 
-Néanmoins skyfleet.blue ne partage pas la la base de données avec des tiers.
+Néanmoins skyfleet.blue ne partage pas la base de données avec des tiers.
 
 - Données personelles
 
