@@ -2,7 +2,7 @@
 title: Journalistes Francophones
 description: Un custom feeds des journalistes francophones sur Bluesky
 published: true
-date: 2023-10-22T18:29:11.078Z
+date: 2023-10-22T18:44:14.640Z
 tags: customfeeds, journalisme
 editor: markdown
 dateCreated: 2023-10-21T12:50:07.798Z
@@ -47,15 +47,17 @@ En cochant cette case vous signalez autoriser l’inscription de votre profil, d
 La base de données est affichée publiquement. 
 Néanmoins skyfleet.blue ne partage pas la base de données avec des tiers.
 
-- Données personelles
-
-Les adresses mails et profils linkedin sont demandés uniquement à des fins de vérification du journaliste, notamment pour vérifier que l’auteur a bien demandé l’inscription dans cet annuaire et qu'il/elle veut effectivement rentrer dans un custom feed journalistes FR. 
-
 - Conservation des données 
 
 Les données sont conservées en ligne pour une durée indéterminée où jusqu'à la demande de retrait des informations de la base de données.
 Vous pouvez demander la modification ou la suppression de vos information par mail :
 info@skyfleet.blue avec pour sujet “modification annuaire”
+
+- Données personelles
+
+Les adresses mails et profils linkedin sont demandés uniquement à des fins de vérification du journaliste, notamment pour vérifier que l’auteur a bien demandé l’inscription dans cet annuaire et qu'il/elle veut effectivement rentrer dans un custom feed journalistes FR. 
+
+
 
 ## Comment ça marche 
 
@@ -90,5 +92,9 @@ Simple demande à [@skyfleet.blue](https://bsky.app/profile/skyfleet.blue) sur B
 - Il n'y a aucune interventions de notre part, tout est automatisé une fois que vous rentrez dans la [Liste](https://bsky.app/profile/skyfleet.blue/lists/3kcamwfdufc2w). 
 
 
+# Annuaire Des Journalistes Vérifiés
+
+> En construction
+{.is-warning}
 
 
