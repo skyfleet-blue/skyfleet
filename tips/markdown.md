@@ -1,9 +1,9 @@
 ---
-title: Comment faire des liens Markdown ?
-description: Tout savoir sur le support du Markdown sur Bluesky
+title: Liens Markdown
+description: Comment faire des liens Markdown ? Tout savoir sur le support du Markdown sur Bluesky
 published: true
-date: 2023-10-22T17:07:16.085Z
-tags: astuces
+date: 2023-10-22T17:08:18.475Z
+tags: astuces, markdown
 editor: markdown
 dateCreated: 2023-10-22T17:07:16.085Z
 ---
