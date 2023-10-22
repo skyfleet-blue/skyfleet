@@ -2,7 +2,7 @@
 title: Journalistes Francophones
 description: Un custom feeds des journalistes francophones sur Bluesky
 published: true
-date: 2023-10-21T16:16:50.823Z
+date: 2023-10-22T15:21:57.057Z
 tags: customfeeds, journalisme
 editor: markdown
 dateCreated: 2023-10-21T12:50:07.798Z
@@ -34,8 +34,8 @@ dateCreated: 2023-10-21T12:50:07.798Z
 
 ## Comment ça marche 
 
-
-- Il faut au moins 10 likes sur vos Post pour être visible dans le Feed. 
+- Vos Posts et Citations/Quotes s'affiche dans le feed
+- ~~Il faut au moins 10 likes sur vos Post pour être visible dans le Feed.~~
 - Vos réponses n'y apparaissent pas pour vous épargner d'être dans le Feed à la moindre réponse 
 - Vos reposts n'y apparaissent pas pour éviter les doublons et diminuer le bruit
 - Pour sortir du Feed, suffit de le demander !
