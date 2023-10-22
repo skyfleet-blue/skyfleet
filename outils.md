@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-10-22T17:26:12.645Z
+date: 2023-10-22T17:26:42.382Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-06T14:48:25.778Z
@@ -106,8 +106,10 @@ Bluesky.app
 ## Decks
 
 @deck.blue
-
 - https://deck.blue
+
+Skyfeed.app
+- https://skyfeed.app
 
 Skydeck
 - https://skydeck.social/
