@@ -2,7 +2,7 @@
 title: Journalistes Francophones
 description: Un custom feeds des journalistes francophones sur Bluesky
 published: true
-date: 2023-10-22T18:44:14.640Z
+date: 2023-10-22T18:45:37.315Z
 tags: customfeeds, journalisme
 editor: markdown
 dateCreated: 2023-10-21T12:50:07.798Z
@@ -31,33 +31,6 @@ dateCreated: 2023-10-21T12:50:07.798Z
 > Pour l'instant il n'y a pas de critères poussés de vérification
 > mais le système va évoluer pour que les journalistes se vérifie par un formulaire et par un passage d'assemtiment à vouloir faire partie de la liste pour être en conformité RGPD
 {.is-info}
-
-## Vérification des Journalistes
-
-- Formulaire
-
-### Intentions et Utilisations des données
-
-- Accepter la publication sur le site skyfleet.blue
-
-En cochant cette case vous signalez autoriser l’inscription de votre profil, dans l’annuaire des professionnels des médias mis en ligne publiquement sur le wiki skyfleet.blue, seul votre nom et profils vers vos réseaux sociaux déjà public seront affiché publiquement.
-
-- Annuaire publique
-
-La base de données est affichée publiquement. 
-Néanmoins skyfleet.blue ne partage pas la base de données avec des tiers.
-
-- Conservation des données 
-
-Les données sont conservées en ligne pour une durée indéterminée où jusqu'à la demande de retrait des informations de la base de données.
-Vous pouvez demander la modification ou la suppression de vos information par mail :
-info@skyfleet.blue avec pour sujet “modification annuaire”
-
-- Données personelles
-
-Les adresses mails et profils linkedin sont demandés uniquement à des fins de vérification du journaliste, notamment pour vérifier que l’auteur a bien demandé l’inscription dans cet annuaire et qu'il/elle veut effectivement rentrer dans un custom feed journalistes FR. 
-
-
 
 ## Comment ça marche 
 
@@ -96,5 +69,31 @@ Simple demande à [@skyfleet.blue](https://bsky.app/profile/skyfleet.blue) sur B
 
 > En construction
 {.is-warning}
+
+
+## Vérification des Journalistes
+
+- [Formulaire](https://base.skyfleet.blue/form/JDd-asXLQCFn9qBWJR_JO_7thrQnAqi-s5StxpurrBU) d'inscription
+
+### Intentions et Utilisations des données
+
+- Accepter la publication sur le site skyfleet.blue
+
+En cochant cette case vous signalez autoriser l’inscription de votre profil, dans l’annuaire des professionnels des médias mis en ligne publiquement sur le wiki skyfleet.blue, seul votre nom et profils vers vos réseaux sociaux déjà public seront affiché publiquement.
+
+- Annuaire publique
+
+La base de données est affichée publiquement. 
+Néanmoins skyfleet.blue ne partage pas la base de données avec des tiers.
+
+- Conservation des données 
+
+Les données sont conservées en ligne pour une durée indéterminée où jusqu'à la demande de retrait des informations de la base de données.
+Vous pouvez demander la modification ou la suppression de vos information par mail :
+info@skyfleet.blue avec pour sujet “modification annuaire”
+
+- Données personelles
+
+Les adresses mails et profils linkedin sont demandés uniquement à des fins de vérification du journaliste, notamment pour vérifier que l’auteur a bien demandé l’inscription dans cet annuaire et qu'il/elle veut effectivement rentrer dans un custom feed journalistes FR. 
 
 
