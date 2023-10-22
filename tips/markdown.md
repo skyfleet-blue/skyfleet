@@ -2,7 +2,7 @@
 title: Liens Markdown
 description: Comment faire des liens Markdown ? Tout savoir sur le support du Markdown sur Bluesky
 published: true
-date: 2023-10-22T17:08:18.475Z
+date: 2023-10-22T17:13:52.316Z
 tags: astuces, markdown
 editor: markdown
 dateCreated: 2023-10-22T17:07:16.085Z
@@ -17,18 +17,18 @@ Avec le Markdown, il devient possible de faire des posts sur bluesky qui intègr
 > à quoi ressemble un lien markdown ?
 {.is-info}
 
-La structure est simple à mémoriser, 
+La structure est simple à mémoriser, le nom visible du lien va se loger entre les [ ] et le lien HTTP entre les parenthèses 
+
 ```markdown
 []()
 ```
+- Donc : 
 
 ```markdown
 [Lien vers le blog](https://blog.skyfleet.blue)
 ```
 
-Résultat : [Lien vers le blog](https://blog.skyfleet.blue)
-
-le nom visible du lien va se loger entre les [ ] et le liens HTTPS entre les parenthèses 
+- Résultat : [Lien vers le blog](https://blog.skyfleet.blue)
 
 
 ## Clients supporté
