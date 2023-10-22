@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-10-21T16:19:00.053Z
+date: 2023-10-22T17:26:12.645Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-06T14:48:25.778Z
@@ -88,8 +88,6 @@ Klearsky
 
 [Graysky](https://graysky.app/)
 
-- Testing Android : https://play.google.com/apps/testing/dev.mozzius.graysky
-
 
 Bluesky.app
 - https://play.google.com/store/apps/details?id=xyz.blueskyweb.app
@@ -102,8 +100,7 @@ Bluesky.app
 
 [Graysky](https://graysky.app/)
 
-- in Store soon : https://apps.apple.com/gb/app/graysky/id6448234181
-- Testflight iOs : https://testflight.apple.com/join/8Q1M4gwt
+- in Store : https://apps.apple.com/gb/app/graysky/id6448234181
 
 
 ## Decks
