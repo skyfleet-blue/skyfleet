@@ -2,7 +2,7 @@
 title: Journalistes Francophones
 description: Un custom feeds des journalistes francophones sur Bluesky
 published: true
-date: 2023-10-22T18:16:40.904Z
+date: 2023-10-22T18:18:41.296Z
 tags: customfeeds, journalisme
 editor: markdown
 dateCreated: 2023-10-21T12:50:07.798Z
@@ -38,13 +38,20 @@ dateCreated: 2023-10-21T12:50:07.798Z
 
 ### Intentions et Utilisations des données
 
-Accepter la publication sur le site skyfleet.blue
+- Accepter la publication sur le site skyfleet.blue
 
-En cochant cette case vous signalez autoriser l’inscription de votre profil, dans l’annuaire des professionnels des médias numériques sur les réseaux sociaux, mis en ligne publiquement sur le wiki skyfleet.blue, seul votre nom et profils vers réseaux sociaux déjà public serait affiché publiquement. 
+En cochant cette case vous signalez autoriser l’inscription de votre profil, dans l’annuaire des professionnels des médias numériques sur les réseaux sociaux, mis en ligne publiquement sur le wiki skyfleet.blue, seul votre nom et profils vers réseaux sociaux déjà public seront affiché publiquement. 
+
+- Données personelles
 
 Les adresses mails et profils linkedin sont demandés uniquement à des fins de vérification de l’utilisateur, notamment pour vérifier que l’auteur a bien demandé l’inscription dans cette base et qu'il veut effectivement rentrer dans un custom feed journalistes FR. 
 
-La base de données est affichée publiquement. Néanmoins skyfleet.blue ne partage pas la la base de données avec des tiers.
+- Annuaire publique
+
+La base de données est affichée publiquement. 
+Néanmoins skyfleet.blue ne partage pas la la base de données avec des tiers.
+
+- Convservation des données 
 
 Les données sont conservées en ligne pour une durée indéterminée où jusqu'à la demande de retrait des informations de la base de données.
 Vous pouvez demander la modification ou la suppression de vos information par mail :
