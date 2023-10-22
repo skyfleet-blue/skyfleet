@@ -2,7 +2,7 @@
 title: Journalistes Francophones
 description: Un custom feeds des journalistes francophones sur Bluesky
 published: true
-date: 2023-10-22T18:46:46.280Z
+date: 2023-10-22T18:49:47.140Z
 tags: customfeeds, journalisme
 editor: markdown
 dateCreated: 2023-10-21T12:50:07.798Z
@@ -84,24 +84,28 @@ Simple demande à [@skyfleet.blue](https://bsky.app/profile/skyfleet.blue) sur B
 [Journalistes]()
 
 
-### Intentions et Utilisations des données
+## Intentions et Utilisations des données
 
-- Accepter la publication sur le site skyfleet.blue
+> En bas de formulaire plusieurs cases vous permettent de spécifier votre consentement, vous pouvez en effet être d'accord pour être affiché dans le custom feed sur bluesky, sans pour autant faire partie de l'annuaire public, l'utilisation de base est donc le Custom Feed, l'annuaire public est une option en plus.
+{.is-info}
+
+
+#### Accepter la publication sur le site skyfleet.blue
 
 En cochant cette case vous signalez autoriser l’inscription de votre profil, dans l’annuaire des professionnels des médias mis en ligne publiquement sur le wiki skyfleet.blue, seul votre nom et profils vers vos réseaux sociaux déjà public seront affiché publiquement.
 
-- Annuaire publique
+#### Annuaire publique
 
 La base de données est affichée publiquement. 
 Néanmoins skyfleet.blue ne partage pas la base de données avec des tiers.
 
-- Conservation des données 
+#### Conservation des données 
 
 Les données sont conservées en ligne pour une durée indéterminée où jusqu'à la demande de retrait des informations de la base de données.
 Vous pouvez demander la modification ou la suppression de vos information par mail :
 info@skyfleet.blue avec pour sujet “modification annuaire”
 
-- Données personelles
+#### Données personelles
 
 Les adresses mails et profils linkedin sont demandés uniquement à des fins de vérification du journaliste, notamment pour vérifier que l’auteur a bien demandé l’inscription dans cet annuaire et qu'il/elle veut effectivement rentrer dans un custom feed journalistes FR. 
 
