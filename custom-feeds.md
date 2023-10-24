@@ -2,7 +2,7 @@
 title: Feeds Personalisés Bluesky
 description: Une liste de custom feed personalisés blueksy
 published: true
-date: 2023-10-24T12:41:02.575Z
+date: 2023-10-24T12:42:33.685Z
 tags: bluesky, customfeeds
 editor: markdown
 dateCreated: 2023-10-04T17:05:16.337Z
@@ -19,8 +19,8 @@ Utiliser ce [formulaire](https://base.skyfleet.blue/form/0Bmzxqsv19BNgzWuo9Ikh_z
 
 ## Annuaire
 
-<div class="container">
-  <iframe class="responsive-iframe" src="https://base.skyfleet.blue/public/grid/4W_lCTnwaL0S7wFwZ6zW3Yhf0byVeFD_3A8wh0Csf8g "></iframe>
+<div class="iframe">
+  <iframe class="responsive-iframe" src="https://base.skyfleet.blue/public/grid/4W_lCTnwaL0S7wFwZ6zW3Yhf0byVeFD_3A8wh0Csf8g"></iframe>
 </div>
 
 ### Autre
