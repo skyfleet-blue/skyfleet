@@ -2,7 +2,7 @@
 title: Feeds Personalisés Bluesky
 description: Une liste de custom feed personalisés blueksy
 published: true
-date: 2023-10-24T19:39:43.932Z
+date: 2023-10-24T19:41:50.489Z
 tags: bluesky, customfeeds
 editor: markdown
 dateCreated: 2023-10-04T17:05:16.337Z
@@ -54,6 +54,8 @@ dateCreated: 2023-10-04T17:05:16.337Z
 
 
 ### Catégorisation
+
+- Le catégories ont été construite sur le tas et au fur et à mesure que les feed sont arrivé, la liste n'est donc forcément pas complète ou inclusive pour tous les cas de figure, si une catégorie importante manque, n'hésitez pas à la suggérer ou proposer un Feed en utilisant la catégorie Autre, plus d'info ci dessous :
 
 #### Autre
 
