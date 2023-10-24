@@ -2,7 +2,7 @@
 title: Feeds Personalisés Bluesky
 description: Une liste de custom feed personalisés blueksy
 published: true
-date: 2023-10-24T19:18:31.953Z
+date: 2023-10-24T19:30:37.489Z
 tags: bluesky, customfeeds
 editor: markdown
 dateCreated: 2023-10-04T17:05:16.337Z
@@ -12,18 +12,6 @@ dateCreated: 2023-10-04T17:05:16.337Z
 
 
 <h2 class="tabset">Tabs</h2>
-
-### Instructions
-
-> Utiliser ce **[formulaire](https://base.skyfleet.blue/form/0Bmzxqsv19BNgzWuo9Ikh_zhxODTX5E8BnVKStpO2nk)** pour nous envoyer vos meilleurs custom feeds
-{.is-success}
-
-
-#### Critères
-
-> le feed doit être maintenu
-> le feed doit être actif
-{.is-warning}
 
 ### Annuaire
 
@@ -40,6 +28,18 @@ dateCreated: 2023-10-04T17:05:16.337Z
 #### Autre
 > Au fur et à mesure qu'on reçoit de nouvelles catégories de custom feeds, cet annuaire sera modifié pour inclure les catégories suggérées. 
 {.is-info}
+
+### Instructions
+
+> Utiliser ce **[formulaire](https://base.skyfleet.blue/form/0Bmzxqsv19BNgzWuo9Ikh_zhxODTX5E8BnVKStpO2nk)** pour nous envoyer vos meilleurs custom feeds
+{.is-success}
+
+
+#### Critères
+
+> le feed doit être maintenu
+> le feed doit être actif
+{.is-warning}
 
 
 ### Création de CF
