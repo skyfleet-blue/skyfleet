@@ -2,7 +2,7 @@
 title: Feeds Personalisés Bluesky
 description: Une liste de custom feed personalisés blueksy
 published: true
-date: 2023-10-24T19:37:02.327Z
+date: 2023-10-24T19:39:43.932Z
 tags: bluesky, customfeeds
 editor: markdown
 dateCreated: 2023-10-04T17:05:16.337Z
@@ -39,9 +39,6 @@ dateCreated: 2023-10-04T17:05:16.337Z
   <iframe class="responsive-iframe" src="https://base.skyfleet.blue/public/grid/4W_lCTnwaL0S7wFwZ6zW3Yhf0byVeFD_3A8wh0Csf8g"></iframe>
 </div>
 
-#### Autre
-> Au fur et à mesure qu'on reçoit de nouvelles catégories de custom feeds, cet annuaire sera modifié pour inclure les catégories suggérées. 
-{.is-info}
 
 ### Instructions
 
@@ -56,6 +53,13 @@ dateCreated: 2023-10-04T17:05:16.337Z
 {.is-warning}
 
 
-### Tab
+### Catégorisation
 
-- 
+#### Autre
+
+Si vous ne trouvez pas une catégorie qui va bien avec votre Feed, utilisez la catégorie AUTRE
+un nouveau champ de texte va s'afficher et vous pouvez le remplir en suggérant une catégorie
+- essayer de choisir quelque chose de neutre, de général, qui pourra être utilisé par la communauté et pas uniquement pour votre feed. 
+
+> Au fur et à mesure qu'on reçoit de nouvelles catégories de custom feeds, cet annuaire sera modifié pour inclure les catégories suggérées. 
+{.is-info}
