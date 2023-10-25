@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-10-22T17:26:42.382Z
+date: 2023-10-25T13:54:28.746Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-06T14:48:25.778Z
@@ -83,6 +83,9 @@ Sky.app
 Klearsky
 
 - https://klearsky.pages.dev
+
+Twexit.nl
+- https://twexit.nl/
 
 ## Clients Android
 
@@ -235,6 +238,12 @@ So what was the hellthread you may ask ?
 
 ## Stats
 
+Atlas 
+- https://bsky.jazco.dev/
+
+Twexit.nl
+- https://twexit.nl/
+
 Bluesky Statistics
 - https://vqv.app/stats
 
@@ -271,52 +280,21 @@ New & Improved URLs And Domains From The Bluesky Firehose [observablehq.com](htt
 
 - https://autoregex.xyz/
 
+## Migration
+ - [Fedifinder](https://fedifinder.glitch.me/) - Your X/Twitter contacts on Bluesky and the fediverse
+ - [Follow the Sky](https://gggdomi.github.io/follow-the-sky/) - Find again in Bluesky people you follow on Twitter
+ - [Skeet](https://skeet.labnotes.org/) - find your Twitter or Mastodon mutuals on Bluesky
+ - [Skeeter](https://skeeter.streamlit.app/) - Twitter/Mastodon to Bluesky User Search
+ - [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome add-on to find your Twitter follows and followers on Bluesky
+
+
+
 
 ## Developers 
 
 le [coin des dev](https://skyfleet.blue/fr/dev) sur le wiki
 
 
-### A trier et segmenter : 
-
-> Source : https://blog.skyfleet.blue/tools/
-
-
-
-    Bluesky Overhaul chrome.google.com
-
-chrome.google.com
-
-
-    SkyLink - Bluesky DID Detector chrome.google.com
-
-chrome.google.com
-
-    Sky Follower Bridge chrome.google.com
-
-chrome.google.com
-
-
-    Sky Bridge skybridge.fly.dev
-
-skybridge.fly.dev
-
-    Notion – The all-in-one workspace for your notes, tasks, wikis, and databases. dolciss.notion.site
-
-dolciss.notion.site
-
-    Twexit.nl twexit.nl
-
-twexit.nl
-
-    ClearSky Search Tool bsky.thieflord.dev
-
-bsky.thieflord.dev
-
-
-    Skeet @ labnotes.org skeet.labnotes.org
-
-https://skeet.labnotes.org
 
 
 
