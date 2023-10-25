@@ -2,7 +2,7 @@
 title: Journalistes Francophones
 description: Un custom feeds des journalistes francophones sur Bluesky
 published: true
-date: 2023-10-25T14:42:02.827Z
+date: 2023-10-25T14:42:32.583Z
 tags: customfeeds, journalisme
 editor: markdown
 dateCreated: 2023-10-21T12:50:07.798Z
@@ -83,7 +83,7 @@ Simple demande à [@skyfleet.blue](https://bsky.app/profile/skyfleet.blue) sur B
 
 [Journalistes]()
 
-## Feed des comptes médias officiel
+## Feed des comptes médias officiels
 
 - [Médias FR](https://bsky.app/profile/did:plc:gc7pqgc337bwj2n5mbnkixzk/feed/aaagopqwcicxc)
 
