@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-10-25T13:56:45.514Z
+date: 2023-10-25T14:01:10.714Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-06T14:48:25.778Z
@@ -86,6 +86,9 @@ Klearsky
 
 Twexit.nl
 - https://twexit.nl/
+
+Comparatif entre clients/app
+- https://dolciss.notion.site/c03ea75995154731bc17192b340d2427?v=a5a7a90abca34fd897c74b767974dcde
 
 ## Clients Android
 
@@ -261,9 +264,12 @@ Bluesky Statistics
 Total Bluesky Accounts 
 - https://bluesky.denike.io
 
-Wolfgang wolfgang.raios.xyz
+Wolfgang 
 
 - https://wolfgang.raios.xyz
+
+Skycle
+- https://skycle.app/
 
 ## Recherche
 
@@ -306,7 +312,9 @@ New & Improved URLs And Domains From The Bluesky Firehose [observablehq.com](htt
 le [coin des dev](https://skyfleet.blue/fr/dev) sur le wiki
 
 
+## Status
 
+Bluesky - https://status.bsky.app/
 
 
 
