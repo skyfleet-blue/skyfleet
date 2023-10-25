@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-10-25T13:54:28.746Z
+date: 2023-10-25T13:56:45.514Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-06T14:48:25.778Z
@@ -97,6 +97,9 @@ Bluesky.app
 
 ## Clients iOs
 
+Bluesky
+- https://apps.apple.com/us/app/bluesky-social/id6444370199
+
 [Skeets](https://bsky.app/profile/skeets-app.bsky.social)
 
 - Beta [invite](https://docs.google.com/forms/d/e/1FAIpQLScEWzwOHGQUHgp8dr40jw0E4FnELOKTwhBVde1oFZWP9z0CpA/viewform?usp=sf_link)
@@ -104,6 +107,14 @@ Bluesky.app
 [Graysky](https://graysky.app/)
 
 - in Store : https://apps.apple.com/gb/app/graysky/id6448234181
+
+
+
+## Accessibilité 
+
+Get Alt Text 
+- https://bsky.app/profile/alt-text.bsky.social
+
 
 
 ## Decks
