@@ -2,7 +2,7 @@
 title: Feeds Personalisés Bluesky
 description: Une liste de custom feed personalisés blueksy
 published: true
-date: 2023-10-26T14:30:04.496Z
+date: 2023-10-26T22:00:40.775Z
 tags: bluesky, customfeeds
 editor: markdown
 dateCreated: 2023-10-04T17:05:16.337Z
@@ -62,7 +62,11 @@ dateCreated: 2023-10-04T17:05:16.337Z
 
 > le feed doit être maintenu
 > le feed doit être actif
+> le feed ne peut pas être limité à des bots qui font de la promo pour des produits
 {.is-warning}
+
+> On se réserve de virer les feeds qui vont à l'encontre de ces critères
+{.is-danger}
 
 
 ### Catégorisation
