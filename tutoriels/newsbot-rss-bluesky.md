@@ -2,7 +2,7 @@
 title: Comment déployer un News Bot RSS sur Bluesky
 description: 
 published: true
-date: 2023-10-27T19:31:42.269Z
+date: 2023-10-27T19:38:52.102Z
 tags: tutoriels
 editor: markdown
 dateCreated: 2023-10-27T19:31:42.269Z
@@ -22,7 +22,7 @@ dateCreated: 2023-10-27T19:31:42.269Z
 - la commande git installée
 - Docker et Docker-Compose installé
 
-<img src="https://blog.rmendes.net/uploads/2023/2023-08-14-13-48.png" width="600" height="334" alt="">
+<img src="https://blog.skyfleet.blue/uploads/2023/shapes-at-23-10-25-17.47.08.png" width="100%" height="" alt="">
 
 Pour l'exercice, on va déployer un newsbot https://disclose.ngo/
 C'est un média d'investigation. 
