@@ -2,7 +2,7 @@
 title: Accueil
 description: Un wiki de ressources sur Bluesky
 published: true
-date: 2023-10-22T15:20:26.532Z
+date: 2023-10-29T19:32:43.868Z
 tags: bluesky, ressources, conseils, astuces, tutoriels
 editor: markdown
 dateCreated: 2023-10-04T10:05:08.301Z
@@ -63,5 +63,7 @@ SAS sert comme point de contact pour toute une série de compte thématique et m
 ---
 
 ### Graph Gephi des comptes Bluesky de la Skyfleet et leurs followers
+
+![skyfleet.jpg](/images/skyfleet1.jpg)
 
 ![skyfleet.jpg](/images/skyfleet.jpg)
