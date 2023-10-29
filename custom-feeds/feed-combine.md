@@ -2,7 +2,7 @@
 title: Comment créer un feed combiné?
 description: mini tuto pour créer un feed sur bluesky à partir de plusieurs sources
 published: true
-date: 2023-10-29T22:37:46.855Z
+date: 2023-10-29T22:41:25.984Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-29T21:05:58.922Z
@@ -65,7 +65,9 @@ le [Feed](https://bsky.app/profile/did:plc:ykxvvec7hntiwmy4qk5g7kv5/feed/aaaehst
 
 - C'est pas une bonne pratique de mettre des tas de bloc pour chaque requête, il faut optimiser le preview du feed pour qu'il s'affiche le plus rapidement possible
 ![2023-10-29_22-58.jpg](/captures/2023-10-29_22-58.jpg)
-- Donc par exemple ici, si je voulais rajouter le mot RDC, il suffirait de changer le RegEx actuel comme par exemple : `\bcongo\b|\bRDC\b` sans rajouter un nouveau bloc regex.
+- Donc par exemple ici, si je voulais rajouter le mot RDC, il suffirait de changer le RegEx actuel comme par exemple : `\bcongo\b|\bRDC\b` sans rajouter un nouveau bloc regex. 
+source [@leandraa.fr](https://bsky.app/profile/leandraa.fr/post/3kcw4wzyddt2a)
+- Pas besoin de rajouter un stash + stash pop entre chaque requête, en tout cas pas pour deux requête, seul un stash + stash pop suffit, comme l'explique [@leandraa.fr](https://bsky.app/profile/leandraa.fr/post/3kcwcsg4ihy2a) ici.
 
 ## RegEx
 
