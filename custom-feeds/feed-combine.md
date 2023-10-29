@@ -2,7 +2,7 @@
 title: Comment créer un feed combiné?
 description: mini tuto pour créer un feed sur bluesky à partir de plusieurs sources
 published: true
-date: 2023-10-29T21:05:58.922Z
+date: 2023-10-29T22:09:52.603Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-29T21:05:58.922Z
@@ -28,8 +28,9 @@ On veut pas tous les posts du bot, car ils concernent d'autres pays d'Afrique, d
 
 ## Skyfeed.app
 
-- Stash 1
+
 - Requête A
+- Stash 1
 - Stash pop 1
 - Requête B
 - Stash 2
@@ -37,8 +38,9 @@ On veut pas tous les posts du bot, car ils concernent d'autres pays d'Afrique, d
 - Remove duplicate
 - Sort
 
-![2023-10-29_21-46_1.jpg](/captures/2023-10-29_21-46_1.jpg)
-![2023-10-29_21-47.jpg](/captures/2023-10-29_21-47.jpg)
+![2023-10-29_22-49.jpg](/captures/2023-10-29_22-49.jpg)
+![2023-10-29_22-49_1.jpg](/captures/2023-10-29_22-49_1.jpg)
+
 
 > Donc ici on a combiné les posts du compte @africa.skyfleet.blue qui contiennent des liens vers BBC.com et vers Actualite.cd (tous les deux en rapport au Congo)
 {.is-info}
@@ -46,7 +48,7 @@ On veut pas tous les posts du bot, car ils concernent d'autres pays d'Afrique, d
 > On a ajouté un nouveau bloc de tous le réseaux Bluesky, configuré sur les derniers 7 jours, de tous les posts content le mot "congo" ou toutes les images dont le ALT contien le mot congo. 
 {.is-warning}
 
-> Avant et après chaque bloc on a un stash+pop, chaque stash+pop contien un ID, dans notre cas de figure $5zxyusy pour la première requête et $ikbwj7a pour la deuxième requête, **ces blocs vont toujours ensemble**, si vous en effacez un pour recommencer la démarche, effacé sa paire pour éviter les erreurs dans Skyfeed.app
+> Après chaque input+regex on a un stash+pop, chaque stash+pop contien un ID, dans notre cas de figure $5zxyusy pour la première requête et $ikbwj7a pour la deuxième requête, **ces blocs vont toujours ensemble**, si vous en effacez un pour recommencer la démarche, effacé sa paire pour éviter les erreurs dans Skyfeed.app
 {.is-success}
 
 
@@ -63,4 +65,25 @@ On veut pas tous les posts du bot, car ils concernent d'autres pays d'Afrique, d
 le [Feed](https://bsky.app/profile/did:plc:ykxvvec7hntiwmy4qk5g7kv5/feed/aaaehstriebno) est disponible ici.
 
 
-Et ainsi se termine ce petit tutoriel
+## Optimisation
+
+- C'est pas une bonne pratique de mettre des tas de bloc pour chaque requête, il faut optimiser le preview du feed pour qu'il s'affiche le plus rapidement possible
+![2023-10-29_22-58.jpg](/captures/2023-10-29_22-58.jpg)
+- Donc par exemple ici, si je voulais rajouter le mot RDC, il suffirait de changer le RegEx actuel comme par exemple : `\bcongo\b|\bRDC\b`
+
+## RegEx
+
+En utilisant l'expression régulière `\bcongo\b`, vous créez une expression qui correspond à une chaîne de caractères qui contient le mot "**congo**" comme un mot entier, c'est-à-dire qu'il doit être entouré par des limites de mots ou des espaces blancs.
+
+Voici ce que font les parties de cette regex :
+
+`\b` est un ancre de limite de mot (word boundary en anglais). Elle ne correspond pas à un caractère lui-même, mais elle représente une position dans la chaîne de caractères où un mot commence ou se termine. Elle permet de s'assurer que "congo" est un mot entier et n'est pas inclus dans un mot plus long. Par exemple, il ne correspondra pas à "Congoles" car le "o" est entouré de lettres.
+
+  `congo` est la séquence de caractères que vous recherchez.
+
+`\b` est une autre ancre de limite de mot qui assure que "congo" se termine bien comme un mot entier.
+
+Ainsi, `\bcongo\b` correspondra à des occurrences de "**congo**" lorsqu'il est entouré de limites de mots ou d'espaces blancs, mais il ne correspondra pas à des occurrences de "congo" au milieu d'autres mots. Par exemple, il correspondra à "Le Congo est un pays" mais pas à "La Congomania".
+
+le `|` permet de délimiter chaque mots clefs et d'en rajouter à la suite dans le même bloc RegEx
+ainsi `\bcongo\b|\bRDC\b` va faire un match avec des posts contenant le mot entier **congo** ou **DRC**
