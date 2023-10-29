@@ -2,7 +2,7 @@
 title: Comment créer un feed combiné?
 description: mini tuto pour créer un feed sur bluesky à partir de plusieurs sources
 published: true
-date: 2023-10-29T22:09:52.603Z
+date: 2023-10-29T22:11:17.094Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-29T21:05:58.922Z
@@ -77,13 +77,13 @@ En utilisant l'expression régulière `\bcongo\b`, vous créez une expression qu
 
 Voici ce que font les parties de cette regex :
 
-`\b` est un ancre de limite de mot (word boundary en anglais). Elle ne correspond pas à un caractère lui-même, mais elle représente une position dans la chaîne de caractères où un mot commence ou se termine. Elle permet de s'assurer que "congo" est un mot entier et n'est pas inclus dans un mot plus long. Par exemple, il ne correspondra pas à "Congoles" car le "o" est entouré de lettres.
+`\b` est un ancre de limite de mot (word boundary en anglais). Elle ne correspond pas à un caractère lui-même, mais elle représente une position dans la chaîne de caractères où un mot commence ou se termine. Elle permet de s'assurer que "**congo**" est un mot entier et n'est pas inclus dans un mot plus long. Par exemple, il ne correspondra pas à "Congolais" car le "o" est entouré de lettres.
 
   `congo` est la séquence de caractères que vous recherchez.
 
 `\b` est une autre ancre de limite de mot qui assure que "congo" se termine bien comme un mot entier.
 
-Ainsi, `\bcongo\b` correspondra à des occurrences de "**congo**" lorsqu'il est entouré de limites de mots ou d'espaces blancs, mais il ne correspondra pas à des occurrences de "congo" au milieu d'autres mots. Par exemple, il correspondra à "Le Congo est un pays" mais pas à "La Congomania".
+Ainsi, `\bcongo\b` correspondra à des occurrences de "**congo**" lorsqu'il est entouré de limites de mots ou d'espaces blancs, mais il ne correspondra pas à des occurrences de "congo" au milieu d'autres mots. Par exemple, il correspondra à "Le Congo est un pays" mais pas à "Congolais".
 
 le `|` permet de délimiter chaque mots clefs et d'en rajouter à la suite dans le même bloc RegEx
 ainsi `\bcongo\b|\bRDC\b` va faire un match avec des posts contenant le mot entier **congo** ou **DRC**
