@@ -2,7 +2,7 @@
 title: Comment déployer un News Bot RSS sur Bluesky
 description: 
 published: true
-date: 2023-10-27T19:44:32.319Z
+date: 2023-10-29T16:17:10.175Z
 tags: tutoriels
 editor: markdown
 dateCreated: 2023-10-27T19:31:42.269Z
@@ -34,7 +34,7 @@ Pas besoin d'un gros serveurs, il suffit d'avoir un ordinateur, évidemment si v
 Et sinon, votre machine, que ce soit sur Windows, Linux ou macOS, tout est bon !
 
 #### un compte bluesky dédié
-- Résultat de ce tuto visible sur ce bot : (sans les images parce que le site à la source ne support pas bien la technologie OpenGraph)
+- Résultat de ce tuto visible sur ce bot : 
 - [disclosengo.bsky.social](https://bsky.app/profile/disclosengo.bsky.social)
  
 #### un "app password"
