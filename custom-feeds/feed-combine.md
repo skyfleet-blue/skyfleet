@@ -2,7 +2,7 @@
 title: Comment créer un feed combiné?
 description: mini tuto pour créer un feed sur bluesky à partir de plusieurs sources
 published: true
-date: 2023-10-29T22:42:01.514Z
+date: 2023-10-29T22:51:38.731Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-29T21:05:58.922Z
@@ -85,3 +85,8 @@ Ainsi, `\bcongo\b` correspondra à des occurrences de "**congo**" lorsqu'il est 
 
 le `|` permet de délimiter chaque mots clefs et d'en rajouter à la suite dans le même bloc RegEx
 ainsi `\bcongo\b|\bRDC\b` va faire un match avec des posts contenant le mot entier **congo** ou **DRC**
+
+
+## Partager ce tutoriel
+
+Voici le [lien](https://bsky.app/profile/skyfleet.blue/post/3kcwevs3dmz2x) vers le post pour reposter ce tutoriels sur Bluesky ou y faire référence
