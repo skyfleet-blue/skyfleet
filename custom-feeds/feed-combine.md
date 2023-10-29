@@ -2,7 +2,7 @@
 title: Comment créer un feed combiné?
 description: mini tuto pour créer un feed sur bluesky à partir de plusieurs sources
 published: true
-date: 2023-10-29T22:11:17.094Z
+date: 2023-10-29T22:15:51.333Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-29T21:05:58.922Z
@@ -10,7 +10,7 @@ dateCreated: 2023-10-29T21:05:58.922Z
 
 # Comment créer un feed combiné?
 
-Imaginons un cas de figure concret, celui qui m'a occupé en partie ce soir en me posant un [colle](https://bsky.app/profile/najat.bsky.social/post/3kcw274tv3l2p)
+Imaginons un cas de figure concret, celui que m'a posé cette [colle](https://bsky.app/profile/najat.bsky.social/post/3kcw274tv3l2p), on veut un feed qui prend des posts du réseaux et en même temps qui prend certains post d'un compte qui post sur le Congo. 
 
 ## Contexte : un [feed](https://bsky.app/profile/did:plc:ykxvvec7hntiwmy4qk5g7kv5/feed/aaaehstriebno) sur le Congo par [@najat](https://bsky.app/profile/najat.bsky.social)
 
@@ -69,7 +69,7 @@ le [Feed](https://bsky.app/profile/did:plc:ykxvvec7hntiwmy4qk5g7kv5/feed/aaaehst
 
 - C'est pas une bonne pratique de mettre des tas de bloc pour chaque requête, il faut optimiser le preview du feed pour qu'il s'affiche le plus rapidement possible
 ![2023-10-29_22-58.jpg](/captures/2023-10-29_22-58.jpg)
-- Donc par exemple ici, si je voulais rajouter le mot RDC, il suffirait de changer le RegEx actuel comme par exemple : `\bcongo\b|\bRDC\b`
+- Donc par exemple ici, si je voulais rajouter le mot RDC, il suffirait de changer le RegEx actuel comme par exemple : `\bcongo\b|\bRDC\b` sans rajouter un nouveau bloc regex.
 
 ## RegEx
 
