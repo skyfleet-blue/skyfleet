@@ -2,7 +2,7 @@
 title: Comment créer un feed combiné?
 description: mini tuto pour créer un feed sur bluesky à partir de plusieurs sources
 published: true
-date: 2023-10-29T22:36:53.080Z
+date: 2023-10-29T22:37:46.855Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-29T21:05:58.922Z
@@ -31,8 +31,8 @@ On veut pas tous les posts du bot, car ils concernent d'autres pays d'Afrique, d
 
 - Requête A
 - Requête B
-- Stash 2
-- Stash pop 2
+- Stash 1
+- Stash pop 1
 - Remove duplicate
 - Sort
 
