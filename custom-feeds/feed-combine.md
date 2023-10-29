@@ -2,7 +2,7 @@
 title: Comment créer un feed combiné?
 description: mini tuto pour créer un feed sur bluesky à partir de plusieurs sources
 published: true
-date: 2023-10-29T22:34:10.423Z
+date: 2023-10-29T22:36:53.080Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-29T21:05:58.922Z
@@ -46,12 +46,11 @@ Stash stocke les résultats en cours pour un usage futur, et stash pop rajoute c
 > Donc ici on a combiné les posts du compte @africa.skyfleet.blue qui contiennent des liens vers BBC.com et vers Actualite.cd (tous les deux en rapport au Congo)
 {.is-info}
 
-> On a ajouté un nouveau bloc de tous le réseaux Bluesky, configuré sur les derniers 7 jours, de tous les posts contenant les mots **congo** et **DRC** (on aurait aussi pu inclure les ALT contentant ces même mots) 
-{.is-warning}
-
-> Après chaque input+regex on a un stash+pop, chaque stash+pop contien un ID, dans notre cas de figure $5zxyusy pour la première requête et $ikbwj7a pour la deuxième requête, **ces blocs vont toujours ensemble**, si vous en effacez un pour recommencer la démarche, effacé sa paire pour éviter les erreurs dans Skyfeed.app
+> Après le premier bloc, la requête A, on ajoute un bloc Stash, ça va nous permettre d'ajouter la requête B, mais de garder les posts de la requête A dans le Feed, et avec le Stash Pop à la fin, ça nous permet de tout joindre et d'avoir les posts des deux requêtes.
 {.is-success}
 
+> On a ajouté un nouveau bloc de tout le réseaux Bluesky, configuré sur les derniers 7 jours, de tous les posts contenant les mots **congo** et **DRC** (on aurait aussi pu inclure les ALT contentant ces même mots) 
+{.is-warning}
 
 ## Preview
 
