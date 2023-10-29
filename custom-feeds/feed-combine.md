@@ -2,7 +2,7 @@
 title: Comment créer un feed combiné?
 description: mini tuto pour créer un feed sur bluesky à partir de plusieurs sources
 published: true
-date: 2023-10-29T22:15:51.333Z
+date: 2023-10-29T22:21:49.494Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-29T21:05:58.922Z
@@ -32,6 +32,11 @@ On veut pas tous les posts du bot, car ils concernent d'autres pays d'Afrique, d
 - Requête A
 - Stash 1
 - Stash pop 1
+
+
+> Comme l'explique très bien [@mwyann.fr](https://bsky.app/profile/mwyann.fr/post/3kcw3c7bpt32i) : 
+Stash stocke les résultats en cours pour un usage futur, et stash pop rajoute ces résultats à la sélection en cours. Donc l'idée c'est de faire une première sélection (input+regex), tu stash les résultats, puis tu fais une deuxième sélection (input+regex), et enfin tu pop + sort + remove duplicate.
+
 - Requête B
 - Stash 2
 - Stash pop 2
@@ -51,10 +56,6 @@ On veut pas tous les posts du bot, car ils concernent d'autres pays d'Afrique, d
 > Après chaque input+regex on a un stash+pop, chaque stash+pop contien un ID, dans notre cas de figure $5zxyusy pour la première requête et $ikbwj7a pour la deuxième requête, **ces blocs vont toujours ensemble**, si vous en effacez un pour recommencer la démarche, effacé sa paire pour éviter les erreurs dans Skyfeed.app
 {.is-success}
 
-
-- Comme l'explique très bien [@mwyann.fr](https://bsky.app/profile/mwyann.fr/post/3kcw3c7bpt32i) : 
-
-> Stash stocke les résultats en cours pour un usage futur, et stash pop rajoute ces résultats à la sélection en cours. Donc l'idée c'est de faire une première sélection (input+regex), tu stash les résultats, puis tu fais une deuxième sélection (input+regex), et enfin tu pop + sort + remove duplicate.
 
 ## Preview
 
