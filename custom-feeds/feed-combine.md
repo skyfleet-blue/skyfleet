@@ -2,7 +2,7 @@
 title: Comment créer un feed combiné?
 description: mini tuto pour créer un feed sur bluesky à partir de plusieurs sources
 published: true
-date: 2023-10-29T22:51:38.731Z
+date: 2023-10-29T23:06:59.485Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-29T21:05:58.922Z
@@ -55,6 +55,8 @@ Stash stocke les résultats en cours pour un usage futur, et stash pop rajoute c
 ## Preview
 
 ![2023-10-29_22-00.jpg](/captures/2023-10-29_22-00.jpg)
+
+![2023-10-30_00-05.jpg](/captures/2023-10-30_00-05.jpg)
 
 - Ici on peut voir 2 posts du bot qui pointe vers actualite.cd et qui sont en rapport avec le Congo et un post provenant du réseau qui mentionne le terme Congo. 
 
