@@ -2,7 +2,7 @@
 title: Comment combiner un newsbot RSS pour générer des Customs Feeds thématiques ?
 description: mise en place d’utilisation des customs feeds sur Bluesky basé sur un News Bot qui va générer le contenu, ce qui va nous permettre de segmenter l’activité du newsbot en différents customs feeds auxquels les utilisateurs vont pouvoir s’abonner.
 published: true
-date: 2023-10-30T18:09:33.306Z
+date: 2023-10-30T18:10:09.601Z
 tags: customfeeds, newsbot, rss
 editor: markdown
 dateCreated: 2023-10-30T17:19:00.246Z
@@ -26,12 +26,6 @@ L'idée avec ce tuto, c'est de démontrer une mise en place d'utilisation des cu
 
 
 J'avais besoin d'une ancre stable sur lequel me baser pour chaque catégorie Le Monde et en analysant les URL's des articles Le Monde on peut constater qu'en fonction de la Section attribuée à la source, l'URL change en fonction de différent mots clef. (voir section skyfeed ci dessous)
-
-### Skyfeed.app
-
-
-Etc.. etc..ce qui me permet de prendre le dossier/catégorie culture, actu, sports, france etc...
-et d'avoir une segmentation simple sans devoir passer par des tas de requête regex qui ne donneraient pas une segmentation aussi simple et efficace. 
 
 
 ## Résultat de la veille sur Bluesky
