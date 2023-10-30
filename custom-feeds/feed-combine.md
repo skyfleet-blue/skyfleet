@@ -2,7 +2,7 @@
 title: Comment créer un feed combiné?
 description: mini tuto pour créer un feed sur bluesky à partir de plusieurs sources
 published: true
-date: 2023-10-29T23:10:15.906Z
+date: 2023-10-30T11:39:07.181Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-29T21:05:58.922Z
@@ -12,7 +12,9 @@ dateCreated: 2023-10-29T21:05:58.922Z
 
 Imaginons un cas de figure concret, celui que m'a posé cette [colle](https://bsky.app/profile/najat.bsky.social/post/3kcw274tv3l2p), on veut un feed qui prend des posts du réseaux et en même temps qui prend certains post d'un compte qui post sur le Congo. 
 
-## Contexte : un [feed](https://bsky.app/profile/did:plc:ykxvvec7hntiwmy4qk5g7kv5/feed/aaaehstriebno) sur le Congo par [@najat](https://bsky.app/profile/najat.bsky.social)
+## Contexte : 
+
+un [feed](https://bsky.app/profile/did:plc:ykxvvec7hntiwmy4qk5g7kv5/feed/aaaehstriebno) sur le Congo par [@najat](https://bsky.app/profile/najat.bsky.social)
 
 - On veut récupérer les [posts](https://bsky.app/search?q=congo) du réseaux Bluesky qui parle du Congo
 - On a un bot [@Africa.skyfleet.blue](https://bsky.app/profile/did:plc:zryecagiz2pfjw2f27twv7h6) dont certains posts, pas tous, sont des posts provenant de deux sources d'info sur le Congo 
