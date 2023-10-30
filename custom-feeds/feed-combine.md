@@ -1,8 +1,8 @@
 ---
-title: Comment créer un feed combiné?
+title: Redirection feed combiné?
 description: mini tuto pour créer un feed sur bluesky à partir de plusieurs sources
 published: true
-date: 2023-10-30T16:49:30.208Z
+date: 2023-10-30T17:00:31.562Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-29T21:05:58.932Z
