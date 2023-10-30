@@ -2,330 +2,272 @@
 title: Tools for Bluesky
 description: Tools, extensions and helpers for Bluesky
 published: true
-date: 2023-10-06T14:58:48.403Z
+date: 2023-10-30T11:43:04.178Z
 tags: bluesky, tools
 editor: markdown
 dateCreated: 2023-10-06T14:52:57.331Z
 ---
 
-# Third party tools, extensions, helpers
+# Third-party Tools, Extensions, Helpers, Threaders
 
-### Helpers
+## Crossposters
 
-### Extensions
+[Dev] An tool for cross-posting from Bluesky to X and Mastodon can be found [here](https://github.com/Linus2punkt0/bluesky-crossposter) 📌
 
-### Tools
+---
+[Dev] An tool for cross-posting from X to Bluesky and Mastodon can be found [here](https://github.com/louisgrasset/touitomamout)
 
-### Developers 
+## Threads
 
+[Thread Splitter](https://lemonmeant.github.io/splitter/) creates threads with images on Bluesky
 
-### To sort : 
+---
+BlueThread by [asmoth360](https://bsky.app/profile/asmoth360.bsky.social/post/3kb75vrl6jc2c)
+- https://bluethread.pythonanywhere.com/
 
-    Blueviewer blueviewer.pages.dev
+---
+🌤 Skythread, an app for creating [Threads](https://mackuba.github.io/skythread/) on Bluesky
 
-blueviewer.pages.dev
+---
+ThreadWriter for Bluesky
+- [ThreadWriter](https://this.how/threadWriterForBluesky/)
 
+---
+Blueviewer: view a Bluesky thread, even outside of Bluesky
+- https://blueviewer.pages.dev
 
-    Connectsky - A Bluesky Client chrome.google.com
+---
+Bluesky Thread Viewer
+- [bskythreadreader.glitch.me](https://bskythreadreader.glitch.me)
 
-chrome.google.com
+---
+A thread or Citation Thread unroller
 
-    oGraph Bluesky Poster chrome.google.com
+bsky [thread](https://retr0.id/stuff/bskythreads/) unroller by [@retr0.id](https://bsky.app/profile/retr0.id)
 
-chrome.google.com
+---
+Skythread
+- https://mackuba.github.io
 
-    bsky thread unroller retr0.id
+---
+Skyview
+- https://skyview.social/
 
-retr0.id
+## Web Clients
 
-    Bluesky Developer Mode chrome.google.com
+Bsky.app
+- https://bsky.app
 
-chrome.google.com
+Vsky.social
+- https://www.vsky.social/
 
-    boykisser.dev.stxgln.online/p/4ygqkisq1vwu boykisser.dev.stxgln.online
-
-boykisser.dev.stxgln.online
-
-    BlueSky Wrapper blue.amazingca.dev
-
-blue.amazingca.dev
-
-    deck.blue deck.blue
-
-deck.blue
-
-    www.vsky.social/ vsky.social
-
-www.vsky.social
-
-    GitHub - jcsalterego/Sky.app: Sky.app is a great way to use Bluesky Social on MacOS, featuring keyboard shortcuts, Dark Mode Sync, and …
-
-github.com
-
-    Langit langit.pages.dev
+Kite | Better Bluesky Client kite.black
+- https://kite.black
 
 langit.pages.dev
+- [Mobile web client](https://langit.pages.dev/)
 
-    SkyTools skytools.anon5r.com
+Sky.app
+- [MacOS client](https://github.com/jcsalterego/Sky.app)
 
-skytools.anon5r.com
+Klearsky
+- https://klearsky.pages.dev
 
-    Skythread mackuba.github.io
+Twexit.nl
+- https://twexit.nl/
 
-mackuba.github.io
+Comparison of clients/apps
+- https://dolciss.notion.site/c03ea75995154731bc17192b340d2427?v=a5a7a90abca34fd897c74b767974dcde
 
-    GitHub - ianklatzco/psky.app: vxtwitter for bsky (preview urls by rewriting them) github.com
+## Android Clients
 
-github.com
+[Graysky](https://graysky.app/)
 
-    graysky.social - get your community handle for Bluesky graysky.social
+Bluesky.app
+- https://play.google.com/store/apps/details?id=xyz.blueskyweb.app
 
-graysky.social
+## iOS Clients
 
-    poll.blue poll.blue
+Bluesky
+- https://apps.apple.com/us/app/bluesky-social/id6444370199
 
-poll.blue
+[Skeets](https://bsky.app/profile/skeets-app.bsky.social)
 
-    GitHub - Linus2punkt0/bluesky-crossposter: An app for crossposting your posts from bluesky to twitter and mastodon github.com
+- Beta [invite](https://docs.google.com/forms/d/e/1FAIpQLScEWzwOHGQUHgp8dr40jw0E4FnELOKTwhBVde1oFZWP9z0CpA/viewform?usp=sf_link)
 
-github.com
+[Graysky](https://graysky.app/)
 
-    Blockenheimer for Bluesky blockenheimer.click
+- in Store: https://apps.apple.com/gb/app/graysky/id6448234181
 
-blockenheimer.click
+## Accessibility
 
-    Bannerizer bannerizer.glitch.me
+Get Alt Text
+- https://bsky.app/profile/alt-text.bsky.social
 
-bannerizer.glitch.me
+## Decks
 
-    t.ly/p5mYp t.ly
+@deck.blue
+- https://deck.blue
 
-t.ly
+Skyfeed.app
+- https://skyfeed.app
 
-    Bsky Team Check bsky-team-check.mozzius.dev
+Skydeck
+- https://skydeck.social/
 
-bsky-team-check.mozzius.dev
+Bluedeck
+- https://bluedeck.app/board/
 
-    Thread Cutter lemonmeant.github.io
+Tokimeki
+- https://tokimekibluesky.vercel.app/
 
-lemonmeant.github.io
+## Extensions
 
-    Thread Writer for Bluesky this.how
+[Connectsky](https://chrome.google.com/webstore/detail/connectsky-a-bluesky-clie/dfjlfmdhkgcpendpfflnlaedfgaoiaed) - A Bluesky Client (Chrome, Edge, Vivaldi)
 
-this.how
+---
+[Ograph Bluesky Poster](https://chrome.google.com/webstore/detail/ograph-bluesky-poster/kiddamcckmefboigpmhdemfccdbfmago) is a bluesky client extension that uses the URL of the current tab to post an embed card to Bluesky (Edge, Chrome, Vivaldi, soon Firefox)
 
-    bash · main · Olivier BEAUTIER / bsky · GitLab gitlab.com
+---
+Bluesky Developer Mode [Link](https://chrome.google.com/webstore/detail/bluesky-developer-mode/dbbbealgdhkebljiilocpbolkchhigdh)
 
-gitlab.com
+## Helpers
 
-    Bluestream bluestream.deno.dev
+---
+Looking to share a Bluesky link with someone who is not on Bluesky? 📌
 
-bluestream.deno.dev
+A tool by [@jordanreger.com](https://bsky.app/profile/jordanreger.com)
+[Demo](https://bsky.deno.dev/profile/jordanreger.com/post/3k656mhl57g2t) with image
 
-    goodfeeds: The Guide to Feeds goodfeeds.co
+Simply replace the domain **bsky.app** in the URL you want to share with **bsky.deno.dev**
+and you're good to go; it's shareable outside of Bluesky!
 
-goodfeeds.co
+## Toolbox
+A tool to find out who your invites were sent to and when your next invite code is coming? It's [here](https://skytools.anon5r.com/invite-code) 📍
 
-    BlueDeck - Post like a pro bluedeck.app
+---
+SkyTools: a [Toybox](https://skytools.anon5r.com/) for Bluesky 📌 📍
 
-bluedeck.app
+---
+Blue Mirage: Track all the Follows of another user
+- https://jiftechnify.github.io/blue-mirage/
 
-    bsky.html bsky.deno.dev
+---
+blockenheimer: a mass blocking tool for bluesky.app by [Boykisser](https://boykisser.dev.stxgln.online/)
+- https://blockenheimer.click/
 
-bsky.deno.dev
+---
+Bluesky Social Wrapper
+- https://blue.amazingca.dev/
 
-    Account - Bluesky Social account.bsky.app
+---
+Bannerizer
+- https://bannerizer.glitch.me
 
-account.bsky.app
+---
+An RSS Feed Generator for Bluesky
+- https://bluestream.deno.dev/
 
-    hrbrmstr / 21 Recipes For Mining BlueSky Data · GitLab gitlab.com
+---
+Bsky HTML Proxy
+- https://bsky.deno.dev/
 
-gitlab.com
+---
+Bluesky Posts Heatmap Generator
+- https://bluesky-heatmap.fly.dev
 
-    New & Improved URLs And Domains From The Bluesky Firehose observablehq.com
+---
+ClearSky Search Tool bsky.thieflord.dev
+- https://bsky.thieflord.dev
 
-observablehq.com
+---
+Handles | @handle and did:plc Tracker
+- https://plc-handle-tracker.kpherox.dev
 
-    Total Bluesky Accounts - denike.io bluesky.denike.io
+---
+Bluesky DID/Post Resolver
+- https://rmdes.github.io
 
-bluesky.denike.io
+---
+Blueskies ahead viewer:
+- https://blue-skies-ahead.glitch.me/
 
-    7 simple steps to use a domain name as a handle on BlueSky - Domain Name Wire | Domain Name News domainnamewire.com
+## Poll / Survey
 
-domainnamewire.com
+Poll.blue
+- https://poll.blue
 
-    Bluesky Posts Heatmap Generator bluesky-heatmap.fly.dev
+## Domains
 
-bluesky-heatmap.fly.dev
+Buy a domain name directly through Bluesky/Namecheap
+and configure your bsky.social account to use it, no technical knowledge required.
 
-    Klearsky klearsky.pages.dev
+- https://account.bsky.app
 
-klearsky.pages.dev
+---
+[Skyname](https://skyna.me/) BETA
+another provider of pseudos under a dedicated domain for Bluesky
 
-    www.autoregex.xyz/ autoregex.xyz
+## Hellthreads Crumbles
 
-www.autoregex.xyz
+So what was the hellthread, you may ask?
+- https://nori.gay/hellthread/
 
-    blueskydeck blueskydeck.com
+## Stats
 
-blueskydeck.com
+Atlas
+- https://bsky.jazco.dev/
 
-    Bluesky ? Manuel de démarrage rapide ecranmobile.fr
+Twexit.nl
+- https://twexit.nl/
 
-www.ecranmobile.fr
+Bluesky Statistics
+- https://vqv.app/stats
 
-    GitHub - fishttp/awesome-bluesky: A list of all known tools available for the Bluesky platform github.com
+Total Bluesky Accounts
+- https://bluesky.denike.io
 
-github.com
+Wolfgang
+- https://wolfgang.raios.xyz
 
-    Comment déployer un news bot RSS sur Bluesky? blog.rmendes.net
+Skycle
+- https://skycle.app/
 
-blog.rmendes.net
+Skystats
+- https://skystats.social/
 
-    poll.blue poll.blue
+## Search
 
-poll.blue
+Firesky
+- https://firesky.tv
 
-    Bluesky Overhaul chrome.google.com
+## DATA / Viz
 
-chrome.google.com
+[BlueskyToGephi](https://blog.totetmatt.fr/bskytogephi/)
+- https://github.com/totetmatt/bskytogephi/blob/main/README.md
 
-    BlueSky for Scientists blueskyscience.steveharoz.com
+---
+[hrbrmstr](https://rud.is/books/21-recipes-bsky/) / 21 Recipes For Mining BlueSky Data
+- [GitLab](https://gitlab.com/hrbrmstr/21-recipes-bsky)
 
-blueskyscience.steveharoz.com
+---
+New & Improved URLs And Domains From The Bluesky Firehose [observablehq.com](https://observablehq.com/@hrbrmstr/new-improved-urls-and-domains-from-the-bluesky-firehose)
 
-    Bluesky. Les choses à savoir. - Coredump fenarinarsa.com
+## Regex
 
-www.fenarinarsa.com
+- https://autoregex.xyz/
 
-    Guide de démarrage sur Bluesky - Weblog de Mwyann mwyann.fr
+## Migration
+- [Fedifinder](https://fedifinder.glitch.me/) - Your X/Twitter contacts on Bluesky and the fediverse
+- [Follow the Sky](https://gggdomi.github.io/follow-the-sky/) - Find people you follow on Twitter in Bluesky
+- [Skeet](https://skeet.labnotes.org/) - find your Twitter or Mastodon mutuals on Bluesky
+- [Skeeter](https://skeeter.streamlit.app/) - Twitter/Mastodon to Bluesky User Search
+- [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome add-on to find your Twitter follows and followers on Bluesky
 
-www.mwyann.fr
+## Developers
 
-    Getting Started On Bluesky - Mwyann's Weblog mwyann.us
+[Dev Corner](https://skyfleet.blue/en/dev) on the wiki
 
-www.mwyann.us
+## Status
 
-    SkyLink - Bluesky DID Detector chrome.google.com
-
-chrome.google.com
-
-    Sky Follower Bridge chrome.google.com
-
-chrome.google.com
-
-    ClearSky Search Tool bsky.thieflord.dev
-
-bsky.thieflord.dev
-
-    Handles | @handle and did:plc Tracker plc-handle-tracker.kpherox.dev
-
-plc-handle-tracker.kpherox.dev
-
-    Bluesky DID Resolver rmdes.github.io
-
-rmdes.github.io
-
-    Sky Bridge skybridge.fly.dev
-
-skybridge.fly.dev
-
-    Notion – The all-in-one workspace for your notes, tasks, wikis, and databases. dolciss.notion.site
-
-dolciss.notion.site
-
-    Graysky - a bluesky client graysky.app
-
-graysky.app
-
-    SkyFeed Status – updown.io status.skyfeed.xyz
-
-status.skyfeed.xyz
-
-    Bluesky Stats vqv.app
-
-vqv.app
-
-    Bluesky Social Status status.bsky.app
-
-status.bsky.app
-
-    Bluesky - Apps on Google Play play.google.com
-
-play.google.com
-
-    ‎Bluesky Social apps.apple.com
-
-apps.apple.com
-
-    SkyDeck skydeck.social
-
-skydeck.social
-
-    Twexit.nl twexit.nl
-
-twexit.nl
-
-    ClearSky Search Tool bsky.thieflord.dev
-
-bsky.thieflord.dev
-
-    Wolfgang wolfgang.raios.xyz
-
-wolfgang.raios.xyz
-
-    Atlas - Engagement-Based Social Graph for BlueSky by Jaz (jaz.bsky.social) bsky.jazco.dev
-
-bsky.jazco.dev
-
-    Firesky firesky.tv
-
-firesky.tv
-
-    SkyFeed skyfeed.app
-
-skyfeed.app
-
-    goodfeeds goodfeeds.co
-
-goodfeeds.co
-
-    Skeet @ labnotes.org skeet.labnotes.org
-
-https://skeet.labnotes.org
-
-    Bluesky bsky.app
-
-https://bsky.app
-
-    Get Alt Text (@alt-text.bsky.social) bsky.app
-
-https://bsky.app
-
-    My Month in Hell schwegler.gay
-
-https://schwegler.gay
-
-    hellthread nori.gay
-
-https://nori.gay
-
-    Hellthread / Hellrope (Bluesky) knowyourmeme.com
-
-https://knowyourmeme.com
-
-    TOKIMEKI Bluesky tokimekibluesky.vercel.app
-
-https://tokimekibluesky.vercel.app
-
-    Kite | Better Bluesky Client kite.black
-
-https://kite.black
-
-    How to Bluesky plutopsyche.medium.com
-
-plutopsyche.medium.com
-
-    Bluesky Social Feeds @ BlueskyFeeds.com blueskyfeeds.com
-
-blueskyfeeds.com
+Bluesky - https://status.bsky.app/
