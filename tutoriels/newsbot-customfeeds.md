@@ -2,7 +2,7 @@
 title: Comment combiner un newsbot RSS pour générer des Customs Feeds thématiques ?
 description: mise en place d’utilisation des customs feeds sur Bluesky basé sur un News Bot qui va générer le contenu, ce qui va nous permettre de segmenter l’activité du newsbot en différents customs feeds auxquels les utilisateurs vont pouvoir s’abonner.
 published: true
-date: 2023-10-30T17:19:00.246Z
+date: 2023-10-30T17:56:25.121Z
 tags: customfeeds, newsbot, rss
 editor: markdown
 dateCreated: 2023-10-30T17:19:00.246Z
@@ -13,7 +13,8 @@ L'idée avec ce tuto, c'est de démontrer une mise en place d'utilisation des cu
 - D'abord, j'ai été récupérer les [Flux RSS](https://www.lemonde.fr/actualite-medias/article/2019/08/12/les-flux-rss-du-monde-fr_5498778_3236.html
 ) de chez LeMonde.fr
 - Ensuite, j'ai mis en place un agrégateur de flux afin de rassembler les différents flux d'info par dossier (actu, culture, planète etc..) 
-- Ensuite, j'ai mis en place le newsbot en tant que tel en [suivant mon tuto](https://blog.rmendes.net/2023/08/14/comment-dployer-un.html)
+- Ensuite, j'ai mis en place le newsbot en tant que tel en [suivant mon tuto](/fr/tutoriels/newsbot-rss-bluesky)
+
 
  <img src="https://blog.rmendes.net/uploads/2023/shapes.png" width="600" height="294" alt="">
 
