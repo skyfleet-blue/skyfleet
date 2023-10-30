@@ -2,7 +2,7 @@
 title: Tutoriels Bluesky
 description: Une collection de tutoriels pour Bluesky
 published: true
-date: 2023-10-30T17:16:00.455Z
+date: 2023-10-30T17:29:31.437Z
 tags: bluesky, tutoriels
 editor: markdown
 dateCreated: 2023-10-06T12:13:11.758Z
@@ -16,29 +16,43 @@ Sur cette page vont venir se lister toute une série de tutoriels en rapport ave
 
 
 
-## Tutoriels Bluesky
-### Avancé
-- Comment [utiliser les Custom Feeds avec des Newsbot RSS](/fr/tutoriels/newsbot-rss-bluesky)
+# Tutoriels Bluesky
 
+## Relativement simple
+- [Comment utiliser le Jazbot ?](/fr/tutoriels/jazbot)
 
-### Relativement simple
-- [jazbot](/fr/tutoriels/jazbot)
-- [feed-generator](/fr/tutoriels/feed-generator)
 - [filtresv1](/fr/tutoriels/filtresv1)
-- [signets](/fr/tutoriels/signets)
-- [feed-combine](/fr/tutoriels/feed-combine)
-- [feed-combine-mute](/fr/tutoriels/feed-combine-mute)
-- [fausse-mute-list](/fr/tutoriels/fausse-mute-list)
+- [Comment créer un Custom Feed à signets ?](/fr/tutoriels/signets)
+- [Comment créer un feed combiné à double input ?](/fr/tutoriels/feed-combine)
+- [Comment faire un custom feed combiné avec 2 listes in/out et un input public ?](/fr/tutoriels/feed-combine-mute)
+- [Comment faire un custom feed à partir d'une fausse mute-list ?](/fr/tutoriels/fausse-mute-list)
+
+## Avancé
+- [Comment déployer un News Bot RSS sur Bluesky](/fr/tutoriels/newsbot-rss-bluesky)
+
+- [Feed-generateu auto hébergé](/fr/tutoriels/feed-generator)
+
+# Tutoriels Custom Feeds
+
+## Skyfeed
+
+### Simple
+
+- [Comment utiliser le Jazbot ?](/fr/tutoriels/jazbot)
+
+- [filtresv1](/fr/tutoriels/filtresv1)
+- [Comment créer un Custom Feed à signets ?](/fr/tutoriels/signets)
+- [Comment créer un feed combiné à double input ?](/fr/tutoriels/feed-combine)
+- [Comment faire un custom feed combiné avec 2 listes in/out et un input public ?](/fr/tutoriels/feed-combine-mute)
+- [Comment faire un custom feed à partir d'une fausse mute-list ?](/fr/tutoriels/fausse-mute-list)
 
 
-## Tutoriels Custom Feeds
-
-### skyfeed
-- Comment [déployer des newsbot sur Bluesky](https://blog.rmendes.net/2023/08/14/comment-dployer-un.html)
+### Avancé
+- [Comment combiner un newsbot RSS pour générer des Customs Feeds thématiques ?](/fr/tutoriels/newsbot-customfeeds)
 
 - Comment [segmenter les posts d'un compte Bluesky](https://blog.rmendes.net/2023/08/29/comment-segmenter-un.html) par langues ?
 
-### blueskyfeeds
+## blueskyfeeds
 
 
 
