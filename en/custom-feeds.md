@@ -2,7 +2,7 @@
 title: Custom Feeds Directory
 description: Skyfleet hand curated custom feed directory
 published: true
-date: 2023-10-30T16:46:44.108Z
+date: 2023-10-30T19:56:47.920Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-28T00:04:13.552Z
