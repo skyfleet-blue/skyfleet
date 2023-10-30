@@ -2,8 +2,8 @@
 title: Comment créer un feed combiné?
 description: mini tuto pour créer un feed sur bluesky à partir de plusieurs sources
 published: true
-date: 2023-10-30T16:37:15.852Z
-tags: customfeeds
+date: 2023-10-30T16:46:49.958Z
+tags: customfeeds, customfeeds, customfeeds
 editor: markdown
 dateCreated: 2023-10-29T21:05:58.922Z
 ---

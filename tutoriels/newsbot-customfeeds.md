@@ -2,7 +2,7 @@
 title: Comment combiner un newsbot RSS pour générer des Customs Feeds thématiques ?
 description: mise en place d’utilisation des customs feeds sur Bluesky basé sur un News Bot qui va générer le contenu, ce qui va nous permettre de segmenter l’activité du newsbot en différents customs feeds auxquels les utilisateurs vont pouvoir s’abonner.
 published: true
-date: 2023-10-30T18:10:09.601Z
+date: 2023-10-30T18:10:12.951Z
 tags: customfeeds, newsbot, rss
 editor: markdown
 dateCreated: 2023-10-30T17:19:00.246Z

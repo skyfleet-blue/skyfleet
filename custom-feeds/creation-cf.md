@@ -2,7 +2,7 @@
 title: Création de Custom Feeds
 description: Comment créer un custom feeds ?
 published: true
-date: 2023-10-24T12:17:23.820Z
+date: 2023-10-30T16:46:38.371Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-24T12:17:23.819Z

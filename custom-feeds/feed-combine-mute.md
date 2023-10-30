@@ -2,7 +2,7 @@
 title: Redirection
 description: 
 published: true
-date: 2023-10-30T16:51:02.780Z
+date: 2023-10-30T16:51:05.637Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-30T16:40:24.651Z

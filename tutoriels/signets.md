@@ -2,7 +2,7 @@
 title: Comment créer un Custom Feed à signets ?
 description: Comment créer un Custom Feed pour y ranger des posts à ne pas oublier, bref des signets ?
 published: true
-date: 2023-10-30T17:09:20.110Z
+date: 2023-10-30T17:09:23.651Z
 tags: customfeeds, signets
 editor: markdown
 dateCreated: 2023-10-30T17:09:20.110Z

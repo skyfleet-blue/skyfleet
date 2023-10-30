@@ -2,7 +2,7 @@
 title: La Une
 description: La Une en Image
 published: true
-date: 2023-10-17T19:17:28.362Z
+date: 2023-10-30T16:46:16.274Z
 tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-08T19:01:53.698Z

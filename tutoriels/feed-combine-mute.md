@@ -2,7 +2,7 @@
 title: Comment faire un custom feed combiné avec 2 listes in/out
 description: Comment utiliser une liste pour alimenter la liste et une liste pour comme source remove?
 published: true
-date: 2023-10-30T16:37:58.704Z
+date: 2023-10-30T16:47:01.655Z
 tags: customfeeds, mute
 editor: markdown
 dateCreated: 2023-10-30T14:29:42.623Z

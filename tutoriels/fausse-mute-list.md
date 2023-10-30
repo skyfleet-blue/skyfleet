@@ -2,7 +2,7 @@
 title: Comment faire un custom feed à partir d'une fausse mute-list?
 description: 
 published: true
-date: 2023-10-30T17:15:11.910Z
+date: 2023-10-30T17:15:14.805Z
 tags: customfeeds, mutelist
 editor: markdown
 dateCreated: 2023-10-30T17:15:11.910Z

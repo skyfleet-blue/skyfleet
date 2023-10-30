@@ -2,7 +2,7 @@
 title: the Skyfleet
 description: Fleet of bluesky accounts serving news or updates about different topics
 published: true
-date: 2023-10-30T17:42:11.295Z
+date: 2023-10-30T17:42:14.363Z
 tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-30T17:42:11.295Z
