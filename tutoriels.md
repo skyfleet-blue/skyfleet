@@ -2,7 +2,7 @@
 title: Tutoriels Bluesky
 description: Une collection de tutoriels pour Bluesky
 published: true
-date: 2023-10-30T17:32:08.556Z
+date: 2023-10-30T17:53:06.161Z
 tags: bluesky, tutoriels
 editor: markdown
 dateCreated: 2023-10-06T12:13:11.758Z
@@ -18,16 +18,9 @@ Sur cette page vont venir se lister toute une série de tutoriels en rapport ave
 
 # Tutoriels Bluesky
 
-## Relativement simple
+## Simple
 - [Comment utiliser le Jazbot ?](/fr/tutoriels/jazbot)
 
-- [filtresv1](/fr/tutoriels/filtresv1)
-- [Comment créer un Custom Feed à signets ?](/fr/tutoriels/signets)
-- [Comment créer un feed combiné à double input ?](/fr/tutoriels/feed-combine)
-- [Comment faire un custom feed combiné avec 2 listes in/out et un input public ?](/fr/tutoriels/feed-combine-mute)
-- [Comment faire un custom feed à partir d'une fausse mute-list ?](/fr/tutoriels/fausse-mute-list)
-
-- [Comment segmenter l'activité d'un compte sur bluesky par langue ?](/fr/tutoriels/segmentation-langue)
 
 ## Avancé
 - [Comment déployer un News Bot RSS sur Bluesky](/fr/tutoriels/newsbot-rss-bluesky)
@@ -39,8 +32,6 @@ Sur cette page vont venir se lister toute une série de tutoriels en rapport ave
 ## Skyfeed
 
 ### Simple
-
-- [Comment utiliser le Jazbot ?](/fr/tutoriels/jazbot)
 
 - [filtresv1](/fr/tutoriels/filtresv1)
 - [Comment créer un Custom Feed à signets ?](/fr/tutoriels/signets)
