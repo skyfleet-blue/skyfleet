@@ -2,7 +2,7 @@
 title: Comment faire un custom feed combiné avec 2 listes in/out
 description: Comment utiliser une liste pour alimenter la liste et une liste pour comme source remove?
 published: true
-date: 2023-10-30T14:29:42.624Z
+date: 2023-10-30T14:33:22.677Z
 tags: customfeeds, mute
 editor: markdown
 dateCreated: 2023-10-30T14:29:42.623Z
@@ -130,7 +130,7 @@ On va sur le profil de n'importe quel utilisateurs, ou sur le profil du troll en
 - Un bloc remove peut être ajouté pour virer les doublons
 
 
-## le Feed la Chute avec modéraiton si nécessaire
+## le Feed la Chute avec modération si nécessaire
 
 - lien vers le feed :  
 https://bsky.app/profile/did:plc:gc7pqgc337bwj2n5mbnkixzk/feed/aaafpye2nrstk
