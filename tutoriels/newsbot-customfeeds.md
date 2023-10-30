@@ -2,7 +2,7 @@
 title: Comment combiner un newsbot RSS pour générer des Customs Feeds thématiques ?
 description: mise en place d’utilisation des customs feeds sur Bluesky basé sur un News Bot qui va générer le contenu, ce qui va nous permettre de segmenter l’activité du newsbot en différents customs feeds auxquels les utilisateurs vont pouvoir s’abonner.
 published: true
-date: 2023-10-30T17:56:25.121Z
+date: 2023-10-30T18:09:33.306Z
 tags: customfeeds, newsbot, rss
 editor: markdown
 dateCreated: 2023-10-30T17:19:00.246Z
@@ -22,39 +22,13 @@ L'idée avec ce tuto, c'est de démontrer une mise en place d'utilisation des cu
 
 ![Vue FreshRSS des catégories d'info LeMonde.fr](https://blog.rmendes.net/uploads/2023/2023-08-18-12.41.15-lemonde.rmendes.net-f127ad1d0077.jpg "Vue FreshRSS des catégories d'info LeMonde.fr")
 
-Il y a donc 12 processus de veille RSS qui tournent, un par catégorie maitresse sur le site LeMonde
-
-![Vue des 12 conteneurs qui font tourner le bot sur bluesky](https://blog.rmendes.net/uploads/2023/2023-08-18-12-04.png "Vue des 12 conteneurs qui font tourner le bot sur bluesky")
-
-
 ## Comment sont construits les custom feeds ?
 
-J'avais besoin d'une ancre stable sur lequel me baser pour chaque catégorie et je ne pouvais pas prévoir tous les mots utilisés dans un titre ou la description pour segmenter les articles en différent flux thématique, du coup, en éditant mon fichier config.json, je peux segmenter avant même la publication, et ce, de manière stable :
 
-### config.json pour Actu
-```json
-{
-  "string": "Actu: $title",
-  "publishEmbed": true,
-  "languages": ["fr"],
-  "truncate": true,
-  "runInterval": 60,
-  "dateField": ""
-}
-```
+J'avais besoin d'une ancre stable sur lequel me baser pour chaque catégorie Le Monde et en analysant les URL's des articles Le Monde on peut constater qu'en fonction de la Section attribuée à la source, l'URL change en fonction de différent mots clef. (voir section skyfeed ci dessous)
 
-### config.json pour Culture
+### Skyfeed.app
 
-```json
-{
-  "string": "Culture: $title",
-  "publishEmbed": true,
-  "languages": ["fr"],
-  "truncate": true,
-  "runInterval": 60,
-  "dateField": ""
-}
-```
 
 Etc.. etc..ce qui me permet de prendre le dossier/catégorie culture, actu, sports, france etc...
 et d'avoir une segmentation simple sans devoir passer par des tas de requête regex qui ne donneraient pas une segmentation aussi simple et efficace. 
@@ -67,9 +41,19 @@ et d'avoir une segmentation simple sans devoir passer par des tas de requête re
 ## Skyfeed custom feed builder
 Vue de la mise en place d'un custom feed avec [skyfeed.app](https://skyfeed.app)
 
-![Vue de la construction d'un custom feed sur skyfeed](https://blog.rmendes.net/uploads/2023/2023-08-18-11.22.02-skyfeed.app-a5a9f4a9f340.png "Vue de la construction d'un custom feed sur skyfeed")
+![2023-10-30_19-03.jpg](/captures/2023-10-30_19-03.jpg)
 
-## Listes des custom feeds sur [@lfm.bsky.social](https://bsky.app/profile/lmf.bsky.social)
+
+### Chaque Feed fait un filtre sur la zone URL avec le bloc RegEx
+> ça permet d'attribuer des mots clefs de base qui sont systématiquement dans l'URL de chaque article et d'ainsi segmenter le flux d'article total en différent custom feed, ce qui nous permet d'avoir culture, sports, actualités, international etc en différent feed.
+{.is-info}
+
+![2023-10-30_19-03_1.jpg](/captures/2023-10-30_19-03_1.jpg)
+
+
+
+
+## Listes des custom feeds sur [@lfm.bsky.social](https://bsky.app/profile/lemonde.skyfleet.blue)
 - [International](https://bsky.app/profile/did:plc:f5mbotnuol4anbbwxwb6wnfg/feed/aaaak5xpuqt5a) 
 - [Planète](https://bsky.app/profile/did:plc:f5mbotnuol4anbbwxwb6wnfg/feed/aaaak6tv6b3wm)
 - [Opinions](https://bsky.app/profile/did:plc:f5mbotnuol4anbbwxwb6wnfg/feed/aaaak6goyuuzw)
