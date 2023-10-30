@@ -2,7 +2,7 @@
 title: Feeds Personalisés Bluesky
 description: Une liste de custom feed personalisés blueksy
 published: true
-date: 2023-10-26T22:00:40.775Z
+date: 2023-10-30T12:45:40.210Z
 tags: bluesky, customfeeds
 editor: markdown
 dateCreated: 2023-10-04T17:05:16.337Z
@@ -52,7 +52,7 @@ dateCreated: 2023-10-04T17:05:16.337Z
   <iframe class="responsive-iframe" src="https://base.skyfleet.blue/public/gallery/HHMJp2SxJ4quxSogW59hGHYdvfD_Owof402c9O-7pU4"></iframe>
 </div>
 
-### Instructions
+### Ajouter un feed
 
 > Utiliser ce **[formulaire](https://base.skyfleet.blue/form/0Bmzxqsv19BNgzWuo9Ikh_zhxODTX5E8BnVKStpO2nk)** pour nous envoyer vos meilleurs custom feeds
 {.is-success}
@@ -63,6 +63,7 @@ dateCreated: 2023-10-04T17:05:16.337Z
 > le feed doit être maintenu
 > le feed doit être actif
 > le feed ne peut pas être limité à des bots qui font de la promo pour des produits
+> Il faut préciser comment le feed marche, comment y participer.
 {.is-warning}
 
 > On se réserve de virer les feeds qui vont à l'encontre de ces critères
