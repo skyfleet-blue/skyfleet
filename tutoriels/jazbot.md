@@ -2,7 +2,7 @@
 title: Comment utiliser le Jazbot ?
 description: Un bot pour faire de simple recherche sur vos posts et interroger l'api de bluesky
 published: true
-date: 2023-10-08T18:07:07.714Z
+date: 2023-10-30T16:45:58.318Z
 tags: bluesky
 editor: markdown
 dateCreated: 2023-10-08T18:07:05.293Z

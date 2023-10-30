@@ -2,7 +2,7 @@
 title: Feed Generator
 description: comment déployer son propre “générateur de feed” sur son propre domaine
 published: true
-date: 2023-10-08T18:08:52.982Z
+date: 2023-10-30T16:46:01.440Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-08T18:08:50.684Z

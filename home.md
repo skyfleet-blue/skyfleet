@@ -2,7 +2,7 @@
 title: Accueil
 description: Un wiki de ressources sur Bluesky
 published: true
-date: 2023-10-22T15:20:26.532Z
+date: 2023-10-30T17:01:55.070Z
 tags: bluesky, ressources, conseils, astuces, tutoriels
 editor: markdown
 dateCreated: 2023-10-04T10:05:08.301Z
@@ -12,14 +12,6 @@ dateCreated: 2023-10-04T10:05:08.301Z
 
 > Voici en quelques lignes ce que vous pouvez trouver sur ce wiki, encore largement en **construction** ! 
 {.is-warning}
-
-# Transition de SASkeets vers Skyfleet
-
-> Ce projet avait pour nom SASkeets, il est en cours de mutation vers ce nouveau wiki.
-> 
-> ** SAS pour **Service Après Skeets** en ref à Service après Vente, ou Service après Tweet, du temps où une partie de ces outils étaient sur feu Twitter. 
-{.is-success}
-
 
 # A propos
 ## Une blog pour centraliser des ressources sur Bluesky
@@ -62,6 +54,16 @@ SAS sert comme point de contact pour toute une série de compte thématique et m
 
 ---
 
+# Transition de SASkeets vers Skyfleet
+
+> Ce projet avait pour nom SASkeets, il est en cours de mutation vers ce nouveau wiki.
+> 
+> ** SAS pour **Service Après Skeets** en ref à Service après Vente, ou Service après Tweet, du temps où une partie de ces outils étaient sur feu Twitter. 
+{.is-success}
+
+
 ### Graph Gephi des comptes Bluesky de la Skyfleet et leurs followers
+
+![skyfleet.jpg](/images/skyfleet1.jpg)
 
 ![skyfleet.jpg](/images/skyfleet.jpg)

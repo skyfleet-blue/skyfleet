@@ -2,7 +2,7 @@
 title: Skyfleet
 description: Liste des comptes Bluesky faisant partie de la Skyfleet
 published: true
-date: 2023-10-17T22:22:41.315Z
+date: 2023-10-30T16:46:29.968Z
 tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-17T19:15:18.530Z
@@ -25,6 +25,7 @@ Sur certains cas, par exemple TrumpWatch ou Elections2024, il se peut qu'en fonc
 <h2 class="tabset">Tabs</h2>
 
 ### Info / Médias
+
 
 #### LeMonde 🇫🇷
 Le journal Le Monde et ses customs feeds par catégorie 
@@ -85,27 +86,16 @@ une sélection médias alternatifs
 
 ### Thématique / Topic
 
+#### Public Sénat 🇫🇷
+- [Public Senat](https://bsky.app/profile/publicsenat.skyfleet.blue)
+
+---
+#### Assemblée Nationale 🇫🇷
+- [Assemblée Nationale](https://bsky.app/profile/assnat.skyfleet.blue)
+
+
 #### Les dernières info de/par Bluesky, derniers changements code
 - [Status](https://bsky.app/profile/status.skyfleet.blue)
-
----
-
-
-#### Rappel Conso  🇫🇷
-- [Rappel Conso](https://bsky.app/profile/rappelconso.skyfleet.blue)
-
----
-
-
-#### AFSCA / FAVV 🇧🇪🇳🇱 
-- [AFSCA-FAVV](https://bsky.app/profile/afsca-favv.skyfleet.blue)
-
-
----
-
-#### Veille info sur l'actualité juridique 🇫🇷
-
-- [ActuDroit](https://bsky.app/profile/actudroit.skyfleet.blue) 
 
 ---
 
@@ -150,10 +140,6 @@ une sélection médias alternatifs
 - [the Pod Feed](https://bsky.app/profile/podfeed.skyfleet.blue)
 ---
 
-#### Tout sur la Science-Fiction  🇫🇷
-- [de la SF](https://bsky.app/profile/sf.skyfleet.blue)
----
-
 #### Veille info sur les élections américaine  🇺🇸
 - [US Elections](https://bsky.app/profile/elections.skyfleet.blue)
 ---
@@ -172,6 +158,34 @@ son procès à venir et les répercussions en cours de l'insurrection du Capitol
 
 > Mise en place de sujet d'info sur demande d'autres Blueskyers
 {.is-info}
+
+#### Africa Media
+
+Un compte qui reprend des sites d'info avec un focus sur le Congo, le Mali, le Sénégal, la Côte d'Ivoire et l'Afrique d'un point de vue général
+- [Africa Media](https://bsky.app/profile/africa.skyfleet.blue)
+
+---
+
+#### Veille info sur l'actualité juridique 🇫🇷
+
+- [ActuDroit](https://bsky.app/profile/actudroit.skyfleet.blue) 
+
+---
+
+
+#### Rappel Conso  🇫🇷
+- [Rappel Conso](https://bsky.app/profile/rappelconso.skyfleet.blue)
+
+---
+
+#### AFSCA / FAVV 🇧🇪🇳🇱 
+- [AFSCA-FAVV](https://bsky.app/profile/afsca-favv.skyfleet.blue)
+
+---
+
+#### Tout sur la Science-Fiction  🇫🇷
+- [de la SF](https://bsky.app/profile/sf.skyfleet.blue)
+---
 
 #### Veille info sur le Climat et manifs 🇬🇧
 - [Climate Tracker](https://bsky.app/profile/climate.skyfleet.blue)

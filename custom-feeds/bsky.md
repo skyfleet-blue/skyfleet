@@ -2,7 +2,7 @@
 title: Bsky.team
 description: un Custom Feed pour suivre l'équipe Bluesky
 published: true
-date: 2023-10-08T17:41:11.807Z
+date: 2023-10-30T16:45:46.943Z
 tags: bluesky, team
 editor: markdown
 dateCreated: 2023-10-08T17:41:09.027Z

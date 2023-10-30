@@ -2,7 +2,7 @@
 title: TrumpWatch
 description: Veille sur les délires de Donald Trump
 published: true
-date: 2023-10-17T19:20:02.471Z
+date: 2023-10-30T16:46:10.664Z
 tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-08T18:15:49.130Z

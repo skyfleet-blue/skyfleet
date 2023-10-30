@@ -2,7 +2,7 @@
 title: le Coin des Devs
 description: Ressources devs pour Bluesky
 published: true
-date: 2023-10-17T22:15:59.305Z
+date: 2023-10-30T16:45:32.604Z
 tags: dev
 editor: markdown
 dateCreated: 2023-10-06T20:33:14.088Z
@@ -40,6 +40,8 @@ CookBook for ATproto https://github.com/bluesky-social/cookbook
 [Algoz in Go](https://github.com/whyrusleeping/algoz)
 
 [Bluesky Feed Generator Python](https://github.com/MarshalX/bluesky-feed-generator)
+
+[Blacksky-rsky in Rust](https://github.com/blacksky-algorithms/rsky)
 
 # Firehose
 

@@ -2,7 +2,7 @@
 title: Recherche
 description: Un outil pour trouver les custom feeds créé par vos contacts sur bluesky
 published: true
-date: 2023-10-09T19:40:45.546Z
+date: 2023-10-30T16:45:49.880Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-08T17:50:13.269Z

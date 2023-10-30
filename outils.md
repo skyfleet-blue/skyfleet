@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-10-22T17:26:42.382Z
+date: 2023-10-30T16:45:23.203Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-06T14:48:25.778Z
@@ -84,6 +84,12 @@ Klearsky
 
 - https://klearsky.pages.dev
 
+Twexit.nl
+- https://twexit.nl/
+
+Comparatif entre clients/app
+- https://dolciss.notion.site/c03ea75995154731bc17192b340d2427?v=a5a7a90abca34fd897c74b767974dcde
+
 ## Clients Android
 
 [Graysky](https://graysky.app/)
@@ -94,6 +100,9 @@ Bluesky.app
 
 ## Clients iOs
 
+Bluesky
+- https://apps.apple.com/us/app/bluesky-social/id6444370199
+
 [Skeets](https://bsky.app/profile/skeets-app.bsky.social)
 
 - Beta [invite](https://docs.google.com/forms/d/e/1FAIpQLScEWzwOHGQUHgp8dr40jw0E4FnELOKTwhBVde1oFZWP9z0CpA/viewform?usp=sf_link)
@@ -101,6 +110,14 @@ Bluesky.app
 [Graysky](https://graysky.app/)
 
 - in Store : https://apps.apple.com/gb/app/graysky/id6448234181
+
+
+
+## Accessibilité 
+
+Get Alt Text 
+- https://bsky.app/profile/alt-text.bsky.social
+
 
 
 ## Decks
@@ -235,15 +252,28 @@ So what was the hellthread you may ask ?
 
 ## Stats
 
+Atlas 
+- https://bsky.jazco.dev/
+
+Twexit.nl
+- https://twexit.nl/
+
 Bluesky Statistics
 - https://vqv.app/stats
 
 Total Bluesky Accounts 
 - https://bluesky.denike.io
 
-Wolfgang wolfgang.raios.xyz
+Wolfgang 
 
 - https://wolfgang.raios.xyz
+
+Skycle
+- https://skycle.app/
+
+Skystats
+
+- https://skystats.social/
 
 ## Recherche
 
@@ -271,53 +301,24 @@ New & Improved URLs And Domains From The Bluesky Firehose [observablehq.com](htt
 
 - https://autoregex.xyz/
 
+## Migration
+ - [Fedifinder](https://fedifinder.glitch.me/) - Your X/Twitter contacts on Bluesky and the fediverse
+ - [Follow the Sky](https://gggdomi.github.io/follow-the-sky/) - Find again in Bluesky people you follow on Twitter
+ - [Skeet](https://skeet.labnotes.org/) - find your Twitter or Mastodon mutuals on Bluesky
+ - [Skeeter](https://skeeter.streamlit.app/) - Twitter/Mastodon to Bluesky User Search
+ - [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome add-on to find your Twitter follows and followers on Bluesky
+
+
+
 
 ## Developers 
 
 le [coin des dev](https://skyfleet.blue/fr/dev) sur le wiki
 
 
-### A trier et segmenter : 
+## Status
 
-> Source : https://blog.skyfleet.blue/tools/
-
-
-
-    Bluesky Overhaul chrome.google.com
-
-chrome.google.com
-
-
-    SkyLink - Bluesky DID Detector chrome.google.com
-
-chrome.google.com
-
-    Sky Follower Bridge chrome.google.com
-
-chrome.google.com
-
-
-    Sky Bridge skybridge.fly.dev
-
-skybridge.fly.dev
-
-    Notion – The all-in-one workspace for your notes, tasks, wikis, and databases. dolciss.notion.site
-
-dolciss.notion.site
-
-    Twexit.nl twexit.nl
-
-twexit.nl
-
-    ClearSky Search Tool bsky.thieflord.dev
-
-bsky.thieflord.dev
-
-
-    Skeet @ labnotes.org skeet.labnotes.org
-
-https://skeet.labnotes.org
-
+Bluesky - https://status.bsky.app/
 
 
 
