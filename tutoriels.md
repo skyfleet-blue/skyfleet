@@ -2,7 +2,7 @@
 title: Tutoriels Bluesky
 description: Une collection de tutoriels pour Bluesky
 published: true
-date: 2023-10-30T17:12:59.322Z
+date: 2023-10-30T17:16:00.455Z
 tags: bluesky, tutoriels
 editor: markdown
 dateCreated: 2023-10-06T12:13:11.758Z
@@ -28,6 +28,7 @@ Sur cette page vont venir se lister toute une série de tutoriels en rapport ave
 - [signets](/fr/tutoriels/signets)
 - [feed-combine](/fr/tutoriels/feed-combine)
 - [feed-combine-mute](/fr/tutoriels/feed-combine-mute)
+- [fausse-mute-list](/fr/tutoriels/fausse-mute-list)
 
 
 ## Tutoriels Custom Feeds
