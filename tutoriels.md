@@ -2,7 +2,7 @@
 title: Tutoriels Bluesky
 description: Une collection de tutoriels pour Bluesky
 published: true
-date: 2023-10-30T17:53:06.161Z
+date: 2023-10-30T17:53:16.099Z
 tags: bluesky, tutoriels
 editor: markdown
 dateCreated: 2023-10-06T12:13:11.758Z
@@ -31,7 +31,7 @@ Sur cette page vont venir se lister toute une série de tutoriels en rapport ave
 
 ## Skyfeed
 
-### Simple
+### Relativement Simple
 
 - [filtresv1](/fr/tutoriels/filtresv1)
 - [Comment créer un Custom Feed à signets ?](/fr/tutoriels/signets)
