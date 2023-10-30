@@ -2,7 +2,7 @@
 title: Todo
 description: Todo - à faire
 published: true
-date: 2023-10-30T17:43:55.978Z
+date: 2023-10-30T17:44:13.468Z
 tags: bluesky, todo
 editor: markdown
 dateCreated: 2023-10-06T21:57:35.271Z
@@ -34,13 +34,13 @@ dateCreated: 2023-10-06T21:57:35.271Z
 {.is-info}
 
 - [ ] Rework Tools / [outils](/fr/outils) page
-> 60%
+> 80%
 {.is-info}
 
 - [ ] Rework Tips page
 > 0%
 - [ ] Rework [dev](/fr/dev) page
-> 20%
+> 40%
 {.is-info}
 
 - [ ] Translations
