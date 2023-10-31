@@ -2,7 +2,7 @@
 title: Accueil
 description: Un wiki de ressources sur Bluesky
 published: true
-date: 2023-10-31T09:13:31.043Z
+date: 2023-10-31T09:31:38.896Z
 tags: bluesky, ressources, conseils, astuces, tutoriels
 editor: markdown
 dateCreated: 2023-10-30T19:52:10.582Z
@@ -14,7 +14,7 @@ dateCreated: 2023-10-30T19:52:10.582Z
 {.is-warning}
 
 # A propos
-## Une blog pour centraliser des ressources sur Bluesky
+## Un blog pour centraliser des ressources sur Bluesky
 - Tutoriels, trucs et astuces et liens vers des ressources Bluesky crées par d'autres utilisateurs/trices.
 
 ## flotte de comptes thématiques/news: 
