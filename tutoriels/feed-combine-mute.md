@@ -2,7 +2,7 @@
 title: Comment faire un custom feed combiné avec 2 listes in/out
 description: Comment utiliser une liste pour alimenter la liste et une liste pour comme source remove?
 published: true
-date: 2023-10-30T16:47:01.655Z
+date: 2023-10-31T13:18:32.780Z
 tags: customfeeds, mute
 editor: markdown
 dateCreated: 2023-10-30T14:29:42.623Z
@@ -30,6 +30,13 @@ Il y a le risque que des trolls puissent troller le Feed, pour se prémunir de c
 
 On va sur le profil de Willian, Cody et Thomas, ainsi que le compte officiel Lachute
 et on les ajoute à une liste la Chute, en utilisant le hack des mute-listes pour avoir un liste sans restriction pour poster dans le feed. 
+
+### Création d'une mute-list
+
+- https://bsky.app/moderation/mute-lists
+
+![2023-10-30_21-05.jpg](/captures/2023-10-30_21-05.jpg)
+
 ![2023-10-30_14-33.jpg](/captures/2023-10-30_14-33.jpg)
 
 ![2023-10-30_14-39_1.jpg](/captures/2023-10-30_14-39_1.jpg)
@@ -38,7 +45,7 @@ et on les ajoute à une liste la Chute, en utilisant le hack des mute-listes pou
 ### la liste pour les trolls
 
 
-On va sur le profil de n'importe quel utilisateurs, ou sur le profil du troll en question et on l'ajoute à une liste, 
+On va sur le profil d'un troll et on l'ajoute à une liste, 
 
 ![2023-10-30_14-32.jpg](/captures/2023-10-30_14-32.jpg)
 
