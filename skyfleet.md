@@ -2,7 +2,7 @@
 title: Listes des Comptes
 description: Liste des comptes Bluesky faisant partie de la Skyfleet
 published: true
-date: 2023-10-31T09:09:15.316Z
+date: 2023-10-31T09:09:29.335Z
 tags: bluesky, skyfleet
 editor: markdown
 dateCreated: 2023-10-30T19:52:21.630Z
@@ -12,9 +12,7 @@ dateCreated: 2023-10-30T19:52:21.630Z
 
 Ceci est une liste non exhaustive de compte bluesky thématique ou de veille média que j'ai mis en place sur bluesky ou que j'ai aidé à mettre en place depuis quelques mois. 
 
-Dans tous les cas, l'information, le titre, l'image, la description provient de la source, il n'y a donc aucune édition de ma part, ces outils sont basiquement des relais d'informations. 
-
-Sur certains cas, par exemple TrumpWatch ou Elections2024, il se peut qu'en fonction de l'actualité je rajoute moi-même des infos/liens, en général je me limite à relayer une info qui manque dans le flux automatisé ou alors, je me farcis d'un petit commentaire, mais c'est plutôt occasionnel. 
+Dans tous les cas, l'information, le titre, l'image, la description provient de la source, il n'y a donc aucune édition de ma part, ces outils sont basiquement des relais d'informations.  
 
 > Page largement en construction
 {.is-warning}
