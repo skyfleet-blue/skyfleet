@@ -1,14 +1,14 @@
 ---
-title: Skyfleet
+title: Listes des Comptes
 description: Liste des comptes Bluesky faisant partie de la Skyfleet
 published: true
-date: 2023-10-30T16:46:29.968Z
-tags: skyfleet
+date: 2023-10-31T09:09:15.316Z
+tags: bluesky, skyfleet
 editor: markdown
-dateCreated: 2023-10-17T19:15:18.530Z
+dateCreated: 2023-10-30T19:52:21.630Z
 ---
 
-# Liste de comptes Bluesky faisant partie de la skyfleet
+# Liste de comptes Bluesky faisant partie de la Skyfleet
 
 Ceci est une liste non exhaustive de compte bluesky thématique ou de veille média que j'ai mis en place sur bluesky ou que j'ai aidé à mettre en place depuis quelques mois. 
 
