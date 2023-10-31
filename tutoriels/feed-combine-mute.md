@@ -2,7 +2,7 @@
 title: Comment faire un custom feed combiné avec 2 listes in/out
 description: Comment utiliser une liste pour alimenter la liste et une liste pour comme source remove?
 published: true
-date: 2023-10-31T13:18:32.780Z
+date: 2023-10-31T13:20:07.621Z
 tags: customfeeds, mute
 editor: markdown
 dateCreated: 2023-10-30T14:29:42.623Z
@@ -23,6 +23,10 @@ Il y a le public sur Bluesky qui utilise les mots clefs
 - lachute
 
 Il y a le risque que des trolls puissent troller le Feed, pour se prémunir de cela, on va créer une mute list qui va nous permettre de ranger les trolls dans une liste et automatiquement enlever leurs posts du feed. 
+
+> Il suffit de changer le contexte des mots clefs définis ci dessus pour adapter ce tutoriel à n'importe quel autre contexte
+{.is-info}
+
 
 ## Création des deux listes
 
