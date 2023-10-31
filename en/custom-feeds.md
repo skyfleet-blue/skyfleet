@@ -2,7 +2,7 @@
 title: Custom Feeds Directory
 description: Skyfleet hand curated custom feed directory
 published: true
-date: 2023-10-30T19:56:47.920Z
+date: 2023-10-31T12:49:27.145Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-28T00:04:13.552Z
@@ -48,7 +48,7 @@ dateCreated: 2023-10-28T00:04:13.552Z
 
 ### Add Yours
 
-> Fill the form **[formulaire](https://base.skyfleet.blue/form/S5rFouNpKE3q-OfnCjjRqz5ExrUQvAHKHBp7aVWMLcw)** to send your custom feed to the directory
+> Fill the **[form](https://base.skyfleet.blue/form/S5rFouNpKE3q-OfnCjjRqz5ExrUQvAHKHBp7aVWMLcw)** to send your custom feed to the directory
 {.is-success}
 
 
