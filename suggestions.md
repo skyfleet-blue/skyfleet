@@ -2,10 +2,10 @@
 title: Suggestions
 description: Suggestions de sources d'informations, feedback et réclamations !
 published: true
-date: 2023-10-30T16:45:19.946Z
+date: 2023-10-31T09:01:22.867Z
 tags: skyfleet
 editor: markdown
-dateCreated: 2023-10-06T13:07:21.414Z
+dateCreated: 2023-10-30T19:52:25.521Z
 ---
 
 <h1 class="page-title">Suggestions Box</h1>
