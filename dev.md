@@ -2,7 +2,7 @@
 title: le Coin des Devs
 description: Ressources devs pour Bluesky
 published: true
-date: 2023-10-31T09:00:32.317Z
+date: 2023-10-31T09:28:40.043Z
 tags: dev
 editor: markdown
 dateCreated: 2023-10-30T19:52:02.495Z
