@@ -2,10 +2,10 @@
 title: Todo
 description: Todo - à faire
 published: true
-date: 2023-10-30T17:44:16.167Z
+date: 2023-10-31T09:22:00.281Z
 tags: bluesky, todo
 editor: markdown
-dateCreated: 2023-10-06T21:57:35.271Z
+dateCreated: 2023-10-30T19:52:33.695Z
 ---
 
 # Todo
