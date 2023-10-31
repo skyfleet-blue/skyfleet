@@ -2,34 +2,34 @@
 title: Comment créer un Custom Feed à signets ?
 description: Comment créer un Custom Feed pour y ranger des posts à ne pas oublier, bref des signets ?
 published: true
-date: 2023-10-30T17:09:23.651Z
+date: 2023-10-31T18:14:54.773Z
 tags: customfeeds, signets
 editor: markdown
 dateCreated: 2023-10-30T17:09:20.110Z
 ---
 
 ## Tuto Signets
-
-- votre DID
-- un mot clef qui va vous servir de filtre
+Si vous voulez épingler des posts afin de les conserver et les retrouver plus facilement, vous aurez besoin de :
+- un mot clef ou un symbole qui va vous servir de filtre
 - Skyfeed.app
 - 2 min de votre temps
 
-Vous commencez par créer un nouveau custom feed sur [skyfeed.app](https://skyfeed.app), à côté de ça, 
-dans le bloc **Input** vous choisissez **Single User** et vous cliquez **Select Yourself**
+Vous commencez par créer un nouveau custom feed sur [skyfeed.app](https://skyfeed.app) où il vous faudra 3 blocs:
+1. Un bloc **Input** où vous choisissez **Single User** et vous cliquez **Select Yourself**
 
-Puis vous ajoutez un **regex bloc** avec la requête <pre>```📌```</pre> ou <pre>```📍```</pre> 
-De là, vous publiez votre custom feed et chaque post (ou repost) où vous utilisez le emoji **📍** ou **📌** dans cet example, vous allez le retrouver dans votre custom feed.
+1. Puis un bloc **Regex** avec la requête de votre choix, par exemple : ```📌``` ou ```📍```
+1. Enfin un bloc **Sort by** Creation date pour ranger vos posts par date
+1. Vous pouvez ensuite publier votre custom feed
 
-Si votre  émoji est précédé comme ceci : ^📌 ou  comme cela 📍$ 
+De là, à chaque post (ou repost) où vous utilisez les emoji **📍** ou **📌**, vous allez pouvoir retrouver les posts correspondants dans votre custom feed.
 
-ça va faire le filtre, le match en fonction du fait que l'émoji est au debut du post ou à la fin du post.
+Dans votre **Regex bloc** si vous ajoutez à votre  émoji : `^📌` ou `📍$` 
 
-tandis que 📌 ou📍tou simple, précise que l'émoji est n'importe où dans le post. 
+Le symbole `^` va filter votre emoji seulement si il est en début de post et le symbole `$` seulement si votre emoji est en fin de post. Tandis que 📌 ou📍tout simple, précise que l'émoji est n'importe où dans le post. 
 
-Ne prenez pas tout, choisissez un cas de figure et ensuite utiliser ce format lorsque vous composez vos post et que vous voulez le garder en signet. 
+Avant de commencer à utiliser vos signets décidez bien du cas de figure que vous allez utiliser et gardez ce format pour vos futurs posts.
 
-Perso j'utilise 📌 pour les tutos et j'utilise 📍 dans le bloc regex pour les astuces, résultat j'ai deux custom feed qui stock ces deux types de posts et je n'ai plus à y penser, j'ai facile à retrouver mes posts de l'un ou l'autre format/type de signet.  
+Perso j'utilise 📌 pour les tutos et j'utilise 📍 pour les astuces. J'ai donc deux custom feed qui stockent ces deux types de posts. C'est plus facile de retrouver mes posts de l'un ou l'autre format en fonction du signet.  
 
 crédit à [@mwyann.fr](https://bsky.app/profile/mwyann.fr/post/3k6if56hw4a23) pour cette astuce !
 
@@ -41,6 +41,6 @@ crédit à [@mwyann.fr](https://bsky.app/profile/mwyann.fr/post/3k6if56hw4a23) p
 - les [Tips](https://bsky.app/profile/did:plc:gc7pqgc337bwj2n5mbnkixzk/feed/aaag5kgzth6vc) de SAS
 - les Tutos en [Video](https://bsky.app/profile/did:plc:gc7pqgc337bwj2n5mbnkixzk/feed/aaalfypz5ueak) de SAS
 
-ps: en activant le cas sur les reposts, ça vous permet de simplement reposter le post d'un ami, en ajoutant 📌 ou📍pour que son post soit rangé dans vos signets. 
+PS : En activant la case `reposts`, ça vous permets de simplement reposter le post d'un ami, en ajoutant 📌 ou📍pour que son post soit rangé dans vos signets. 
 
 <img src="https://saskeets.micro.blog/uploads/2023/2023-09-03-14-41.jpg" width="600" height="629" alt="">
