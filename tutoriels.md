@@ -2,7 +2,7 @@
 title: Tutoriels Bluesky
 description: Une collection de tutoriels pour Bluesky
 published: true
-date: 2023-11-01T16:23:49.581Z
+date: 2023-11-01T16:24:16.710Z
 tags: bluesky, tutoriels
 editor: markdown
 dateCreated: 2023-10-30T19:52:41.715Z
@@ -25,7 +25,7 @@ Sur cette page vont venir se lister toute une série de tutoriels en rapport ave
 ## Avancé
 - [Comment déployer un News Bot RSS sur Bluesky](/fr/tutoriels/newsbot-rss-bluesky)
 
-- [Feed-generateu auto hébergé](/fr/tutoriels/feed-generator)
+- [Feed-generateur auto hébergé](/fr/tutoriels/feed-generator)
 
 # Tutoriels Custom Feeds
 
