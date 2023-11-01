@@ -2,7 +2,7 @@
 title: Comment épingler un post dans un Feed ? 
 description: Comment épingler un single post dans un custom feed avec Skyfeed.app 
 published: true
-date: 2023-11-01T16:28:56.672Z
+date: 2023-11-01T16:33:06.746Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-11-01T16:28:56.672Z
@@ -25,4 +25,4 @@ dateCreated: 2023-11-01T16:28:56.672Z
 4. coller le dans le bloc input / Single post sur @skyfeed.app dans votre Custom Feed Mettez le en **dernier** dans l'ordre des blocs.
 5. Publish et c'est fait !
 
-<img src="https://saskeets.micro.blog/uploads/2023/bafkreigrxr7ijvapf52lgvshqos5umhcpkwxxugrt4st5slwd43qollbsa.jpg">
+![single-post.jpg](/captures/single-post.jpg)
