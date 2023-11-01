@@ -2,7 +2,7 @@
 title: Accueil
 description: Un wiki de ressources sur Bluesky
 published: true
-date: 2023-11-01T14:42:24.213Z
+date: 2023-11-01T14:43:37.621Z
 tags: bluesky, ressources, conseils, astuces, tutoriels
 editor: markdown
 dateCreated: 2023-10-30T19:52:10.582Z
@@ -27,7 +27,10 @@ le compte @skyfleet.blue sert comme point de contact pour toute une série de co
 
 # Blog / Mise à Jour
 
-- [le Blog](https://blog.skyfleet.blue/archive/) 
+- [le Blog](https://blog.skyfleet.blue/archive/)
+
+ce projet a commencé à l'origine sur un blog, ce n'est que par la suite qu'il a déménagé sur un wiki
+pour rendre ce travail de collection de ressources, tutoriels et conseils pour bluesky plus accessible. 
 
 
 # Outils 
