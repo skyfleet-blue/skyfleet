@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-10-31T09:20:34.092Z
+date: 2023-11-01T14:17:55.101Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -110,6 +110,9 @@ Bluesky
 [Graysky](https://graysky.app/)
 
 - in Store : https://apps.apple.com/gb/app/graysky/id6448234181
+
+Mofu 1.0.3
+- https://apps.apple.com/jp/app/mofu/id6463493340?l=en
 
 
 
