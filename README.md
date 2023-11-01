@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2023-11-01T14:57:45.078Z
+date: 2023-11-01T15:11:45.919Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-17T17:50:52.947Z
@@ -54,3 +54,30 @@ on essaye de mettre toutes les captures d'écrans des tutos ou autre dans "captu
 
 par défaut la langue principale du wiki est le français et les traductions ou pages en Anglais vienent se loger
 dans /en/nom-de-la-page pour faire la traduction d'un page existante dans le wiki, il faut faire attention de lui laisser le même SLUG en Anglais qu'en Français (original) afin que le système sache faire correspondre les traductions de pages. 
+
+
+# Comment faire pour : 
+
+## comment faire pour qu'une image s'affiche correctement lorsqu'un lien du wiki est partatgé sur bluesky ou ailleurs ? 
+
+- cliquer sur "Page" et coller le code suivant dans l'onglet "Styles"
+- changer l'image au besoin pour que le preview soit en rapport avec le tutoriel ou le lien en question.
+- le code ci dessous correspond à une page par défaut pour une page générique du wiki qui permet d'afficher le titre et la description (provenant du wiki lui même) et les tags ci dessous gère la partie image de la carte opengraph.
+
+```html
+<!-- Facebook Meta Tags -->
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="https://skyfleet.blue/images/skyfleet1.jpg">
+
+  <!-- Twitter Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="skyfleet.blue">
+  <meta property="twitter:url" content="https://skyfleet.blue">
+  <meta name="twitter:image" content="https://skyfleet.blue/images/skyfleet1.jpg">
+
+  <!-- Meta Tags Generated via https://www.opengraph.xyz -->
+```
+
+
+
+
