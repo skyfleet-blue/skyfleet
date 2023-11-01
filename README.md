@@ -2,7 +2,7 @@
 title: Contribuer à Skyfleet.blue
 description: Comment rejoindre les contributeurs/trices du wiki et quelques principes de fonctionnement. 
 published: true
-date: 2023-11-01T15:37:55.755Z
+date: 2023-11-01T15:39:28.448Z
 tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-17T17:50:52.947Z
@@ -78,6 +78,8 @@ dans /en/nom-de-la-page pour faire la traduction d'un page existante dans le wik
   <!-- Meta Tags Generated via https://www.opengraph.xyz -->
 ```
 
+# Suggestions ou autre
 
+- [Contactez-nous](https://skyfleet.blue/fr/suggestions) 
 
 
