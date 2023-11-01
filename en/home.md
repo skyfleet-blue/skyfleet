@@ -2,7 +2,7 @@
 title: SAS goes Skyfleet
 description: Skyfleet is a wiki of ressources and newsbot for Bluesky
 published: true
-date: 2023-10-30T17:42:15.873Z
+date: 2023-11-01T20:07:33.288Z
 tags: bluesky, skyfleet, customfeeds, tutorials, tips
 editor: markdown
 dateCreated: 2023-10-30T11:27:37.384Z
@@ -24,18 +24,12 @@ dateCreated: 2023-10-30T11:27:37.384Z
 ## A blog to centralize resources on Bluesky
 - Tutorials, tips and tricks, and links to Bluesky resources created by other users.
 
-## Fleet of thematic/news accounts:
-[the Skyfleet](https://skyfleet.blue/en/skyfleet)
+## Fleet of topical/new-media accounts deployed on Bluesky:
+Explore [the Skyfleet](https://skyfleet.blue/en/skyfleet) on the wiki
 
-- 🇫🇷 Service after Skeets [@skyfleet.blue](https://bsky.app/profile/skyfleet.blue/follows)<br>
-SAS serves as a point of contact for a series of thematic and news media accounts deployed on Bluesky.
+- The [@skyfleet.blue](https://bsky.app/profile/skyfleet.blue/follows) account is a point of contact for a series of thematic and news media accounts deployed on Bluesky.
 - For any suggestions, click [here](https://skyfleet.blue/en/suggestions)
 
-## Fleet of topical/new-media accounts deployed on Bluesky:
-[the Skyfleet](https://skyfleet.blue/en/skyfleet)
-
-- 🇺🇸 Service after Skeets for [@skyfleet.blue](https://bsky.app/profile/skyfleet.blue/follows) <br> SAS serves as a point of contact for a series of thematic and news media accounts deployed on Bluesky.
-- Any suggestions/feedback? Click [here](https://skyfleet.blue/en/suggestions)
 
 # Blog / Updates
 
