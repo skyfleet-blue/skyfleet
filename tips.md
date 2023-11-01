@@ -2,13 +2,24 @@
 title: Astuces & Conseils
 description: Astuces et Conseils pour Bluesky
 published: true
-date: 2023-10-31T09:19:35.274Z
+date: 2023-11-01T16:42:37.076Z
 tags: bluesky, conseils, astuces, trucs
 editor: markdown
 dateCreated: 2023-10-30T19:52:29.391Z
 ---
 
 # Trucs et Astuces pour Bluesky
+
+
+
+- [Comment utiliser les liens Markdown sur Bluesky ?](/fr/tips/markdown)
+- [Réparer une erreur "Invalid Handle"](/fr/tips/invalid-handle)
+- [Utiliser les mots de passe d'application (app passwords)](/fr/tips/app-passwords)
+
+
+
+
+
 
 # Custom feeds
 Aller dans la page dédiée [custom-feeds](/fr/custom-feeds)
@@ -17,7 +28,7 @@ Aller dans la page dédiée [custom-feeds](/fr/custom-feeds)
 ---
 
 
-# Trucs
+# Trucs en vrac (à trier)
 
 Vidéo tutoriel : Vous pouvez désormais faire des [liens](https://deck.blue) comme celui [ci](https://bsky.app/profile/leandraa.fr/post/3kavwlneawq26) via l'app bluesky avec @deck.blue 📍
 
