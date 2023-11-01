@@ -2,7 +2,7 @@
 title: Utiliser les mots de passe d'application (app passwords)
 description: Comment se connecter à un site Bluesky tiers sans donner son mot de passe
 published: true
-date: 2023-11-01T15:14:14.194Z
+date: 2023-11-01T15:22:42.492Z
 tags: mot de passe
 editor: markdown
 dateCreated: 2023-11-01T15:14:14.194Z
@@ -39,4 +39,4 @@ Enfin, sachez qu'il est possible de créer autant de mots de passe d'application
 > **Attention** : une fois que vous aurez fermé la fenêtre qui affiche votre mot de passe, il ne sera plus possible de l'afficher à nouveau ! Prenez-le en note si vous comptez vous en servir à nouveau. Si vous le perdez, vous devrez en créer un nouveau.
 {.is-warning}
 
-6. La page des App Passwords vous affiche alors la liste des mots de passe d'application que vous avez créé. Pour en supprimer un, il suffit de cliquer sur la poubelle rouge à droite, et de confirmer la suppression. En quelques secondes, le site n'aura alors plus accès à votre compte.
+6. La page des App Passwords vous affiche alors la liste des mots de passe d'application que vous avez créé. Pour en supprimer un, il suffit de cliquer sur la poubelle rouge à droite, et de confirmer la suppression. En quelques minutes, le site n'aura alors plus accès à votre compte.
