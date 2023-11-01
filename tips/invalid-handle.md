@@ -2,23 +2,24 @@
 title: Réparer une erreur "Invalid Handle"
 description: Comment réparer un invalid handle sur Bluesky?
 published: true
-date: 2023-11-01T14:00:07.041Z
+date: 2023-11-01T14:12:48.466Z
 tags: handle
 editor: markdown
 dateCreated: 2023-11-01T14:00:07.041Z
 ---
 
-Last month, Bluesky began proxying requests to the App View. 
+Le mois dernier, Bluesky a commencé à transmettre les demandes à l'App View. 
 
-For some users, this caused an **invalid handle** error. If you have an invalid handle, the user-facing UI will display the image below instead of your handle:
-
-You can use Bluesky [debugging tool](https://bsky-debug.app/handle) to investigate this:  
-Just type your handle in. 
-
-If it shows no error, please try updating your handle to the same handle you currently have to resolve this issue.
-
-If the debugging page shows an error for your handle, follow this [guide](https://blueskyweb.xyz/blog/4-28-2023-domain-handle-tutorial) to make sure you set up your handle properly.
-
-If that still isn’t working for you, file a support ticket through the app (“Help” button in the left menu on mobile or right side on desktop) and a Bluesky team member will assist you.
+Pour certains utilisateurs, cela à provoqué une erreur "invalid handle". Si vous avez un identifiant invalide, l'interface affichera l'image çi-dessous au lieu de votre handle:
 
 <img src="https://saskeets.micro.blog/uploads/2023/7a5f590759.jpg" width="600" height="237" alt="Invalid Handle Screenshot ">
+
+Vous pouvez utiliser l'outil [debugging tool](https://bsky-debug.app/handle) pour résoudre le problème : 
+- Tapez simplement votre handle
+
+1. Si aucune erreur n'apparaît, essayez de mettre à jour votre handle avec celui que vous avez actuellement pour résoudre ce problème.
+
+1. Si la page de debug affiche une erreur pour votre handle, suivez ce guide pour vous assurer que vous l'avez configuré correctement[guide](https://blueskyweb.xyz/blog/4-28-2023-domain-handle-tutorial)
+
+1. Si cela ne fonctionne toujours pas, déposez un ticket de support via l'application (bouton " Help " dans le menu de gauche sur mobile ou de droite sur PC) et un membre de l'équipe Bluesky vous aidera.
+
