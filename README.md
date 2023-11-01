@@ -2,14 +2,14 @@
 title: README
 description: 
 published: true
-date: 2023-11-01T14:56:58.578Z
+date: 2023-11-01T14:57:45.078Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-17T17:50:52.947Z
 ---
 
-# skyfleet
-- skyfleet bluesky wiki & resources
+# Skyfleet.blue
+- Un wiki de ressources pour bluesky
 
 # Collaborer avec nous pour construire le wiki : 
 
