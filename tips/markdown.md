@@ -2,7 +2,7 @@
 title: Liens Markdown
 description: Comment faire des liens Markdown ? Tout savoir sur le support du Markdown sur Bluesky
 published: true
-date: 2023-11-01T15:16:53.186Z
+date: 2023-11-01T17:39:29.492Z
 tags: astuces, markdown
 editor: markdown
 dateCreated: 2023-10-22T17:07:16.085Z
@@ -44,7 +44,7 @@ Ce qui donnera ce résultat : [Lien vers ce blog](https://skyfleet.blue/fr/home)
 
 ## Clients compatibles Markdown
 
-A l'heure actuelle, ni le site ni l'application officielle Bluesky ne permet l'usage de cette syntaxe. Il faut alors passer par l'un de ces sites tiers, en n'oubliant pas d'utiliser un [mot de passe d'application](./app-passwords) pour y accéder :
+À l'heure actuelle, ni le site ni l'application officielle Bluesky ne permet l'usage de cette syntaxe. Il faut alors passer par l'un de ces sites tiers, en n'oubliant pas d'utiliser un [mot de passe d'application](./app-passwords) pour y accéder :
 
 - https://deck.blue
 - https://lemonmeant.github.io/splitter_beta/
@@ -54,5 +54,4 @@ A l'heure actuelle, ni le site ni l'application officielle Bluesky ne permet l'u
 ## Bon à savoir
 
 - Si vous créez un lien vers un site mais que le texte de votre lien est lui-même une URL différente, un [message](https://github.com/bluesky-social/social-app/pull/1573) s'affichera lorsque la personne cliquera sur votre lien, afin d'avertir l'utilisateur que le lien est possiblement trompeur, démonstration avec [ce post](https://bsky.app/profile/fenarinarsa.com/post/3kawkar7qk72s).
-- Il est possible de tagguer "silencieusement" une personne en mettant un lien vers son profil, mais avec un texte vide, par exemple :<br/>`[](https://bsky.app/profile/rmendes.net)`<br/>De cette manière, la personne recevra une notification de mention mais elle n'apparaîtra pas dans le corps du message (le lien existera quand même dans les métadonnées du post, ce n'est donc pas tout à fait invisible non plus).
 - Pour les anglophones, il existe une explication en vidéo ici : [How to use deck.blue's new Markdown link feature in Bluesky](https://www.youtube.com/watch?v=K2JPpSAyBqw)
