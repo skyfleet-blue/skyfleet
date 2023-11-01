@@ -2,20 +2,13 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-11-01T14:18:39.582Z
+date: 2023-11-01T14:24:26.576Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
 ---
 
-# Third party tools, extensions, helpers, Threaders
-
-## Crossposters
-
-[Dev] Un outil pour cross-poster de Bluesky vers X et Mastodon? c'est [ici](https://github.com/Linus2punkt0/bluesky-crossposter) que ça se passe 📌
-
----
-[Dev] Un outil pour cross-poster de X vers Bluesky et Mastodon? c'est [ici](https://github.com/louisgrasset/touitomamout)
+# Outils, Extensions, Helpers, Threaders, Apps
 
 ## Threads
 
@@ -70,7 +63,7 @@ Bsky.app
 Vsky.social
 - https://www.vsky.social/
 
-Kite | Better Bluesky Client kite.black
+Kite | Better Bluesky Client kite.black (avec post Audio)
 
 - https://kite.black
 
@@ -236,7 +229,7 @@ Poll.blue
 - https://poll.blue
 
 
-## Domains
+## Domaines
 
 Acheter un nom domaine directement via Bluesky/Namecheap
 et configurer votre compte bsky.social pour l'utiliser, sans connaissance technique. 
@@ -312,7 +305,17 @@ New & Improved URLs And Domains From The Bluesky Firehose [observablehq.com](htt
  - [Sky Follower Bridge](https://chrome.google.com/webstore/detail/sky-follower-bridge/behhbpbpmailcnfbjagknjngnfdojpko) - Chrome add-on to find your Twitter follows and followers on Bluesky
 
 
+## Crossposters
 
+[Dev] Un outil pour cross-poster de Bluesky vers X et Mastodon? c'est [ici](https://github.com/Linus2punkt0/bluesky-crossposter) que ça se passe 📌
+
+---
+[Dev] Un outil pour cross-poster de X vers Bluesky et Mastodon? c'est [ici](https://github.com/louisgrasset/touitomamout)
+
+---
+
+Fedica
+- https://fedica.com/
 
 ## Developers 
 
