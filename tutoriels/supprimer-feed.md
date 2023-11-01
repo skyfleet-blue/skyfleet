@@ -2,7 +2,7 @@
 title: Comment supprimer un custom feed ?
 description: Procédure à suivre pour supprimer un feed 
 published: true
-date: 2023-11-01T17:05:11.434Z
+date: 2023-11-01T17:11:32.597Z
 tags: tutoriels, customfeeds
 editor: markdown
 dateCreated: 2023-11-01T16:51:44.401Z
@@ -20,7 +20,7 @@ Afin d'éviter les erreurs de suppression, il ne suffit pas seulement d'appuyer 
 1. Appuyer sur **Update feed** pour ouvrir la description du feed
 1. Puis **Unpublish Feed** en bas à gauche
 1. Vous pouvez alors cliquer sur ![icone-poubelle-skyfeed.png](/captures/icone-poubelle-skyfeed.png) qui se trouve à côté du nom du feed
-1. Puis valider la suppression en cliquand sur **Delete**.
+1. Puis valider la suppression en cliquant sur **Delete**.
 
 ![supprimer-feed.png](/captures/supprimer-feed.png){.align-center}
 
