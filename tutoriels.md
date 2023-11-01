@@ -2,7 +2,7 @@
 title: Tutoriels Bluesky
 description: Une collection de tutoriels pour Bluesky
 published: true
-date: 2023-11-01T16:24:16.710Z
+date: 2023-11-01T16:34:58.614Z
 tags: bluesky, tutoriels
 editor: markdown
 dateCreated: 2023-10-30T19:52:41.715Z
@@ -40,6 +40,7 @@ Sur cette page vont venir se lister toute une série de tutoriels en rapport ave
 - [Comment faire un custom feed à partir d'une fausse mute-list ?](/fr/tutoriels/fausse-mute-list)
 - [Comment combiner l'usage d'un Newsbot RSS et d'un custom feed ?](/fr/tutoriels/newsbot-customfeeds)
 - [Comment segmenter les posts d'un compte bluesky par langue ?](/fr/tutoriels/segmentation-langue)
+- [Comment épingler un post dans un Feed ? ](/fr/tutoriels/single-post-epingle)
 
 ### Avancé
 - [Comment combiner un newsbot RSS pour générer des Customs Feeds thématiques ?](/fr/tutoriels/newsbot-customfeeds)
