@@ -2,7 +2,7 @@
 title: Contribuer à Skyfleet.blue
 description: Comment rejoindre les contributeurs/trices du wiki et quelques principes de fonctionnement. 
 published: true
-date: 2023-11-01T15:39:28.448Z
+date: 2023-11-01T16:47:18.773Z
 tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-17T17:50:52.947Z
@@ -28,7 +28,7 @@ dateCreated: 2023-10-17T17:50:52.947Z
 > c'est une bonne pratique de faire un lien vers la source du conseil ou de l'astuce, du tutoriels vers son auteur d'orgine afin de ne pas pomper la communauté sans la créditer. 
 {.is-warning}
 
-# Arborescence des fichiers
+# Arborescence des pages/fichiers
 
 Les pages en Français sont par défaut stockée à la racine du répertoire, les pages en Anglais ou autre dans un dossier par langue, tel que /en/ etc..
 Ensuite les pages des tutoriels, custom feeds, astuces etc.. sont elle aussi dans leur propre répertoire. 
@@ -40,6 +40,16 @@ c'est ce qui permet d'avoir par exemple : https://skyfleet.blue/fr/skyfleet-sour
 - mediasfr est le nom du bot et de la page
 
 
+## Pages Parents comme index
+
+Pour chacune des pages ci dessous, quand un tutoriel, une source, une astuce ou un custom feed est ajouté en forme de sous-page, on édite la page Parents et on ajoute un lien vers la sous-page dans la liste.
+
+- [Astuces](/fr/tips/README)
+- [Custom Feed](/fr/custom-feeds/README)
+- [Sources](/fr/skyfleet-sources/README)
+- [Tutoriels](/fr/tutoriels/README)
+
+
 ## Images
 
 - logo
@@ -48,6 +58,7 @@ c'est ce qui permet d'avoir par exemple : https://skyfleet.blue/fr/skyfleet-sour
 
 Pour uploader une image au bon endroit, il faut d'abord rentrer dans le dossier avant de téléverser l'image dans celui ci
 on essaye de mettre toutes les captures d'écrans des tutos ou autre dans "captures", les images en général dans "images" et les logo ou couvertures des différents comptes de la flotte dans "logo"
+
 
 
 # Traduction
