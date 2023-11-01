@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2023-11-01T14:53:06.768Z
+date: 2023-11-01T14:56:58.578Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-17T17:50:52.947Z
@@ -30,6 +30,16 @@ dateCreated: 2023-10-17T17:50:52.947Z
 
 # Arborescence des fichiers
 
+Les pages en Français sont par défaut stockée à la racine du répertoire, les pages en Anglais ou autre dans un dossier par langue, tel que /en/ etc..
+Ensuite les pages des tutoriels, custom feeds, astuces etc.. sont elle aussi dans leur propre répertoire. 
+
+- pour mettre une page dans un répertoire il suffit de la créer ou de la sauver en la déplaçant, en choisissant préalablement le répertoire auquel on veut faire apartenir la page en question. 
+
+c'est ce qui permet d'avoir par exemple : https://skyfleet.blue/fr/skyfleet-sources/mediasfr
+- skyfleet-sources est un répertoires pour les sources des bots
+- mediasfr est le nom du bot et de la page
+
+
 ## Images
 
 - logo
@@ -40,7 +50,7 @@ Pour uploader une image au bon endroit, il faut d'abord rentrer dans le dossier 
 on essaye de mettre toutes les captures d'écrans des tutos ou autre dans "captures", les images en général dans "images" et les logo ou couvertures des différents comptes de la flotte dans "logo"
 
 
-## Traduction
+# Traduction
 
 par défaut la langue principale du wiki est le français et les traductions ou pages en Anglais vienent se loger
 dans /en/nom-de-la-page pour faire la traduction d'un page existante dans le wiki, il faut faire attention de lui laisser le même SLUG en Anglais qu'en Français (original) afin que le système sache faire correspondre les traductions de pages. 
