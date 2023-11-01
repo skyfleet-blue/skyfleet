@@ -2,7 +2,7 @@
 title: Contribuer à Skyfleet.blue
 description: Comment rejoindre les contributeurs/trices du wiki et quelques principes de fonctionnement. 
 published: true
-date: 2023-11-01T17:20:13.083Z
+date: 2023-11-01T19:23:43.712Z
 tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-17T17:50:52.947Z
@@ -44,10 +44,10 @@ c'est ce qui permet d'avoir par exemple : https://skyfleet.blue/fr/skyfleet-sour
 
 Pour chacune des pages ci dessous, quand un tutoriel, une source, une astuce ou un custom feed est ajouté en forme de sous-page, on édite la page Parents et on ajoute un lien vers la sous-page dans la liste.
 
-- [Astuces](/fr/tips/README)
-- [Custom Feed](/fr/custom-feeds/README)
-- [Sources](/fr/skyfleet-sources/README)
-- [Tutoriels](/fr/tutoriels/README)
+- [Astuces](/fr/tips/)
+- [Custom Feed](/fr/custom-feeds/)
+- [Sources](/fr/skyfleet-sources/)
+- [Tutoriels](/fr/tutoriels/)
 
 
 ## Images
