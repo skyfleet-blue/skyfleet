@@ -2,7 +2,7 @@
 title: Accueil
 description: Un wiki de ressources sur Bluesky
 published: true
-date: 2023-10-31T09:31:38.896Z
+date: 2023-11-01T14:42:24.213Z
 tags: bluesky, ressources, conseils, astuces, tutoriels
 editor: markdown
 dateCreated: 2023-10-30T19:52:10.582Z
@@ -14,14 +14,14 @@ dateCreated: 2023-10-30T19:52:10.582Z
 {.is-warning}
 
 # A propos
-## Un blog pour centraliser des ressources sur Bluesky
-- Tutoriels, trucs et astuces et liens vers des ressources Bluesky crées par d'autres utilisateurs/trices.
+## Un wiki pour centraliser des ressources sur Bluesky
+- Tutoriels, trucs et astuces et liens vers des ressources Bluesky créé par la communauté.
 
 ## flotte de comptes thématiques/news: 
-[la Skyfleet](https://skyfleet.blue/fr/skyfleet)
+- [la Skyfleet](https://skyfleet.blue/fr/skyfleet) sur le wiki
 
-- 🇫🇷Service après Skeets [@skyfleet.blue](https://bsky.app/profile/skyfleet.blue/follows)<br>
-SAS sert comme point de contact pour toute une série de compte thématique et médias déployé sur Bluesky
+- Trouver la [@skyfleet](https://bsky.app/profile/skyfleet.blue/follows) sur Bluesky 
+le compte @skyfleet.blue sert comme point de contact pour toute une série de compte thématique et médias déployé sur Bluesky
 - Pour toute suggestions, cliquer [ici](https://skyfleet.blue/fr/suggestions)
 
 
