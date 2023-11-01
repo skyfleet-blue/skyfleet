@@ -2,7 +2,7 @@
 title: Todo
 description: Todo - à faire
 published: true
-date: 2023-10-31T09:22:00.281Z
+date: 2023-11-01T17:14:44.556Z
 tags: bluesky, todo
 editor: markdown
 dateCreated: 2023-10-30T19:52:33.695Z
@@ -18,7 +18,7 @@ dateCreated: 2023-10-30T19:52:33.695Z
 {.is-success}
 
 - [ ] Move all tutorials,tools list, news bots 
-> 82% done
+> 92% done
 {.is-info}
 
 - [ ] Move the page [skyfleet](/fr/skyfleet) for each News bot to its own page
@@ -26,11 +26,11 @@ dateCreated: 2023-10-30T19:52:33.695Z
 {.is-info}
 
 - [ ] Create source page for each newsbots
-> 2% done
+> 5% done
 {.is-info}
 
 - [ ] Rework Tutorials / [tutoriels](/fr/tutoriels) page
-> 40%
+> 50%
 {.is-info}
 
 - [ ] Rework Tools / [outils](/fr/outils) page
@@ -38,7 +38,7 @@ dateCreated: 2023-10-30T19:52:33.695Z
 {.is-info}
 
 - [ ] Rework Tips page
-> 0%
+> 5%
 - [ ] Rework [dev](/fr/dev) page
 > 40%
 {.is-info}
