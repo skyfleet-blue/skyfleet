@@ -1,8 +1,8 @@
 ---
 title: Fix Invalid Handle
-description: Comment réparer un invalid handle sur Bluesky?
+description: How to fix a invalid handle on Bluesky?
 published: true
-date: 2023-10-30T16:45:41.355Z
+date: 2023-11-01T13:56:51.545Z
 tags: handle
 editor: markdown
 dateCreated: 2023-10-08T17:36:13.774Z
