@@ -2,7 +2,7 @@
 title: Accueil
 description: Un wiki de ressources sur Bluesky
 published: true
-date: 2023-11-01T14:43:37.621Z
+date: 2023-11-01T14:43:54.752Z
 tags: bluesky, ressources, conseils, astuces, tutoriels
 editor: markdown
 dateCreated: 2023-10-30T19:52:10.582Z
@@ -17,7 +17,7 @@ dateCreated: 2023-10-30T19:52:10.582Z
 ## Un wiki pour centraliser des ressources sur Bluesky
 - Tutoriels, trucs et astuces et liens vers des ressources Bluesky créé par la communauté.
 
-## flotte de comptes thématiques/news: 
+## Flotte de comptes thématiques/news: 
 - [la Skyfleet](https://skyfleet.blue/fr/skyfleet) sur le wiki
 
 - Trouver la [@skyfleet](https://bsky.app/profile/skyfleet.blue/follows) sur Bluesky 
