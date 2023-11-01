@@ -2,11 +2,17 @@
 title: Réparer une erreur "Invalid Handle"
 description: Comment réparer un invalid handle sur Bluesky?
 published: true
-date: 2023-11-01T16:40:28.502Z
+date: 2023-11-01T16:41:52.659Z
 tags: handle
 editor: markdown
 dateCreated: 2023-11-01T14:00:07.041Z
 ---
+
+ # Invalid Handle
+ 
+>  Cet erreur peut aussi survenir si vous vous trompez dans la configuration de votre nom de domaine en voulant passer d'un handle.bsky.social à votre nom de domaine ou sous domaine. 
+{.is-info}
+
 
 Le mois dernier, Bluesky a commencé à transmettre les demandes à l'App View. 
 
