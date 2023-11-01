@@ -2,7 +2,7 @@
 title: Utiliser les mots de passe d'application (app passwords)
 description: Comment se connecter à un site Bluesky tiers sans donner son mot de passe
 published: true
-date: 2023-11-01T15:22:42.492Z
+date: 2023-11-01T16:19:42.699Z
 tags: mot de passe
 editor: markdown
 dateCreated: 2023-11-01T15:14:14.194Z
@@ -26,7 +26,7 @@ Enfin, sachez qu'il est possible de créer autant de mots de passe d'application
 
 # Comment ça marche ?
 
-1. Sur le site Bluesky ou sur l'application, dirigez-vous sur la page des paramètres (*Settings*), puis cliquez sur le lien *App Passwords*.
+1. Sur le site Bluesky ou sur l'application, dirigez-vous sur la page des paramètres (*Settings*), puis cliquez sur le lien [*App Passwords*.](https://bsky.app/settings/app-passwords)
 
 2. Cliquez sur le bouton *Add App Password*
 
