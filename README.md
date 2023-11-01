@@ -2,7 +2,7 @@
 title: Contribuer à Skyfleet.blue
 description: Comment rejoindre les contributeurs/trices du wiki et quelques principes de fonctionnement. 
 published: true
-date: 2023-11-01T16:47:18.773Z
+date: 2023-11-01T17:20:13.083Z
 tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-17T17:50:52.947Z
@@ -14,8 +14,8 @@ dateCreated: 2023-10-17T17:50:52.947Z
 # Collaborer avec nous pour construire le wiki : 
 
  - mentionnez [@skyfleet.blue](https://bsky.app/profile/skyfleet.blue) si vous souhaitez nous contacter sur Bluesky
- - contactez-nous via le système de chat sur le wiki pour être ajouté en tant que collaborateur
- - la collaboration peut être faite via GitHub ou en utilisant l'éditeur visuel du wiki
+ - contactez-nous via le système de chat sur le [wiki](/fr/home) pour être ajouté en tant que collaborateur (chercher la 🔵 en bas à droite)
+ - la collaboration peut être faite via [GitHub](https://github.com/skyfleet-blue/skyfleet) ou en utilisant l'éditeur visuel du wiki
 
 
 # Convention de collaboration
