@@ -2,7 +2,7 @@
 title: Liens Markdown
 description: Comment faire des liens Markdown ? Tout savoir sur le support du Markdown sur Bluesky
 published: true
-date: 2023-10-31T12:08:03.902Z
+date: 2023-11-01T14:13:51.335Z
 tags: astuces, markdown
 editor: markdown
 dateCreated: 2023-10-22T17:07:16.085Z
@@ -10,10 +10,13 @@ dateCreated: 2023-10-22T17:07:16.085Z
 
 # Comment utiliser les liens Markdown sur Bluesky ?
 
-Avec le Markdown, il devient possible d'écrire des posts sur Bluesky qui intègrent un ou plusieurs liens vers des sites externes, mais en personnalisant le texte qui est associé au lien. On passe alors de ça :<br/>
-https://bsky.app/profile/did:plc:tenurhgjptubkk5zf5qhi3og/feed/only-posts<br/>
-à ça :<br/>
-[Feed OnlyPosts](https://bsky.app/profile/did:plc:tenurhgjptubkk5zf5qhi3og/feed/only-posts)
+Avec le Markdown, il devient possible d'écrire des posts sur Bluesky qui intègrent un ou plusieurs liens vers des sites externes, mais en personnalisant le texte qui est associé au lien. On passe alors d'un lien qui ressemble à ça :
+
+> https://bsky.app/profile/did:plc:tenurhgjptubkk5zf5qhi3og/feed/only-posts
+
+Qu'on peut transformer comme ceci :
+
+> [Feed OnlyPosts](https://bsky.app/profile/did:plc:tenurhgjptubkk5zf5qhi3og/feed/only-posts)
 
 Cela permet de créer des posts plus concis, d'économiser des caractères et d'améliorer la présentation de ses posts, en particulier ceux qui présentent des Custom Feeds ([Comment épingler un single post dans un custom feed ?](https://blog.skyfleet.blue/2023/09/01/comment-pingler-un.html))
 
@@ -23,7 +26,7 @@ Exemples de posts contenant ce genre de liens : [ici](https://bsky.app/profile/r
 
 ## Comment ça marche ? 
 
-> Cette fonctionnalité n'est pas supportée par le client Bluesky officiel, il faut passer par un client tiers, voir la section *Clients supportés* plus bas.
+> Cette fonctionnalité n'est pas prise en charge par le client Bluesky officiel, il faut passer par un client tiers, voir la section *Clients compatibles Markdown* plus bas.
 {.is-info}
 
 La structure est simple à mémoriser : le texte visible du lien va se placer entre crochets [ ] suivi immédiatement de l'URL HTTP entre parenthèses ( ), comme ceci :
@@ -39,7 +42,9 @@ Par exemple :
 
 Ce qui donnera ce résultat : [Lien vers ce blog](https://skyfleet.blue/fr/home)
 
-## Clients supportés
+## Clients compatibles Markdown
+
+A l'heure actuelle, ni le site ni l'application officielle Bluesky ne permet l'usage de cette syntaxe. Il faut alors passer par l'un de ces sites tiers, en n'oubliant pas d'utiliser un mot de passe d'application pour y accéder :
 
 - https://deck.blue
 - https://lemonmeant.github.io/splitter_beta/
