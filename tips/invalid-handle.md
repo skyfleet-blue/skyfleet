@@ -2,7 +2,7 @@
 title: Réparer une erreur "Invalid Handle"
 description: Comment réparer un invalid handle sur Bluesky?
 published: true
-date: 2023-11-01T14:15:58.262Z
+date: 2023-11-01T14:19:15.500Z
 tags: handle
 editor: markdown
 dateCreated: 2023-11-01T14:00:07.041Z
@@ -10,7 +10,7 @@ dateCreated: 2023-11-01T14:00:07.041Z
 
 Le mois dernier, Bluesky a commencé à transmettre les demandes à l'App View. 
 
-Pour certains utilisateurs, cela à provoqué une erreur **Invalid Handle**. Si vous avez un identifiant invalide, l'interface affichera l'image çi-dessous au lieu de votre handle:
+Pour certains utilisateurs, cela a provoqué une erreur **Invalid Handle**. Si vous avez un identifiant invalide, l'interface affichera l'image ci-dessous au lieu de votre handle:
 
 <img src="https://saskeets.micro.blog/uploads/2023/7a5f590759.jpg" width="600" height="237" alt="Invalid Handle Screenshot ">
 
