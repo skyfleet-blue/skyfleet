@@ -2,7 +2,7 @@
 title: Custom Feeds Directory
 description: Skyfleet hand curated custom feed directory
 published: true
-date: 2023-11-01T17:16:17.558Z
+date: 2023-11-01T17:17:43.382Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-28T00:04:13.552Z
@@ -15,7 +15,7 @@ dateCreated: 2023-10-28T00:04:13.552Z
 
 
 # Creating Custom Feeds
-- How to find or search Custom Feeds ? https://skyfleet.blue/fr/custom-feeds/creation-cf
+- How to find or search Custom Feeds ?  [to be translated](https://skyfleet.blue/fr/custom-feeds/creation-cf) from 🇫🇷
 
 # Custom Feed Directory for Bluesky
 
