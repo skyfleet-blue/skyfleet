@@ -1,9 +1,9 @@
 ---
-title: README
-description: 
+title: Contribuer à Skyfleet.blue
+description: Comment rejoindre les contributeurs/trices du wiki et quelques principes de fonctionnement. 
 published: true
-date: 2023-11-01T15:11:45.919Z
-tags: 
+date: 2023-11-01T15:37:55.755Z
+tags: skyfleet
 editor: markdown
 dateCreated: 2023-10-17T17:50:52.947Z
 ---
