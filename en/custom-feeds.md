@@ -2,7 +2,7 @@
 title: Custom Feeds Directory
 description: Skyfleet hand curated custom feed directory
 published: true
-date: 2023-10-31T12:49:27.145Z
+date: 2023-11-01T17:16:17.558Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-28T00:04:13.552Z
@@ -10,9 +10,8 @@ dateCreated: 2023-10-28T00:04:13.552Z
 
 # a Selection of Custom feed by Skyfleet
 
-
-- [bsky](/en/custom-feeds/bsky)
-- [gitrepos](/en/custom-feeds/gitrepos)
+> To be translated from french
+{.is-warning}
 
 
 # Creating Custom Feeds
