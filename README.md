@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2023-11-01T14:25:28.916Z
+date: 2023-11-01T14:44:19.126Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-17T17:50:52.947Z
@@ -11,7 +11,14 @@ dateCreated: 2023-10-17T17:50:52.947Z
 # skyfleet
 - skyfleet bluesky wiki & resources
 
-# Collaborate
-- ping @skyfleet.blue if you want to get in touch with us
-- get in touch via the chat system on the wiki to be added as collaborator
-- collaboration can either be done via github or using the wiki visual editor
+# Collaborer avec nous pour construire le wiki : 
+
+ - mentionnez @skyfleet.blue si vous souhaitez nous contacter sur Bluesky
+ - contactez-nous via le système de chat sur le wiki pour être ajouté en tant que collaborateur
+ - la collaboration peut être faite via GitHub ou en utilisant l'éditeur visuel du wiki
+
+
+# Arborescence des fichiers
+
+par défaut la langue principale du wiki est le français et les traductions ou pages en Anglais vienent se loger
+dans /en/nom-de-la-page
