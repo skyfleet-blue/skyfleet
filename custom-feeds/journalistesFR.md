@@ -2,7 +2,7 @@
 title: Journalistes Francophones
 description: Un custom feeds des journalistes francophones sur Bluesky
 published: true
-date: 2023-10-30T16:46:32.860Z
+date: 2023-11-04T19:25:11.788Z
 tags: customfeeds, journalisme
 editor: markdown
 dateCreated: 2023-10-21T12:50:07.798Z
