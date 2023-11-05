@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-11-01T14:24:26.576Z
+date: 2023-11-05T19:19:01.683Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -296,6 +296,8 @@ New & Improved URLs And Domains From The Bluesky Firehose [observablehq.com](htt
 ## Regex 
 
 - https://autoregex.xyz/
+- https://regex101.com/
+- https://regex-generator.olafneumann.org/
 
 ## Migration
  - [Fedifinder](https://fedifinder.glitch.me/) - Your X/Twitter contacts on Bluesky and the fediverse
