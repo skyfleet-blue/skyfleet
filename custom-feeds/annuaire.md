@@ -2,7 +2,7 @@
 title: Annuaire de Custom Feeds
 description: Un annuaire skyfleet de custom feeds sur Bluesky
 published: true
-date: 2023-11-05T12:47:23.712Z
+date: 2023-11-05T12:49:04.881Z
 tags: customfeeds, annuaire
 editor: markdown
 dateCreated: 2023-11-05T12:47:23.712Z
