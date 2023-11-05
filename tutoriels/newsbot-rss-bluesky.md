@@ -1,8 +1,8 @@
 ---
-title: Comment déployer un News Bot RSS sur Bluesky
-description: 
+title: Déployer un News Bot RSS sur Bluesky
+description: Comment déployer un News Bot RSS sur Bluesky ?
 published: true
-date: 2023-10-30T16:46:41.440Z
+date: 2023-11-05T15:33:32.232Z
 tags: tutoriels
 editor: markdown
 dateCreated: 2023-10-27T19:31:42.269Z
