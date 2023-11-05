@@ -1,12 +1,15 @@
 ---
-title: Comment supprimer un custom feed ?
+title: Supprimer un feed
 description: Procédure à suivre pour supprimer un feed 
 published: true
-date: 2023-11-01T17:11:32.597Z
+date: 2023-11-05T15:21:45.693Z
 tags: tutoriels, customfeeds
 editor: markdown
 dateCreated: 2023-11-01T16:51:44.401Z
 ---
+
+
+# Comment supprimer un feed ? 
 
 Suite à la question [@zorey](https://bsky.app/profile/zorey.bsky.social/post/3kd4pz6mktf2p) voilà les étapes pour supprimer un feed crée sur [skyfeed.app](https://skyfeed.app)
 
