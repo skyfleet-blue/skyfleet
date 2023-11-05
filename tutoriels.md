@@ -1,36 +1,29 @@
 ---
 title: Tutoriels Bluesky
-description: Une collection de tutoriels pour Bluesky
+description: Liste des tutoriels 
 published: true
-date: 2023-11-01T17:14:22.422Z
+date: 2023-11-05T15:44:48.371Z
 tags: bluesky, tutoriels
 editor: markdown
 dateCreated: 2023-10-30T19:52:41.715Z
 ---
 
-# Tutoriels
 Sur cette page vont venir se lister toute une série de tutoriels en rapport avec Bluesky, que ce soit les bases d'utilisations, l'utilisation et la création de custom feeds, les listes, les clients alternatifs, on va faire le tour, petit à petit de toutes ces questions et lister chacun de ses tutoriels sur cette page. 
 
 > Page et projet de tutoriels largement en construction
 {.is-warning}
 
-
-
 # Tutoriels Bluesky
 
 ## Simple
-- [Comment utiliser le Jazbot ?](/fr/tutoriels/jazbot)
-
+- [Comment utiliser le Jazbot ?](/fr/tutoriels/jazbot) 
 
 ## Avancé
 - [Comment déployer un News Bot RSS sur Bluesky](/fr/tutoriels/newsbot-rss-bluesky)
 
 - [Feed-generateur auto hébergé](/fr/tutoriels/feed-generator)
 
-# Tutoriels Custom Feeds
-
-## Skyfeed
-
+# Tutoriels Feeds (Skyfeed)
 ### Relativement Simple
 
 - [filtresv1](/fr/tutoriels/filtresv1)
@@ -47,7 +40,7 @@ Sur cette page vont venir se lister toute une série de tutoriels en rapport ave
 
 - Comment [segmenter les posts d'un compte Bluesky](https://blog.rmendes.net/2023/08/29/comment-segmenter-un.html) par langues ?
 
-## blueskyfeeds
+
 
 
 
