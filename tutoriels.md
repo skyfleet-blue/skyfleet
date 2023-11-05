@@ -2,7 +2,7 @@
 title: Tutoriels Bluesky
 description: Liste des tutoriels 
 published: true
-date: 2023-11-05T16:04:16.181Z
+date: 2023-11-05T19:16:20.376Z
 tags: bluesky, tutoriels
 editor: markdown
 dateCreated: 2023-10-30T19:52:41.715Z
@@ -22,7 +22,7 @@ Sur cette page vont venir se lister toute une série de tutoriels en rapport ave
 # Tutoriels Feeds (Skyfeed)
 
 
-- [Comment créer un feed ?](/fr/tutoriels/signets) Ex: feed à signets
+- [Comment créer un feed ?](https://skyfleet.blue/fr/tutoriels/feed) [Feed à signets ?](/fr/tutoriels/signets) 
 - [Comment segmenter les posts d'un feed par langue ?](/fr/tutoriels/segmentation-langue)
 - [Comment faire un feed à partir d'une mute-list ?](/fr/tutoriels/fausse-mute-list)
 - [Comment épingler un post dans un feed ? ](/fr/tutoriels/single-post-epingle)
