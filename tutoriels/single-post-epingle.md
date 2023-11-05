@@ -1,14 +1,14 @@
 ---
-title: Epingler un post dans un Feed  
+title: Epingler un post dans un feed  
 description: Comment épingler un single post dans un feed ? 
 published: true
-date: 2023-11-05T15:19:18.464Z
+date: 2023-11-05T15:20:33.528Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-11-01T16:28:56.672Z
 ---
 
-# Utiliser un post Bluesky comme post-épinglé dans un feed
+# Comment epingler un post dans un feed?
 
 Utiliser un post sur Bluesky pour introduire un feed avec des informations.
 
