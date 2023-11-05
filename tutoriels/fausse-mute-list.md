@@ -1,14 +1,18 @@
 ---
-title: Comment faire un custom feed à partir d'une fausse mute-list?
-description: 
+title: Faire un feed à partir d'une fausse mute-list
+description: Comment faire un feed à partir d'une fausse mute-list?
 published: true
-date: 2023-10-30T17:15:14.805Z
+date: 2023-11-05T15:24:41.445Z
 tags: customfeeds, mutelist
 editor: markdown
 dateCreated: 2023-10-30T17:15:11.910Z
 ---
 
-## Création d'une mute-list à des fins de listes classiques = se désinscrire de la liste !!!
+# Comment faire un feed à partir d'une mute-list?
+
+> Création d'une mute-list à des fins de listes classiques = se désinscrire de la liste !!!
+{.is-warning}
+
 
 - Créer une "mute-list" de laquelle on va se désinscrire une fois créée (très important pour la suite)
 - Une fois avec votre liste vous allez sur les profils des comptes que vous voulez ajouter dans le custom feed et vous obtenez quelque chose comme [ceci](https://bsky.app/profile/rmendes.net/lists/3k2g2ic4ozk2w) 
