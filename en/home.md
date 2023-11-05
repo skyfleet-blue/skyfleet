@@ -2,7 +2,7 @@
 title: SAS goes Skyfleet
 description: Skyfleet is a wiki of ressources and newsbot for Bluesky
 published: true
-date: 2023-11-01T20:07:33.288Z
+date: 2023-11-05T10:37:33.287Z
 tags: bluesky, skyfleet, customfeeds, tutorials, tips
 editor: markdown
 dateCreated: 2023-10-30T11:27:37.384Z
