@@ -1,12 +1,14 @@
 ---
-title: Filtres V1
+title: Créer un feed pour suivre des comptes en excluant des mots-clés
 description: Filtrage via des mutes-lists
 published: true
-date: 2023-10-30T16:45:55.614Z
-tags: filtrage
+date: 2023-11-05T19:54:43.882Z
+tags: customfeeds, filtrage
 editor: markdown
 dateCreated: 2023-10-08T17:57:41.318Z
 ---
+
+# Comment suivre une liste de comptes en excluant certains mots clés?
 
 comment segmenter l'activité de vos amis sur Bluesky et y exclure toute mention de Trump ou de Musk / X?
 
