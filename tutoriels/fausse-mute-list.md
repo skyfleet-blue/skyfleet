@@ -2,7 +2,7 @@
 title: Faire un feed à partir d'une fausse mute-list
 description: Comment faire un feed à partir d'une fausse mute-list?
 published: true
-date: 2023-11-05T15:24:41.445Z
+date: 2023-11-05T15:28:57.015Z
 tags: customfeeds, mutelist
 editor: markdown
 dateCreated: 2023-10-30T17:15:11.910Z
@@ -10,15 +10,17 @@ dateCreated: 2023-10-30T17:15:11.910Z
 
 # Comment faire un feed à partir d'une mute-list?
 
+Pour le moment la seule possibilité de liste que nous permets Bluesky sont des listes nous permettant de muter des comptes. Heureusement, ce système de mute-list peut être utiliser à notre avantage pour créer des listes de comptes que l'ont peut voir apparaitre dans un feed
+
 > Création d'une mute-list à des fins de listes classiques = se désinscrire de la liste !!!
 {.is-warning}
 
 
-- Créer une "mute-list" de laquelle on va se désinscrire une fois créée (très important pour la suite)
-- Une fois avec votre liste vous allez sur les profils des comptes que vous voulez ajouter dans le custom feed et vous obtenez quelque chose comme [ceci](https://bsky.app/profile/rmendes.net/lists/3k2g2ic4ozk2w) 
-- De là vous allez dans Skyfeed.app, vous ajoutez un bloc "input" de type List (image 1)
-- Vous choisissez votre list via l'interface graphique (image 2 et 3)
-- Ensuite à vous de voir pour exclure les réponses, les reposts ou même ajouter un bloc input général de tout le réseau sur lequel vous faite un regex avec des mots clefs compatibles avec le thème de votre custom feed. 
+1. Créer une "mute-list" de laquelle on va se désinscrire une fois créée (très important pour la suite)
+1. Une fois avec votre liste vous allez sur les profils des comptes que vous voulez ajouter dans le custom feed et vous obtenez quelque chose comme [ceci](https://bsky.app/profile/rmendes.net/lists/3k2g2ic4ozk2w) 
+1. De là vous allez dans Skyfeed.app, vous ajoutez un bloc "input" de type List (image 1)
+1. Vous choisissez votre list via l'interface graphique (image 2 et 3)
+1. Ensuite à vous de voir pour exclure les réponses, les reposts ou même ajouter un bloc input général de tout le réseau sur lequel vous faite un regex avec des mots clefs compatibles avec le thème de votre custom feed. 
 
 <img src="https://saskeets.micro.blog/uploads/2023/bafkreia2zruwfl7qsjhij6sq33ade34l67q7srirc6aloylikgq5wv4imy.jpg" width="600" height="566" alt="">
 
