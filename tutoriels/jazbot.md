@@ -1,8 +1,8 @@
 ---
-title: Comment utiliser le Jazbot ?
+title: Utiliser Jazbot
 description: Un bot pour faire de simple recherche sur vos posts et interroger l'api de bluesky
 published: true
-date: 2023-10-30T16:45:58.318Z
+date: 2023-11-05T15:30:52.979Z
 tags: bluesky
 editor: markdown
 dateCreated: 2023-10-08T18:07:05.293Z
@@ -13,7 +13,7 @@ dateCreated: 2023-10-08T18:07:05.293Z
 - attention, recherche précise, le bot ne supporte pas encore les variantes de mots
 - le nombre de résultat est limité
 
-meet [@jazzbot!](https://bsky.app/profile/jazbot.jazco.dev)
+meet [@jazbot!](https://bsky.app/profile/jazbot.jazco.dev)
 par exemple pour chercher le mot blue dans vos post après avoir suivi le bot
 
 - !jazbot search blue
