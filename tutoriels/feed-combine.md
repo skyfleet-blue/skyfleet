@@ -1,14 +1,14 @@
 ---
 title: Créer un feed combiné
-description: Comment créer un custom feed à partir de plusieurs sources
+description: Comment créer un custom feed à partir de plusieurs sources ?
 published: true
-date: 2023-11-05T15:03:42.969Z
+date: 2023-11-05T15:04:25.115Z
 tags: customfeeds
 editor: markdown
 dateCreated: 2023-10-29T21:05:58.922Z
 ---
 
-# Comment créer un feed combiné?
+# Comment créer un feed combiné ?
 
 Imaginons un cas de figure concret, celui que m'a posé cette [colle](https://bsky.app/profile/najat.bsky.social/post/3kcw274tv3l2p), on veut un feed qui prend des posts du réseaux et en même temps qui prend certains post d'un compte qui post sur le Congo. 
 
