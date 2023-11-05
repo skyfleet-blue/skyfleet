@@ -1,14 +1,14 @@
 ---
-title: Comment créer un Custom Feed à signets ?
+title: Créer un Custom Feed à signets ?
 description: Comment créer un Custom Feed pour y ranger des posts à ne pas oublier, bref des signets ?
 published: true
-date: 2023-10-31T18:14:54.773Z
+date: 2023-11-05T14:59:07.816Z
 tags: customfeeds, signets
 editor: markdown
 dateCreated: 2023-10-30T17:09:20.110Z
 ---
 
-## Tuto Signets
+## Comment créer un custom feed à signets ?
 Si vous voulez épingler des posts afin de les conserver et les retrouver plus facilement, vous aurez besoin de :
 - un mot clef ou un symbole qui va vous servir de filtre
 - Skyfeed.app
