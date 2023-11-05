@@ -1,12 +1,14 @@
 ---
-title: Comment segmenter l'activité d'un compte sur bluesky par langue ?
-description: Comment utiliser les custom feeds pour segmenter l'activité d'un compte bilingue sur Bluesky?
+title: Segmenter l'activité en fonction de la langue 
+description: Comment utiliser un feed pour segmenter l'activité d'un compte bilingue sur Bluesky?
 published: true
-date: 2023-10-30T17:31:16.624Z
+date: 2023-11-05T15:32:41.125Z
 tags: customfeeds, langues, segmentation
 editor: markdown
 dateCreated: 2023-10-30T17:31:13.751Z
 ---
+
+# Comment segmenter l'activité d'un compte sur bluesky par langue ?
 
 Je n'ai pas encore fait des customs feeds segmenté par langues sur mes news bots bilingues, mais imaginons que vous avez envie de vous farcir [@Sciences](https://bsky.app/profile/sciences.skyfleet.blue) mais qu'en français pour l'exercice de ce tuto !
 
