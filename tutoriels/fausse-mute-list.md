@@ -2,7 +2,7 @@
 title: Faire un feed à partir d'une fausse mute-list
 description: Comment faire un feed à partir d'une fausse mute-list?
 published: true
-date: 2023-11-05T15:28:57.015Z
+date: 2023-11-05T19:59:40.869Z
 tags: customfeeds, mutelist
 editor: markdown
 dateCreated: 2023-10-30T17:15:11.910Z
@@ -10,7 +10,7 @@ dateCreated: 2023-10-30T17:15:11.910Z
 
 # Comment faire un feed à partir d'une mute-list?
 
-Pour le moment la seule possibilité de liste que nous permets Bluesky sont des listes nous permettant de muter des comptes. Heureusement, ce système de mute-list peut être utiliser à notre avantage pour créer des listes de comptes que l'ont peut voir apparaitre dans un feed
+Pour le moment la seule possibilité de liste sur Bluesky sont des listes nous permettant de muter des comptes. Heureusement, ce système de mute-list peut être utiliser à notre avantage pour créer des listes de comptes que l'ont peut voir apparaitre dans un feed
 
 > Création d'une mute-list à des fins de listes classiques = se désinscrire de la liste !!!
 {.is-warning}
