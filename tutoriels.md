@@ -2,7 +2,7 @@
 title: Tutoriels Bluesky
 description: Liste des tutoriels 
 published: true
-date: 2023-11-05T19:43:53.554Z
+date: 2023-11-05T19:56:27.700Z
 tags: bluesky, tutoriels
 editor: markdown
 dateCreated: 2023-10-30T19:52:41.715Z
@@ -25,16 +25,17 @@ Sur cette page vont venir se lister toute une série de tutoriels en rapport ave
 
 - [Comment créer un feed ?](https://skyfleet.blue/fr/tutoriels/feed) par [@enfeetamine](https://bsky.app/profile/enfeetamine.bsky.social) 
 - [Comment créer un feed à signets ?](/fr/tutoriels/signets) 
+- [Comment épingler un post dans un feed ? ](/fr/tutoriels/single-post-epingle)
 - [Comment segmenter les posts d'un feed par langue ?](/fr/tutoriels/segmentation-langue)
 - [Comment faire un feed à partir d'une mute-list ?](/fr/tutoriels/fausse-mute-list)
-- [Comment épingler un post dans un feed ? ](/fr/tutoriels/single-post-epingle)
+- [Comment créer un feed pour suivre une liste de comptes en excluant certains mots-clés?](/fr/tutoriels/filtresv1)
+
 - [Comment créer un feed combiné à double input ?](/fr/tutoriels/feed-combine)
 - [Comment créer un feed combiné avec 2 listes in/out ?](/fr/tutoriels/feed-combine-mute)
 - [Comment combiner l'usage d'un Newsbot RSS et d'un custom feed ?](/fr/tutoriels/newsbot-customfeeds)
 - [Comment combiner un newsbot RSS pour générer des Customs Feeds thématiques ?](/fr/tutoriels/newsbot-customfeeds)
 - [Comment supprimer un feed ?](/fr/tutoriels/supprimer-feed)
 
-- [filtresv1](/fr/tutoriels/filtresv1)
 
 
 # Tutoriels pour les devs
