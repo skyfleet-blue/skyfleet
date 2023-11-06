@@ -2,7 +2,7 @@
 title: Créer un feed
 description: Tout savoir pour créer un feed sur skyfeed
 published: true
-date: 2023-11-05T19:30:57.527Z
+date: 2023-11-06T06:04:53.498Z
 tags: tutoriels, customfeeds
 editor: markdown
 dateCreated: 2023-11-05T19:13:32.818Z
@@ -13,7 +13,7 @@ dateCreated: 2023-11-05T19:13:32.818Z
 ## Les feeds à quoi ça sert ? 
 Beaucoup de feeds ont déjà été crée que vous pouvez retrouver [ici](https://skyfleet.blue/fr/custom-feeds/annuaire) (liste non exhaustive) et que vous pouvez [epingler](https://bsky.app/profile/rmendes.net/post/3kcqfqajxvi27) sur votre profil afin de suivre des posts thématiques.
 Si vous voulez, par exemple, seulement voir les posts qui ont comme sujet les aubergines, la lecture, les jeux-vidéos. Vous trouvez sûrement des feeds dédiés.
-Mais vous pouvez créer, vous aussi, votre propre feed avec vos propres thématiques/mots-clés dont voilà b.a.-ba.
+Mais vous pouvez créer, vous aussi, votre propre feed avec vos propres thématiques/mots-clés dont voilà le b.a.-ba.
 
 1. Il vous faudra vous connecter via [Skyfeed.app](https://skyfeeds.app) en utilisant un mot de passe d'application. 
 > [Qu'est ce qu'un mot de passe d'application?](https://skyfleet.blue/fr/tips/app-passwords) 
