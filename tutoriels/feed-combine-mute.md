@@ -2,7 +2,7 @@
 title: Créer un feed combiné avec 2 listes in/out
 description: Comment utiliser 2 mute lists pour alimenter et supprimer des sources d'un même feed ?
 published: true
-date: 2023-11-05T15:08:20.360Z
+date: 2023-11-08T19:06:45.740Z
 tags: customfeeds, mute
 editor: markdown
 dateCreated: 2023-10-30T14:29:42.623Z
@@ -32,12 +32,16 @@ Il y a le risque que des trolls puissent troller le Feed, pour se prémunir de c
 
 ### la liste de la team de la chute
 
+> Il n'est plus nécessaire d'utiliser des mute-list, il est possible d'utiliser des listes d'utilisateurs "normales". Tuto à corriger.
+{.is-warning}
+
+
 On va sur le profil de Willian, Cody et Thomas, ainsi que le compte officiel Lachute
 et on les ajoute à une liste la Chute, en utilisant le hack des mute-listes pour avoir un liste sans restriction pour poster dans le feed. 
 
 ### Création d'une mute-list
 
-- https://bsky.app/moderation/mute-lists
+- https://bsky.app/lists
 
 ![2023-10-30_21-05.jpg](/captures/2023-10-30_21-05.jpg)
 
