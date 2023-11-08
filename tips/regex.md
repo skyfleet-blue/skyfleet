@@ -2,7 +2,7 @@
 title: Regex ? Mais c'est quoi ce truc chelou ?
 description: On entend parler de Regex sur Bluesky, mais c'est quoi cet ovni?
 published: true
-date: 2023-11-08T22:16:57.397Z
+date: 2023-11-08T22:18:36.842Z
 tags: regex
 editor: markdown
 dateCreated: 2023-11-08T20:13:42.650Z
@@ -147,7 +147,7 @@ Cinq outils et un jeux pour s'acclimater au Regex et les manipuler au mieux sur 
 > à faire ? :smiley:
 {.is-info}
 
-- Utiliser plusieurs mots
+- Utiliser plusieurs mots, inutile de rajouter plusieurs bloc regex, dans la majorité des cas un bloc suffit largement pour les mots à inclure et un bloc (avec la case **inverse** cochée) pour les mots à ne pas inclure dans le feed.
 
 
           chat|chiens|tigre
