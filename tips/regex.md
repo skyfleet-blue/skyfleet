@@ -2,7 +2,7 @@
 title: Regex ? Mais c'est quoi ce truc chelou ?
 description: On entend parler de Regex sur Bluesky, mais c'est quoi cet ovni?
 published: true
-date: 2023-11-08T22:14:56.277Z
+date: 2023-11-08T22:16:57.397Z
 tags: regex
 editor: markdown
 dateCreated: 2023-11-08T20:13:42.650Z
@@ -146,3 +146,9 @@ Cinq outils et un jeux pour s'acclimater au Regex et les manipuler au mieux sur 
 
 > à faire ? :smiley:
 {.is-info}
+
+- Utiliser plusieurs mots
+
+
+          chat|chiens|tigre
+
