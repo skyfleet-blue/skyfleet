@@ -2,7 +2,7 @@
 title: Regex ? Mais c'est quoi ce truc chelou ?
 description: On entend parler de Regex sur Bluesky, mais c'est quoi cet ovni?
 published: true
-date: 2023-11-08T20:41:51.309Z
+date: 2023-11-08T20:42:26.455Z
 tags: regex
 editor: markdown
 dateCreated: 2023-11-08T20:13:42.650Z
@@ -21,7 +21,7 @@ En gros, les regex sont des outils géniaux pour chercher des choses spécifique
 
 Voici un exemple de regex pour trouver des mots comme “chaton”, “chatouiller” ou “chatonner” dans du texte :
 
-`/chaton(ne)?/g`
+  `/chaton(ne)?/g`
 
 ### Explication :
 
