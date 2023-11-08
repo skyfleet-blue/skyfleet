@@ -2,7 +2,7 @@
 title: Regex ? Mais c'est quoi ce truc chelou ?
 description: On entend parler de Regex sur Bluesky, mais c'est quoi cet ovni?
 published: true
-date: 2023-11-08T22:14:38.162Z
+date: 2023-11-08T22:14:56.277Z
 tags: regex
 editor: markdown
 dateCreated: 2023-11-08T20:13:42.650Z
@@ -144,5 +144,5 @@ Cinq outils et un jeux pour s'acclimater au Regex et les manipuler au mieux sur 
 
 ## Astuces Skyfeed.app
 
-> à faire :smiley:
+> à faire ? :smiley:
 {.is-info}
