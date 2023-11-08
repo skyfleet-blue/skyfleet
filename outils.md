@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-11-05T20:30:36.711Z
+date: 2023-11-08T20:28:34.523Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -292,17 +292,6 @@ Firesky
 
 
 New & Improved URLs And Domains From The Bluesky Firehose [observablehq.com](https://observablehq.com/@hrbrmstr/new-improved-urls-and-domains-from-the-bluesky-firehose)
-
-## Regex 
-
-- MetSem#37 : [Introduction aux expressions régulières](https://metsem.hypotheses.org/1240) (regex) (Jean-Baptiste Pressac, Pierre-Guillaume Prigent et Sébastien de Villèle, Université de Bretagne Occidentale) 
-
-Trois outils et un jeux pour s'acclimater au Regex et les manipuler au mieux sur [skyfeed.app](https://skyfeed.app)
-
-- [autoregex.xyz](https://autoregex.xyz/) utilise une IA pour générer tes regex
-- [regex101](https://regex101.com/) la bible du regex
-- [regex-generator](https://regex-generator.olafneumann.org/) un générateur de regex visuel
-- [regexcrossword](https://regexcrossword.com/) un jeu pour apprendre le regex
 
 ## Migration
  - [Fedifinder](https://fedifinder.glitch.me/) - Your X/Twitter contacts on Bluesky and the fediverse
