@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-11-08T20:55:44.058Z
+date: 2023-11-08T20:55:58.251Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -30,7 +30,7 @@ ThreadWriter pour Bluesky
 
 
 ---
-🌤 Skythread, app pour faire des [Threads](https://mackuba.github.io/skythread/) sur bluesky
+🌤 Skythread, app pour visualiser des [Threads](https://mackuba.github.io/skythread/) sur bluesky
 
 ---
 
