@@ -2,7 +2,7 @@
 title: Regex ? Mais c'est quoi ce truc chelou ?
 description: On entend parler de Regex sur Bluesky, mais c'est quoi cet ovni?
 published: true
-date: 2023-11-08T21:48:53.607Z
+date: 2023-11-08T22:04:20.807Z
 tags: regex
 editor: markdown
 dateCreated: 2023-11-08T20:13:42.650Z
@@ -124,14 +124,16 @@ En résumé, les regex sont des outils magiques pour trouver des motifs dans le 
 
 # Des outils pour aller (beaucoup) plus loin
 
-## Regex 
+## Présentation 
 
 - MetSem#37 : [Introduction aux expressions régulières](https://metsem.hypotheses.org/1240) (regex) (Jean-Baptiste Pressac, Pierre-Guillaume Prigent et Sébastien de Villèle, Université de Bretagne Occidentale) 
 
-Trois outils et un jeux pour s'acclimater au Regex et les manipuler au mieux sur [skyfeed.app](https://skyfeed.app)
+## Liens Utiles
+
+Cinq outils et un jeux pour s'acclimater au Regex et les manipuler au mieux sur [skyfeed.app](https://skyfeed.app)
 
 - [AutoRegex.xyz](https://autoregex.xyz/) utilise une IA pour générer tes regex
 - [Regex101](https://regex101.com/) la bible du regex
 - [Regex-Generator](https://regex-generator.olafneumann.org/) un générateur de regex visuel
-- [RegexCrossword](https://regexcrossword.com/) un jeu pour apprendre le regex
 - [RegExr](https://regexr.com/) RegExr est un outil en ligne pour apprendre, construire et tester des regex
+- [RegexCrossword](https://regexcrossword.com/) un jeu pour apprendre le regex
