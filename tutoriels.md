@@ -2,7 +2,7 @@
 title: Tutoriels Bluesky
 description: Liste des tutoriels 
 published: true
-date: 2023-11-05T19:56:27.700Z
+date: 2023-11-08T18:40:40.228Z
 tags: bluesky, tutoriels
 editor: markdown
 dateCreated: 2023-10-30T19:52:41.715Z
@@ -16,6 +16,7 @@ Sur cette page vont venir se lister toute une série de tutoriels en rapport ave
 # Tutoriels Bluesky
 - [Comment s'abonner à un feed ?](https://bsky.app/profile/rmendes.net/post/3kcqfqajxvi27) par [@rmendes](https://bsky.app/profile/rmendes.net)
 - [Comment mettre un lien hypertexte dans un post](https://bsky.app/profile/zorey.bsky.social/post/3kdgygxet3d2l) par [@zorey](https://bsky.app/profile/zorey.bsky.social)
+- [Comment utiliser les listes ?] en construction
 - [Comment utiliser le Jazbot ?](/fr/tutoriels/jazbot) 
 - [Comment changer son nom d'utilisateur Bluesky sur son propre nom de domaine ?](https://bsky.app/profile/alizaryana.com/post/3kc6hskqae52u) par [@alizaryana](https://bsky.app/profile/alizaryana.com/)
 
