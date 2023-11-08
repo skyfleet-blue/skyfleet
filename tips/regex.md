@@ -2,7 +2,7 @@
 title: Regex ? Mais c'est quoi ce truc chelou ?
 description: On entend parler de Regex sur Bluesky, mais c'est quoi cet ovni?
 published: true
-date: 2023-11-08T22:04:20.807Z
+date: 2023-11-08T22:07:13.606Z
 tags: regex
 editor: markdown
 dateCreated: 2023-11-08T20:13:42.650Z
@@ -137,3 +137,8 @@ Cinq outils et un jeux pour s'acclimater au Regex et les manipuler au mieux sur 
 - [Regex-Generator](https://regex-generator.olafneumann.org/) un générateur de regex visuel
 - [RegExr](https://regexr.com/) RegExr est un outil en ligne pour apprendre, construire et tester des regex
 - [RegexCrossword](https://regexcrossword.com/) un jeu pour apprendre le regex
+
+
+> Attention, le **service Skyfeed.app pour Bluesky** ne supporte pas toutes les requêtes Regex, certaines requête trop complexes et qui serait impossible à servir à des milliers de Feeds ne sont pas permise, ça ne veut pas dire que "ça ne marche pas", ça veut dire que Skyfeed est intentionellement limité pour ne pas crasher le service. 
+{.is-warning}
+
