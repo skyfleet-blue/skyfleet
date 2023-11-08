@@ -2,7 +2,7 @@
 title: Regex ? Mais c'est quoi ce truc chelou ?
 description: On entend parler de Regex sur Bluesky, mais c'est quoi cet ovni?
 published: true
-date: 2023-11-08T21:41:11.744Z
+date: 2023-11-08T21:48:53.607Z
 tags: regex
 editor: markdown
 dateCreated: 2023-11-08T20:13:42.650Z
@@ -33,12 +33,12 @@ Voici un exemple de regex pour trouver des mots comme “chaton”, “chatouill
 En utilisant ce regex, tu pourras trouver tous les mots liés aux chats ! 🐱🔍✨
 
 
-Mais à quoi ça sert sur Bluesky ???
+## Mais à quoi ça sert sur Bluesky ???
 
 > Disons que vous avez envie d'un Feed sur les chats et bien ce regex `/chaton(ne)?/g` serait un bon point de départ, bien sûr il faudra affiner la requête, définir des mots ou des variantes que vous ne voulez pas voir, mais en utilisant le Feed Builder de https://skyfeed.xyz vous devriez être à même d'utiliser cette requete : `/chaton(ne)?/g` et de déjà voir ce qui en ressort !
 {.is-info}
 
-## Mais ça peut faire quoi d'autre en pratique un regex ? 
+## OK, Mais ça peut faire quoi d'autre en pratique un regex ? 
 
 Les expressions régulières sont comme des détectives textuels. Elles peuvent rechercher des motifs spécifiques dans du texte. Voici quelques exemples de ce que tu peux faire avec les regex :
 
