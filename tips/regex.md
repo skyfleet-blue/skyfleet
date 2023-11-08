@@ -2,14 +2,14 @@
 title: Regex ? Mais c'est quoi ce truc chelou ?
 description: On entend parler de Regex sur Bluesky, mais c'est quoi cet ovni?
 published: true
-date: 2023-11-08T20:21:03.958Z
+date: 2023-11-08T20:27:41.765Z
 tags: regex
 editor: markdown
 dateCreated: 2023-11-08T20:13:42.650Z
 ---
 
-# Définition Niveau 0
-Imagine que tu as une boîte magique remplie de lettres et de chiffres. 🎩✨
+# Définition de base
+## Imagine que tu as une boîte magique remplie de lettres et de chiffres. 🎩✨
 
 Eh bien, les expressions régulières (ou **regex**) sont comme des baguettes magiques pour chercher des motifs spéciaux dans cette boîte. 🪄✨
 
@@ -23,7 +23,7 @@ Voici un exemple de regex pour trouver des mots comme “chaton”, “chatouill
 
 `/chaton(ne)?/g`
 
-- Explication :
+### Explication :
 
 `/`: Les barres obliques entourent l’expression régulière.
 `chaton` : Recherche le mot “chaton”.
@@ -38,7 +38,7 @@ Mais à quoi ça sert sur Bluesky ???
 > Disons que vous avez envie d'un Feed sur les chats et bien ce regex `/chaton(ne)?/g` serait un bon point de départ, bien sûr il faudra affiner la requête, définir des mots ou des variantes que vous ne voulez pas voir, mais en utilisant le Feed Builder de https://skyfeed.xyz vous devriez être à même d'utiliser cette requete : `/chaton(ne)?/g` et de déjà voir ce qui en ressort !
 {.is-info}
 
-- Mais ça peut faire quoi d'autre en pratique un regex ? 
+## Mais ça peut faire quoi d'autre en pratique un regex ? 
 
 Bien sûr ! Les expressions régulières sont comme des détectives textuels. Elles peuvent rechercher des motifs spécifiques dans du texte. Voici quelques exemples de ce que tu peux faire avec les regex :
 
@@ -81,3 +81,43 @@ Bien sûr ! Les expressions régulières sont comme des détectives textuels. El
 Amuse-toi bien avec les expressions régulières ! Elles sont vraiment puissantes une fois que tu les maîtrises. 🕵️‍♂️🔍✨
 
 
+# En résumé 
+
+Reprenons à zéro. Imagine que tu as une boîte à outils magique. 🧰✨
+
+Dans cette boîte, il y a un outil spécial appelé “Expression régulière” ou “regex” en abrégé. C’est un peu comme une baguette magique pour le texte ! 🪄✨
+
+Voici comment ça fonctionne :
+
+## Trouver des motifs :
+
+Imagine que tu as un grand livre rempli de phrases et de mots. Parfois, tu veux trouver des choses spécifiques dans ce livre, comme tous les noms de fleurs ou tous les numéros de téléphone.
+        
+ Eh bien, les regex sont là pour ça ! Ils te permettent de chercher des motifs particuliers dans le texte. Par exemple, tu peux dire à ton outil regex : “Hé, trouve-moi tous les mots qui commencent par `soleil` !” ☀️🔍
+ 
+ Et pouf, il te montrera tous les mots comme “soleil”, “ensoleillé” ou “soleil levant”.
+
+- Des règles spéciales :
+
+Les regex ont des règles spéciales pour décrire ces motifs. Par exemple, le point `.` signifie “n’importe quel caractère”, l’astérisque `*` signifie “zéro ou plus de fois”, et les crochets `[ ]` te permettent de spécifier des choix.
+
+Par exemple, le regex `s[ou]leil` correspond à “soleil” ou “souleil”.
+
+
+## Utilisations pratiques :
+
+Les regex sont utilisés dans beaucoup de domaines, pas seulement en informatique. 
+
+Par exemple :
+
+- Nettoyer du texte : Si tu as une liste de noms avec des espaces en trop, tu peux utiliser un regex pour les enlever.
+
+- Valider des données : Comme vérifier si un numéro de téléphone est bien formaté.
+- Rechercher dans des documents : Comme chercher tous les mots “important” dans un rapport.
+
+- Pas besoin d’être un expert :
+
+>Tu n’as pas besoin d’être un génie de l’informatique pour utiliser les regex. Il suffit de connaître quelques règles de base et tu pourras déjà faire des choses intéressantes !
+{.is-info}
+
+En résumé, les regex sont des outils magiques pour trouver des motifs dans le texte. Alors, la prochaine fois que tu cherches quelque chose dans un livre ou un document, pense à ta baguette regex ! 📖🔮✨
