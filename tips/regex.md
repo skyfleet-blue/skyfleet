@@ -2,7 +2,7 @@
 title: Regex ? Mais c'est quoi ce truc chelou ?
 description: On entend parler de Regex sur Bluesky, mais c'est quoi cet ovni?
 published: true
-date: 2023-11-08T22:18:36.842Z
+date: 2023-11-08T22:25:18.369Z
 tags: regex
 editor: markdown
 dateCreated: 2023-11-08T20:13:42.650Z
@@ -19,13 +19,13 @@ Et pouf, la baguette magique te montrera tous les mots comme “chaton”, “ch
 
 En gros, les regex sont des outils géniaux pour chercher des choses spécifiques dans du texte, comme des mots, des adresses e-mail ou même des numéros de téléphone ! 📝🔍✨
 
-Voici un exemple de regex pour trouver des mots comme “chaton”, “chatouiller” ou “chatonner” dans du texte :
+Voici un exemple de regex pour trouver des mots comme “chaton” ou “chatonne” dans du texte :
 
-          /chaton(ne)?/g
+[`/chaton(ne)?/g`](https://regex101.com/r/yNAODF/1)
 
 ### Explication :
 
-`/`: Les barres obliques entourent l’expression régulière.
+`/`: Les barres obliques entourent l’expression régulière (dans des langages comme javascript, autres langages autres moeurs).
 `chaton` : Recherche le mot “chaton”.
 `(ne)?` : Le `?` signifie que le “ne” est facultatif. Donc cela correspond à “chaton” ou “chatonne”.
 `/g` : Le `g` signifie que la recherche doit être globale, c’est-à-dire qu’elle doit trouver toutes les occurrences dans le texte.
@@ -49,11 +49,15 @@ Si tu veux extraire toutes les adresses e-mail d’un texte, tu peux utiliser un
 
 Ce regex correspond à la structure générale d’une adresse e-mail.
 
+- Trouver des url :
+Si tu veux extraire les urls de sites web dans un texte, on peut partir de quelque chose comme :
+
+        (https?://)\w+(\.\w+)*\.\w{2,}
     
 - Valider des numéros de téléphone :
 Pour vérifier si un numéro de téléphone est bien formaté, tu peux utiliser un regex adapté à ton pays. Par exemple, pour les numéros de téléphone français :
 
-        ^01-9{4}$
+        ^0\d{9}$
 
 Ce regex vérifie si le numéro commence par un zéro, suivi de 9 chiffres.
 
@@ -63,6 +67,9 @@ Si tu veux extraire des dates d’un texte, tu peux utiliser un regex comme celu
         \d{2}/\d{2}/\d{4}
 
 Ce regex correspond au format de date “jj/mm/aaaa”.
+
+> Attention, il va aussi trouver les formats de date mm/jj/aaaa. Son utilisation est donc fortement dépendante du contexte.
+{.is-warning}
 
 - Chercher des mots spécifiques :
 Si tu veux trouver tous les mots qui contiennent “soleil”, tu peux utiliser un regex comme celui-ci :
@@ -138,6 +145,9 @@ Cinq outils et un jeux pour s'acclimater au Regex et les manipuler au mieux sur 
 - [RegExr](https://regexr.com/) RegExr est un outil en ligne pour apprendre, construire et tester des regex
 - [RegexCrossword](https://regexcrossword.com/) un jeu pour apprendre le regex
 
+Dans la langue de Shakespeare :
+- [rexegg](https://rexegg.com) si les Annales du Disque-Monde avaient un cours de regex
+- [regular-expressions](https://regular-expressions.info) là on entre chez le maître des potions
 
 > Attention, le **service Skyfeed.app pour Bluesky** ne supporte pas toutes les requêtes Regex, certaines requête trop complexes et qui serait impossible à servir à des milliers de Feeds ne sont pas permise, ça ne veut pas dire que "ça ne marche pas", ça veut dire que Skyfeed est intentionellement limité pour ne pas crasher le service. 
 {.is-warning}
@@ -151,4 +161,3 @@ Cinq outils et un jeux pour s'acclimater au Regex et les manipuler au mieux sur 
 
 
           chat|chiens|tigre
-
