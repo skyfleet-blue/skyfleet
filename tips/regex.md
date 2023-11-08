@@ -2,7 +2,7 @@
 title: Regex ? Mais c'est quoi ce truc chelou ?
 description: On entend parler de Regex sur Bluesky, mais c'est quoi cet ovni?
 published: true
-date: 2023-11-08T20:29:31.341Z
+date: 2023-11-08T20:32:59.276Z
 tags: regex
 editor: markdown
 dateCreated: 2023-11-08T20:13:42.650Z
@@ -122,7 +122,7 @@ Par exemple :
 
 En résumé, les regex sont des outils magiques pour trouver des motifs dans le texte. Alors, la prochaine fois que tu cherches quelque chose dans un livre ou un document, pense à ta baguette regex ! 📖🔮✨
 
-# Des outils pour aller (beaucou) plus loin
+# Des outils pour aller (beaucoup) plus loin
 
 ## Regex 
 
