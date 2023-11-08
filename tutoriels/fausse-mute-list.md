@@ -1,9 +1,9 @@
 ---
-title: Faire un feed à partir d'une fausse mute-list
-description: Comment faire un feed à partir d'une fausse mute-list?
+title: Faire un feed à partir d'une liste d'utilisateurs
+description: Comment faire un feed à partir d'une liste d'utilisateurs ?
 published: true
-date: 2023-11-08T19:01:33.743Z
-tags: customfeeds, mutelist
+date: 2023-11-08T19:03:57.942Z
+tags: customfeeds, mutelist, userlist
 editor: markdown
 dateCreated: 2023-10-30T17:15:11.910Z
 ---
