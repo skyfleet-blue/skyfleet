@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-11-08T20:28:34.523Z
+date: 2023-11-08T20:55:35.745Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -19,15 +19,18 @@ le [Thread Splitter](https://lemonmeant.github.io/splitter/) créer des threads 
 BlueThread par [asmoth360](https://bsky.app/profile/asmoth360.bsky.social/post/3kb75vrl6jc2c)
 - https://bluethread.pythonanywhere.com/ 
 
-
 ---
-🌤 Skythread, app pour faire des [Threads](https://mackuba.github.io/skythread/) sur bluesky
-
----
-
 
 ThreadWriter pour Bluesky
 - [ThreadWriter](https://this.how/threadWriterForBluesky/)
+
+---
+
+## Thread Viewer
+
+
+---
+🌤 Skythread, app pour faire des [Threads](https://mackuba.github.io/skythread/) sur bluesky
 
 ---
 
