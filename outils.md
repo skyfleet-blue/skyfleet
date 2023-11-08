@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-11-08T20:55:58.251Z
+date: 2023-11-08T20:56:19.876Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -50,10 +50,6 @@ bsky [thread](https://retr0.id/stuff/bskythreads/) unroller par [@retr0.id](http
 
 ---
 
-Skythread 
-- https://mackuba.github.io
-
----
 Skyview
 
 - https://skyview.social/
