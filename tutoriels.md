@@ -2,7 +2,7 @@
 title: Tutoriels Bluesky
 description: Liste des tutoriels 
 published: true
-date: 2023-11-08T19:04:31.389Z
+date: 2023-11-08T19:04:43.098Z
 tags: bluesky, tutoriels
 editor: markdown
 dateCreated: 2023-10-30T19:52:41.715Z
@@ -28,7 +28,7 @@ Sur cette page vont venir se lister toute une série de tutoriels en rapport ave
 - [Comment créer un feed à signets ?](/fr/tutoriels/signets) 
 - [Comment épingler un post dans un feed ? ](/fr/tutoriels/single-post-epingle)
 - [Comment segmenter les posts d'un feed par langue ?](/fr/tutoriels/segmentation-langue)
-- [Comment faire un feed à partir d'une mute-list ?](/fr/tutoriels/feed-user-list)
+- [Comment faire un feed à partir d'une liste d'utilisateurs ?](/fr/tutoriels/feed-user-list)
 - [Comment créer un feed pour suivre une liste de comptes en excluant certains mots-clés?](/fr/tutoriels/filtresv1)
 
 - [Comment créer un feed combiné à double input ?](/fr/tutoriels/feed-combine)
