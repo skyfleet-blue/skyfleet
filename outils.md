@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-11-08T20:56:19.876Z
+date: 2023-11-08T20:59:16.197Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -161,6 +161,11 @@ Un outil de [@jordanreger.com](https://bsky.app/profile/jordanreger.com)
 Il suffit de remplacer le domaine **bsky.app** dans l'URL que vous voulez partager par **bsky.deno.dev** 
 et le tour est joué, il est partageable hors de Bluesky ! 
 
+---
+
+- BskyReader.xyz
+
+Un outil pour [consulter du contenu sur Bluesky](https://bskyreader.xyz) de différentes manières, même sans compte Bluesky, un exemple avec que des posts en [français](https://bskyreader.xyz/?lang=fr)
 
 ## Boite à outils
 Un outil pour savoir à qui ont été destinées vos invites et quand arrive votre prochain invite code ? 
