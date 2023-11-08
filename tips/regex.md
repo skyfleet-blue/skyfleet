@@ -2,7 +2,7 @@
 title: Regex ? Mais c'est quoi ce truc chelou ?
 description: On entend parler de Regex sur Bluesky, mais c'est quoi cet ovni?
 published: true
-date: 2023-11-08T22:25:18.369Z
+date: 2023-11-08T23:32:55.126Z
 tags: regex
 editor: markdown
 dateCreated: 2023-11-08T20:13:42.650Z
@@ -158,6 +158,10 @@ Dans la langue de Shakespeare :
 {.is-info}
 
 - Utiliser plusieurs mots, inutile de rajouter plusieurs bloc regex, dans la majorité des cas un bloc suffit largement pour les mots à inclure et un bloc (avec la case **inverse** cochée) pour les mots à ne pas inclure dans le feed.
-
+  Le caractère spécial `|` permet de délimiter des alternatives.
 
           chat|chiens|tigre
+
+- `\b` est un délimiteur spécial qui va trouver les emplacements de début et fin de mot. `\bchat` permettra de trouver tous les mots commençant par `chat`, mais pas `entrechat`.
+
+- Les parenthèses permettent de grouper des schémas. Elles peuvent être utilisées pour éviter la répétition des délimiteurs par exemple. Ainsi, si vous cherchez toutes les ocurrences des mots `chat` et `félin`, vous pouvez utiliser `\b(chat|félin)\b`.
