@@ -2,7 +2,7 @@
 title: Créer un feed
 description: Tout savoir pour créer un feed sur skyfeed
 published: true
-date: 2023-11-06T06:04:53.498Z
+date: 2023-11-08T19:07:20.678Z
 tags: tutoriels, customfeeds
 editor: markdown
 dateCreated: 2023-11-05T19:13:32.818Z
@@ -24,7 +24,7 @@ Il est fortement recommandé d’utiliser un mot de passe d’application dès q
 
 ## Exemple de création de feeds
 - [Comment créer un feed à signets?](https://skyfleet.blue/fr/tutoriels/signets)
-- [Comment faire un feed à partir d'une mute-list ?](/fr/tutoriels/fausse-mute-list)
+- [Comment faire un feed à partir d'une liste d'utilisateurs ?](/fr/tutoriels/feed-user-list)
 - [Comment créer un feed combiné ?](/fr/tutoriels/feed-combine) avec comme exemple le [feed](https://bsky.app/profile/did:plc:ykxvvec7hntiwmy4qk5g7kv5/feed/aaaehstriebno) sur le Congo par [@najat](https://bsky.app/profile/najat.bsky.social)
 - [Comment créer un feed combiné avec 2 listes in/out ?](/fr/tutoriels/feed-combine-mute) avec comme exemple le [feed](https://bsky.app/profile/did:plc:gc7pqgc337bwj2n5mbnkixzk/feed/aaafpye2nrstk) de [@lachute](https://bsky.app/profile/lachute.bsky.social)
 - [Comment combiner l'usage d'un Newsbot RSS et d'un custom feed ?](/fr/tutoriels/newsbot-customfeeds)
