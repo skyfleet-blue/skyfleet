@@ -2,7 +2,7 @@
 title: Regex ? Mais c'est quoi ce truc chelou ?
 description: On entend parler de Regex sur Bluesky, mais c'est quoi cet ovni?
 published: true
-date: 2023-11-08T23:32:55.126Z
+date: 2023-11-09T08:27:43.195Z
 tags: regex
 editor: markdown
 dateCreated: 2023-11-08T20:13:42.650Z
@@ -41,13 +41,6 @@ En utilisant ce regex, tu pourras trouver tous les mots liés aux chats ! 🐱�
 ## OK, Mais ça peut faire quoi d'autre en pratique un regex ? 
 
 Les expressions régulières sont comme des détectives textuels. Elles peuvent rechercher des motifs spécifiques dans du texte. Voici quelques exemples de ce que tu peux faire avec les regex :
-
-- Trouver des adresses e-mail :
-Si tu veux extraire toutes les adresses e-mail d’un texte, tu peux utiliser un regex comme ceci :
-
-        [a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}
-
-Ce regex correspond à la structure générale d’une adresse e-mail.
 
 - Trouver des url :
 Si tu veux extraire les urls de sites web dans un texte, on peut partir de quelque chose comme :
