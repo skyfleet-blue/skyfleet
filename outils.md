@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-11-08T20:59:16.197Z
+date: 2023-11-09T18:50:52.884Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -10,6 +10,7 @@ dateCreated: 2023-10-30T19:52:14.567Z
 
 # Outils, Extensions, Helpers, Threaders, Apps
 
+# Tabs {.tabset}
 ## Threads
 
 
@@ -26,7 +27,7 @@ ThreadWriter pour Bluesky
 
 ---
 
-## Thread Viewers
+### Thread Viewers
 
 
 ---
@@ -53,6 +54,7 @@ bsky [thread](https://retr0.id/stuff/bskythreads/) unroller par [@retr0.id](http
 Skyview
 
 - https://skyview.social/
+
 
 ## Clients web
 
@@ -81,6 +83,7 @@ Twexit.nl
 
 Comparatif entre clients/app
 - https://dolciss.notion.site/c03ea75995154731bc17192b340d2427?v=a5a7a90abca34fd897c74b767974dcde
+
 
 ## Clients Android
 
@@ -317,12 +320,18 @@ New & Improved URLs And Domains From The Bluesky Firehose [observablehq.com](htt
 Fedica
 - https://fedica.com/
 
-## Developers 
+
+
+
+
+
+
+# Developers 
 
 le [coin des dev](https://skyfleet.blue/fr/dev) sur le wiki
 
 
-## Status
+# Status
 
 Bluesky - https://status.bsky.app/
 
