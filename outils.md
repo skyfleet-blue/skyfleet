@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-11-09T18:50:52.884Z
+date: 2023-11-09T18:54:14.971Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -110,14 +110,6 @@ Bluesky
 - https://apps.apple.com/jp/app/mofu/id6463493340?l=en
 
 
-
-## Accessibilité 
-
-Get Alt Text 
-- https://bsky.app/profile/alt-text.bsky.social
-
-
-
 ## Decks
 
 @deck.blue
@@ -170,7 +162,35 @@ et le tour est joué, il est partageable hors de Bluesky !
 
 Un outil pour [consulter du contenu sur Bluesky](https://bskyreader.xyz) de différentes manières, même sans compte Bluesky, un exemple avec que des posts en [français](https://bskyreader.xyz/?lang=fr)
 
-## Boite à outils
+### Domaines
+
+Acheter un nom domaine directement via Bluesky/Namecheap
+et configurer votre compte bsky.social pour l'utiliser, sans connaissance technique. 
+
+- https://account.bsky.app
+
+---
+[Skyname](https://skyna.me/) BETA
+un autre fournisseur de pseudo sous un domaine dédié pour Bluesky
+
+### Hellthreads crumbles
+
+So what was the hellthread you may ask ?
+- https://nori.gay/hellthread/
+
+
+### Poll / Sondage
+
+Poll.blue
+
+- https://poll.blue
+
+### Accessibilité 
+
+Get Alt Text 
+- https://bsky.app/profile/alt-text.bsky.social
+
+### Boite à outils
 Un outil pour savoir à qui ont été destinées vos invites et quand arrive votre prochain invite code ? 
 c'est par [ici](https://skytools.anon5r.com/invite-code) 📍
 
@@ -228,29 +248,6 @@ Bluesky DID/Post Resolver
 Blueskies ahead viewer : 
 
 - https://blue-skies-ahead.glitch.me/
-
-## Poll / Sondage
-
-Poll.blue
-
-- https://poll.blue
-
-
-## Domaines
-
-Acheter un nom domaine directement via Bluesky/Namecheap
-et configurer votre compte bsky.social pour l'utiliser, sans connaissance technique. 
-
-- https://account.bsky.app
-
----
-[Skyname](https://skyna.me/) BETA
-un autre fournisseur de pseudo sous un domaine dédié pour Bluesky
-
-## Hellthreads crumbles
-
-So what was the hellthread you may ask ?
-- https://nori.gay/hellthread/
 
 
 ## Stats
