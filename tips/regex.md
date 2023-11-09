@@ -2,7 +2,7 @@
 title: Regex ? Mais c'est quoi ce truc chelou ?
 description: On entend parler de Regex sur Bluesky, mais c'est quoi cet ovni?
 published: true
-date: 2023-11-09T08:27:43.195Z
+date: 2023-11-09T17:18:00.665Z
 tags: regex
 editor: markdown
 dateCreated: 2023-11-08T20:13:42.650Z
@@ -122,7 +122,27 @@ Par exemple :
 
 En résumé, les regex sont des outils magiques pour trouver des motifs dans le texte. Alors, la prochaine fois que tu cherches quelque chose dans un livre ou un document, pense à ta baguette regex ! 📖🔮✨
 
+
+## Astuces Skyfeed.app
+
+> à faire ? :smiley:
+{.is-info}
+
+- Utiliser plusieurs mots, inutile de rajouter plusieurs bloc regex, dans la majorité des cas un bloc suffit largement pour les mots à inclure et un bloc (avec la case **inverse** cochée) pour les mots à ne pas inclure dans le feed.
+  Le caractère spécial `|` permet de délimiter des alternatives.
+
+          chat|chiens|tigre
+
+- `\b` est un délimiteur spécial qui va trouver les emplacements de début et fin de mot. `\bchat` permettra de trouver tous les mots commençant par `chat`, mais pas `entrechat`.
+
+- Les parenthèses permettent de grouper des schémas. Elles peuvent être utilisées pour éviter la répétition des délimiteurs par exemple. Ainsi, si vous cherchez toutes les ocurrences des mots `chat` et `félin`, vous pouvez utiliser `\b(chat|félin)\b`.
+
+
 # Des outils pour aller (beaucoup) plus loin
+
+## Syntaxe avancée
+[Page en construction](/fr/tips/regex/syntaxe)
+
 
 ## Présentation 
 
@@ -145,16 +165,4 @@ Dans la langue de Shakespeare :
 > Attention, le **service Skyfeed.app pour Bluesky** ne supporte pas toutes les requêtes Regex, certaines requête trop complexes et qui serait impossible à servir à des milliers de Feeds ne sont pas permise, ça ne veut pas dire que "ça ne marche pas", ça veut dire que Skyfeed est intentionellement limité pour ne pas crasher le service. 
 {.is-warning}
 
-## Astuces Skyfeed.app
 
-> à faire ? :smiley:
-{.is-info}
-
-- Utiliser plusieurs mots, inutile de rajouter plusieurs bloc regex, dans la majorité des cas un bloc suffit largement pour les mots à inclure et un bloc (avec la case **inverse** cochée) pour les mots à ne pas inclure dans le feed.
-  Le caractère spécial `|` permet de délimiter des alternatives.
-
-          chat|chiens|tigre
-
-- `\b` est un délimiteur spécial qui va trouver les emplacements de début et fin de mot. `\bchat` permettra de trouver tous les mots commençant par `chat`, mais pas `entrechat`.
-
-- Les parenthèses permettent de grouper des schémas. Elles peuvent être utilisées pour éviter la répétition des délimiteurs par exemple. Ainsi, si vous cherchez toutes les ocurrences des mots `chat` et `félin`, vous pouvez utiliser `\b(chat|félin)\b`.
