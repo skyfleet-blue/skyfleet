@@ -2,7 +2,7 @@
 title: Transparence
 description: Transparence à propos de Skyfleet, méthodologie, politique éditoriale, frais de fonctionnement
 published: true
-date: 2023-10-31T09:25:55.450Z
+date: 2023-11-09T17:37:03.189Z
 tags: édition, frais, transparence, skyfleet
 editor: markdown
 dateCreated: 2023-10-30T19:52:37.543Z
@@ -29,7 +29,7 @@ dateCreated: 2023-10-30T19:52:37.543Z
 ## Qui est derrière ce projet
 
 Je m'appelle Ricardo, plus d'info sur moi sur mon [blog](https://blog.rmendes.net/about).
-J'ai commencé ce projet en Mai 2023 sur Bluesky en transférant des comptes de veilles média/thématique que je menais déjà sur feu Twitter depuis plusieurs années (2012 pour certain et 2006 pour d'autres), au moment où ces bots ont été créé il n'y avait quasi rien en terme d'info sur Bluesky, je suis un fan d'information sur tout un tas de sujet et donc j'ai utilisé du code open-source, mes veilles d'info existantes ou des nouvelles si c'était nécessaire, pour obtenir un flux d'information qui est entre temps devenu une flotte de compte, que j'appelle la [skyfleet](/fr/skyfleet)
+J'ai commencé ce projet en Mai 2023 sur Bluesky en transférant des comptes de veilles média/thématiques que je menais déjà sur feu Twitter depuis plusieurs années (2012 pour certain et 2006 pour d'autres), au moment où ces bots ont été créé il n'y avait quasi rien en terme d'info sur Bluesky, je suis un fan d'information sur tout un tas de sujet et donc j'ai utilisé du code open-source, mes veilles d'info existantes ou des nouvelles si c'était nécessaire, pour obtenir un flux d'information qui est entre temps devenu une flotte de compte, que j'appelle la [skyfleet](/fr/skyfleet)
 
 ## Motivations
 
