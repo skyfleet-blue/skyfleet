@@ -2,7 +2,7 @@
 title: Utiliser les mots de passe d'application (app passwords)
 description: Comment se connecter à un site Bluesky tiers sans donner son mot de passe
 published: true
-date: 2023-11-06T19:48:36.335Z
+date: 2023-11-09T17:21:09.138Z
 tags: mot de passe
 editor: markdown
 dateCreated: 2023-11-01T15:14:14.194Z
@@ -43,4 +43,4 @@ Enfin, sachez qu'il est possible de créer autant de mots de passe d'application
 
 # Astuce
 
-Un mot de passe tiers n'est pas anodin, il vous donne accès à votre compte, la seule chose qu'il ne peut pas voir c'est vos codes d'invitations, mais ça peut être très pratique de bien le concerver, car en cas d'oubli de votre mot de passe principal, il peut servir de "roue de secours" pour accéder à votre compte, surtout si vous avez oubliez l'émail associé au compte pour faire sauter le mot de passe. 
+Un mot de passe tiers n'est pas anodin, il vous donne accès à votre compte, la seule chose qu'il ne peut pas voir c'est vos codes d'invitations, mais ça peut être très pratique de bien le conserver, car en cas d'oubli de votre mot de passe principal, il peut servir de "roue de secours" pour accéder à votre compte, surtout si vous avez oubliez l'émail associé au compte pour faire sauter le mot de passe. 
