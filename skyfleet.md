@@ -2,7 +2,7 @@
 title: Listes des Comptes
 description: Liste des comptes Bluesky faisant partie de la Skyfleet
 published: true
-date: 2023-11-09T18:30:41.702Z
+date: 2023-11-09T18:59:42.770Z
 tags: bluesky, skyfleet
 editor: markdown
 dateCreated: 2023-10-30T19:52:21.630Z
@@ -13,7 +13,7 @@ dateCreated: 2023-10-30T19:52:21.630Z
 Ceci est une liste non exhaustive de compte bluesky thématique ou de veille média que j'ai mis en place sur bluesky ou que j'ai aidé à mettre en place depuis quelques mois. 
 
 > Dans tous les cas, l'information, le titre, l'image, la description proviennent de la source, il n'y a donc aucune édition de ma part, ces outils sont basiquement des relais d'informations.  
-{.is-info}
+{.is-success}
 
 
 <h2 class="tabset">Tabs</h2>
