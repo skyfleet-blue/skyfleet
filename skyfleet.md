@@ -2,7 +2,7 @@
 title: Listes des Comptes
 description: Liste des comptes Bluesky faisant partie de la Skyfleet
 published: true
-date: 2023-11-08T22:08:54.660Z
+date: 2023-11-09T18:30:41.702Z
 tags: bluesky, skyfleet
 editor: markdown
 dateCreated: 2023-10-30T19:52:21.630Z
@@ -197,7 +197,7 @@ Un compte qui reprend des sites d'info avec un focus sur le Congo, le Mali, le S
 ---
 
 #### FOOD IT  🇮🇹
-- [MediaItaliani](https://bsky.app/profile/foodit.skyfleet.blue)
+- [I buongustai Italiani](https://bsky.app/profile/foodit.skyfleet.blue)
 ---
 
 #### Veille info sur quelques sources de "bonnes" nouvelles 🇬🇧 🇫🇷
