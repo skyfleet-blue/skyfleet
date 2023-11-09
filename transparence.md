@@ -2,7 +2,7 @@
 title: Transparence
 description: Transparence à propos de Skyfleet, méthodologie, politique éditoriale, frais de fonctionnement
 published: true
-date: 2023-11-09T17:59:45.270Z
+date: 2023-11-09T18:32:12.655Z
 tags: édition, frais, transparence, skyfleet
 editor: markdown
 dateCreated: 2023-10-30T19:52:37.543Z
@@ -43,11 +43,17 @@ Depuis quelques temps le wiki s'est ouvert à des gens rencontré sur Bluesky, e
 ---
 #### Contributeurs/trices indirectes
 
-- [@Enfeetamine](https://bsky.app/profile/enfeetamine.bsky.social)
-- [@Alizaryana](https://bsky.app/profile/alizaryana.com/)
-- [@Zorey](https://bsky.app/profile/zorey.bsky.social)
+- [@Enfeetamine](https://bsky.app/profile/enfeetamine.bsky.social) Retrouver son tuto [ici](https://skyfleet.blue/fr/tutoriels)
+- [@Alizaryana](https://bsky.app/profile/alizaryana.com/) Retrouver son tuto [ici](https://skyfleet.blue/fr/tutoriels)
+- [@Zorey](https://bsky.app/profile/zorey.bsky.social) Retrouver son tuto [ici](https://skyfleet.blue/fr/tutoriels)
+- [@Owiowi](https://bsky.app/profile/owiowifouettemoi.bsky.social) pour le [Food Feed](https://bsky.app/profile/foodfeed.skyfleet.blue)
+- [@Swamilee.xyz](https://bsky.app/profile/swamilee.xyz/) pour [MediasIT](https://bsky.app/profile/mediasit.skyfleet.blue)
+- [@Carminoa](https://bsky.app/profile/maitrecarminoa.bsky.social) pour [ActuDroit](https://bsky.app/profile/actudroit.skyfleet.blue) 
+- [@Najat](https://bsky.app/profile/najat.bsky.social) pour [Africa Media](https://bsky.app/profile/africa.skyfleet.blue)
 
-Retrouver leurs tutos [ici](https://skyfleet.blue/fr/tutoriels)
+J'en oublie certainement, manifestez-vous pour être sur cette page mais merci à tous/tes !
+
+
 
 ## Motivations
 
