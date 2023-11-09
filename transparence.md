@@ -2,7 +2,7 @@
 title: Transparence
 description: Transparence à propos de Skyfleet, méthodologie, politique éditoriale, frais de fonctionnement
 published: true
-date: 2023-11-09T17:54:56.562Z
+date: 2023-11-09T17:55:48.117Z
 tags: édition, frais, transparence, skyfleet
 editor: markdown
 dateCreated: 2023-10-30T19:52:37.543Z
@@ -38,7 +38,8 @@ Depuis quelques temps le wiki s'est ouvert à des gens rencontré sur Bluesky, e
 - [@Leandraa.fr](https://bsky.app/profile/leandraa.fr) Scientifique en carton et amoureuse des livres et Reine des regee et expertes de Skyfeed.app 
 - [@Mwyann.fr](https://bsky.app/profile/mwyann.fr) Développement informatique, jeux vidéo, geekeries, bricolage et DIY, Auteur du [guide pour bien démarrer sur Bluesky](https://ylb.fr/bluesky)
 - [@amichel](https://bsky.app/profile/amichel.bsky.social) Curieux, polydiot, informagicien, contributeurs occasionnel spécialiste des regex
-- Vous ?
+- [Vous](https://skyfleet.blue/fr/README) ?
+
 ## Motivations
 
 Je suis né et ai vécu toute une partie de ma vie dans un environnement où l'information, l'accès à la connaissance était sévèrement limité, contrôlé, censuré, par la suite en faisant ma propre éducation aux médias et en cultivant mon rapport à l'information, mon passé, ( dans une [dérives sectaires](https://okcinfo.news/a-propos-dokcinfo/) site des parties civiles ) m'avait fait adhérer à des croyances, voir même des conspirations, des idées de fin du monde et autres foutaises, c'était évidemment un produit direct de ma propre ignorance et de ma propre susceptibilité/biais, et donc j'ai passé beaucoup de temps, d'années à désapprendre et à réapprendre beaucoup de choses dans beaucoup de domaines, c'est comme ça que j'ai cultivé une expertise sur les sources d'informations et que j'ai appris à les utiliser pour aiguiser mon esprits critique, mon discernement. 
