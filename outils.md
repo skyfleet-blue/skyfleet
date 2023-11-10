@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-11-09T18:55:17.768Z
+date: 2023-11-10T09:41:50.241Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -287,7 +287,10 @@ Firesky
 
 ## DATA / Viz
 
-[BlueskyToGephi](https://blog.totetmatt.fr/bskytogephi/)
+[Article] [Graph Bluesky Francophone](https://www.visibrain.com/fr/blog/avantages-audience-avenir-bluesky-decrypte-par-florent-lefebvre) par Florent Lefebvre
+
+
+[Outil] [BlueskyToGephi](https://blog.totetmatt.fr/bskytogephi/)
 - https://github.com/totetmatt/bskytogephi/blob/main/README.md
 
 ---
