@@ -2,7 +2,7 @@
 title: Tools for Bluesky
 description: Tools, extensions and helpers for Bluesky
 published: true
-date: 2023-10-30T16:45:26.587Z
+date: 2023-11-12T15:00:36.573Z
 tags: bluesky, tools
 editor: markdown
 dateCreated: 2023-10-06T14:52:57.331Z
@@ -26,7 +26,7 @@ BlueThread by [asmoth360](https://bsky.app/profile/asmoth360.bsky.social/post/3k
 - https://bluethread.pythonanywhere.com/
 
 ---
-🌤 Skythread, an app for creating [Threads](https://mackuba.github.io/skythread/) on Bluesky
+🌤 Skythread, an app for viewing [Threads](https://mackuba.github.io/skythread/) on Bluesky
 
 ---
 ThreadWriter for Bluesky
@@ -271,3 +271,8 @@ New & Improved URLs And Domains From The Bluesky Firehose [observablehq.com](htt
 ## Status
 
 Bluesky - https://status.bsky.app/
+
+## More 
+
+From the AT Proto [Community Project page](https://skyfleet.blue/en/outils/more)
+
