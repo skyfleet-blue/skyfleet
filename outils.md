@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-11-10T09:41:50.241Z
+date: 2023-11-12T14:36:18.269Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -18,7 +18,7 @@ dateCreated: 2023-10-30T19:52:14.567Z
 ## Threads
 
 
-le [Thread Splitter](https://lemonmeant.github.io/splitter/) créer des threads avec Images sur Bluesky
+le [Thread Splitter](https://lemonmeant.github.io/splitter/) créer des threads avec Images sur Bluesky et liens [markdown](/fr/tips/markdown)
 
 ---
 BlueThread par [asmoth360](https://bsky.app/profile/asmoth360.bsky.social/post/3kb75vrl6jc2c)
@@ -149,52 +149,7 @@ Bluesky Developer Mode [Link](https://chrome.google.com/webstore/detail/bluesky-
 ---
 
 
-## Helpers 
-
----
-Vous cherchez à partager un lien Bluesky avec quelqu'un qui n'est pas sur Bluesky ? 📌
-
-Un outil de [@jordanreger.com](https://bsky.app/profile/jordanreger.com)
-[Demo](https://bsky.deno.dev/profile/jordanreger.com/post/3k656mhl57g2t) avec image 
-
-Il suffit de remplacer le domaine **bsky.app** dans l'URL que vous voulez partager par **bsky.deno.dev** 
-et le tour est joué, il est partageable hors de Bluesky ! 
-
----
-
-- BskyReader.xyz
-
-Un outil pour [consulter du contenu sur Bluesky](https://bskyreader.xyz) de différentes manières, même sans compte Bluesky, un exemple avec que des posts en [français](https://bskyreader.xyz/?lang=fr)
-
-### Domaines
-
-Acheter un nom domaine directement via Bluesky/Namecheap
-et configurer votre compte bsky.social pour l'utiliser, sans connaissance technique. 
-
-- https://account.bsky.app
-
----
-[Skyname](https://skyna.me/) BETA
-un autre fournisseur de pseudo sous un domaine dédié pour Bluesky
-
-### Hellthreads crumbles
-
-So what was the hellthread you may ask ?
-- https://nori.gay/hellthread/
-
-
-### Poll / Sondage
-
-Poll.blue
-
-- https://poll.blue
-
-### Accessibilité 
-
-Get Alt Text 
-- https://bsky.app/profile/alt-text.bsky.social
-
-### Boite à outils
+## Boite à outils
 Un outil pour savoir à qui ont été destinées vos invites et quand arrive votre prochain invite code ? 
 c'est par [ici](https://skytools.anon5r.com/invite-code) 📍
 
@@ -253,6 +208,48 @@ Blueskies ahead viewer :
 
 - https://blue-skies-ahead.glitch.me/
 
+---
+Vous cherchez à partager un lien Bluesky avec quelqu'un qui n'est pas sur Bluesky ? 📌
+
+Un outil de [@jordanreger.com](https://bsky.app/profile/jordanreger.com)
+[Demo](https://bsky.deno.dev/profile/jordanreger.com/post/3k656mhl57g2t) avec image 
+
+Il suffit de remplacer le domaine **bsky.app** dans l'URL que vous voulez partager par **bsky.deno.dev** 
+et le tour est joué, il est partageable hors de Bluesky ! 
+
+---
+
+- BskyReader.xyz
+
+Un outil pour [consulter du contenu sur Bluesky](https://bskyreader.xyz) de différentes manières, même sans compte Bluesky, un exemple avec que des posts en [français](https://bskyreader.xyz/?lang=fr)
+
+### Domaines
+
+Acheter un nom domaine directement via Bluesky/Namecheap
+et configurer votre compte bsky.social pour l'utiliser, sans connaissance technique. 
+
+- https://account.bsky.app
+
+---
+[Skyname](https://skyna.me/) BETA
+un autre fournisseur de pseudo sous un domaine dédié pour Bluesky
+
+### Hellthreads crumbles
+
+So what was the hellthread you may ask ?
+- https://nori.gay/hellthread/
+
+
+### Poll / Sondage
+
+Poll.blue
+
+- https://poll.blue
+
+### Accessibilité 
+
+Get Alt Text 
+- https://bsky.app/profile/alt-text.bsky.social
 
 ## Stats
 
