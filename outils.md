@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2023-11-12T14:36:18.269Z
+date: 2023-11-12T14:53:11.315Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -149,7 +149,7 @@ Bluesky Developer Mode [Link](https://chrome.google.com/webstore/detail/bluesky-
 ---
 
 
-## Boite à outils
+## Divers / à Trier
 Un outil pour savoir à qui ont été destinées vos invites et quand arrive votre prochain invite code ? 
 c'est par [ici](https://skytools.anon5r.com/invite-code) 📍
 
