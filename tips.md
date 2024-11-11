@@ -2,7 +2,7 @@
 title: Astuces & Conseils
 description: Astuces et Conseils pour Bluesky
 published: true
-date: 2023-11-05T14:37:24.673Z
+date: 2024-11-11T18:05:13.237Z
 tags: bluesky, conseils, astuces, trucs
 editor: markdown
 dateCreated: 2023-10-30T19:52:29.391Z
@@ -19,6 +19,9 @@ dateCreated: 2023-10-30T19:52:29.391Z
 
 
 
+---
+Bluesky Directory / starter Packs
+- https://blueskydirectory.com/starter-packs/all
 
 
 
