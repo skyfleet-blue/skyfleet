@@ -2,7 +2,7 @@
 title: Bluesky Labels
 description: Labels are a way to categorize content and users on BlueSky. They are part of the moderation tools but they can be do lots of interesting things like foster community.
 published: true
-date: 2024-11-11T16:58:20.124Z
+date: 2024-11-11T16:59:04.348Z
 tags: bluesky, labels, moderation
 editor: markdown
 dateCreated: 2024-11-11T16:56:31.356Z
