@@ -2,7 +2,7 @@
 title: le Coin des Devs
 description: Ressources devs pour Bluesky
 published: true
-date: 2023-11-05T10:13:22.510Z
+date: 2024-11-11T17:26:10.880Z
 tags: dev
 editor: markdown
 dateCreated: 2023-10-30T19:52:02.495Z
@@ -66,6 +66,8 @@ CookBook for ATproto https://github.com/bluesky-social/cookbook
 - https://github.com/beeman/awesome-atproto
 
 # Cool Stuff
+
+- Skyware https://skyware.js.org/
 
 ## Python
 Python Feed Generator
