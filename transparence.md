@@ -2,7 +2,7 @@
 title: Transparence
 description: Transparence à propos de Skyfleet, méthodologie, politique éditoriale, frais de fonctionnement
 published: true
-date: 2023-11-09T18:32:12.655Z
+date: 2024-11-11T20:02:19.411Z
 tags: édition, frais, transparence, skyfleet
 editor: markdown
 dateCreated: 2023-10-30T19:52:37.543Z
@@ -57,7 +57,7 @@ J'en oublie certainement, manifestez-vous pour être sur cette page mais merci �
 
 ## Motivations
 
-Je suis né et ai vécu toute une partie de ma vie dans un environnement où l'information, l'accès à la connaissance était sévèrement limité, contrôlé, censuré, par la suite en faisant ma propre éducation aux médias et en cultivant mon rapport à l'information, mon passé, ( dans une [dérives sectaires](https://okcinfo.news/a-propos-dokcinfo/) site des parties civiles ) m'avait fait adhérer à des croyances, voir même des conspirations, des idées de fin du monde et autres foutaises, c'était évidemment un produit direct de ma propre ignorance et de ma propre susceptibilité/biais, et donc j'ai passé beaucoup de temps, d'années à désapprendre et à réapprendre beaucoup de choses dans beaucoup de domaines, c'est comme ça que j'ai cultivé une expertise sur les sources d'informations et que j'ai appris à les utiliser pour aiguiser mon esprits critique, mon discernement. 
+Je suis né et ai vécu toute une partie de ma vie dans un environnement où l'information, l'accès à la connaissance était sévèrement limité, contrôlé, censuré, par la suite en faisant ma propre éducation aux médias et en cultivant mon rapport à l'information, mon passé, ( dans une [dérives sectaires](https://okcinfo.chardonsbleus.org) site des parties civiles ) m'avait fait adhérer à des croyances, voir même des conspirations, des idées de fin du monde et autres foutaises, c'était évidemment un produit direct de ma propre ignorance et de ma propre susceptibilité/biais, et donc j'ai passé beaucoup de temps, d'années à désapprendre et à réapprendre beaucoup de choses dans beaucoup de domaines, c'est comme ça que j'ai cultivé une expertise sur les sources d'informations et que j'ai appris à les utiliser pour aiguiser mon esprits critique, mon discernement. 
 
 Pour moi, l'information de qualité est une notion capitale pour obtenir des démocraties fonctionnelles et plus inclusives, justes et en fait démocratique tout simplement, je pense qu'on ne pourra pas s'en sortir des défis qui nous attendent, en tant qu'individu, société, espèce, sans un accès à de l'information et des connaissances nous permettant de faire les choix nécessaire pour nous adapter. 
 
