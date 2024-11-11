@@ -2,7 +2,7 @@
 title: Transparence
 description: Transparence à propos de Skyfleet, méthodologie, politique éditoriale, frais de fonctionnement
 published: true
-date: 2024-11-11T20:02:19.411Z
+date: 2024-11-11T20:03:26.059Z
 tags: édition, frais, transparence, skyfleet
 editor: markdown
 dateCreated: 2023-10-30T19:52:37.543Z
@@ -63,9 +63,9 @@ Pour moi, l'information de qualité est une notion capitale pour obtenir des dé
 
 ## Combien ça coûte
 
-Pour l'instant, les flux d'informations sont agrégés via un système qui me coûte 180€ par An
-La flotte SAS tourne sur un serveur qui me coûte 11€ par mois
-Total : 312€ par An
+Pour l'instant, les flux d'informations sont agrégés via un système qui me coûte 10€ par mois
+
+Total : 120€ par An
 
 ## Comment c'est financé
 
