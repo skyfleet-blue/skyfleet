@@ -2,7 +2,7 @@
 title: Bluesky Labels
 description: Labels are a way to categorize content and users on BlueSky. They are part of the moderation tools but they can be do lots of interesting things like foster community.
 published: true
-date: 2024-11-24T13:02:07.814Z
+date: 2024-11-24T13:03:17.543Z
 tags: bluesky, labels, moderation
 editor: markdown
 dateCreated: 2024-11-11T16:56:31.356Z
@@ -48,5 +48,9 @@ Dans les cas où il s'agit de choisir un genre, un métier, il faut aller dans l
 ## Politics
 
 - [US Politics labeler](https://bsky.app/profile/uspol.bluesky.bot)
+
+## Pronouns
+
+- [Pronouns](https://bsky.app/profile/pronouns.adorable.mom)
 
 
