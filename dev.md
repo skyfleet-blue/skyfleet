@@ -2,7 +2,7 @@
 title: le Coin des Devs
 description: Ressources devs pour Bluesky
 published: true
-date: 2024-11-11T17:26:10.880Z
+date: 2024-11-24T13:01:53.167Z
 tags: dev
 editor: markdown
 dateCreated: 2023-10-30T19:52:02.495Z
@@ -25,6 +25,11 @@ dateCreated: 2023-10-30T19:52:02.495Z
 [Getting started with #atdev](https://graysky.app/blog/2023-10-17-getting-started-atproto) by the developers of graysky.app [code](https://github.com/mozzius/bsky-simple-viewer)
 
 CookBook for ATproto https://github.com/bluesky-social/cookbook
+
+# Bluesky Showcase
+
+- [Bluesky Communuty Showcase](https://docs.bsky.app/showcase)
+
 
 # Custom feeds 
 
