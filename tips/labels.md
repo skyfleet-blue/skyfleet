@@ -2,7 +2,7 @@
 title: Bluesky Labels
 description: Labels are a way to categorize content and users on BlueSky. They are part of the moderation tools but they can be do lots of interesting things like foster community.
 published: true
-date: 2024-11-24T13:03:17.543Z
+date: 2024-11-24T13:04:06.436Z
 tags: bluesky, labels, moderation
 editor: markdown
 dateCreated: 2024-11-11T16:56:31.356Z
@@ -15,7 +15,7 @@ Labels are a way to categorize content and users on BlueSky. They are part of th
 
 If you're interested in building your own labeler, check out this [project](https://github.com/aliceisjustplaying/labeler-starter-kit-bsky).
 
-## How to use them ? 
+## Comment utiliser les labels sur Bluesky? 
 
 En général, il faut s'abonner au Labeler et puis choisir les labels qu'on veut voir ou utiliser sur son profil ou sur les feeds. 
 
