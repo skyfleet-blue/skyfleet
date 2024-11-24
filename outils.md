@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2024-11-24T12:49:23.905Z
+date: 2024-11-24T13:27:24.011Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -117,7 +117,7 @@ Bluesky
 - https://apps.apple.com/jp/app/mofu/id6463493340?l=en
 
 
-## Decks
+## Tweet Decks
 
 @deck.blue
 - https://deck.blue
@@ -332,7 +332,8 @@ New & Improved URLs And Domains From The Bluesky Firehose [observablehq.com](htt
 Fedica
 - https://fedica.com/
 
-
+Buffer
+- https://buffer.com
 
 
 
