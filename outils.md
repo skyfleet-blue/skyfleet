@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2024-11-11T18:02:23.905Z
+date: 2024-11-24T12:49:23.905Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -167,6 +167,9 @@ Blue Mirage : Suivre tous les Follows d'un autre utilisateur
 blockenheimer: a mass blocking tool for bluesky.app by [Boykisser](https://boykisser.dev.stxgln.online/)
 - https://blockenheimer.click/
 
+Unfollow management 
+- https://unfollow.blue
+
 ---
 Bluesky Social Wrapper 
 - https://blue.amazingca.dev/
@@ -295,6 +298,8 @@ Firesky
 - [Aurora Bluesky Graph](https://aurora.ndimensional.xyz/)
 
 - [Bluesky Heatmap generator](https://bluesky-heatmap.fly.dev/)
+
+- [Firehose 3D](https://firehose3d.theo.io)
 
 ---
 
