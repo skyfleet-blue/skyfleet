@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2024-11-24T13:27:24.011Z
+date: 2024-11-24T13:29:53.682Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -203,6 +203,26 @@ ClearSky Search Tool bsky.thieflord.dev
 Handles | @handle and did:plc Tracker
 
 - https://plc-handle-tracker.kpherox.dev
+
+---
+
+- https://nws-bot.us/bskyStarterPack.php
+
+Importer des membres d'une liste dans une autre liste existante.
+
+Convertir une liste BSky en Starter Pack.
+
+Convertir un pack de démarrage BSky en liste.
+
+Suivre un groupe aléatoire d'utilisateurs de la liste de quelqu'un d'autre.
+
+Fusionner des Starter Packs
+
+Migrer une liste de contenu vers une liste de mods ou vice versa.
+
+Convertir votre collection de Follows en une liste de contenu
+
+Requête sur la date d'adhésion d'un utilisateur
 
 ---
 
