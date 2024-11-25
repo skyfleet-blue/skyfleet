@@ -2,7 +2,7 @@
 title: Déployer un News Bot RSS sur Bluesky
 description: Comment déployer un News Bot RSS sur Bluesky ?
 published: true
-date: 2023-11-05T15:33:32.232Z
+date: 2024-11-25T21:30:27.217Z
 tags: tutoriels
 editor: markdown
 dateCreated: 2023-10-27T19:31:42.269Z
@@ -162,10 +162,15 @@ si vous avez besoin de faire tourner plusieurs flux RSS pour le même bot, il su
 ```json
 {
   "string": "$title", # post le titre
-  "publishEmbed": true, # créer une carte intégrée en utilisant l'OpenGraph
+  "publishEmbed": true,
+  "embedType": "card",
   "languages": ["en"], # la langue de votre flux RSS
+  "ogUserAgent": "",
   "truncate": true, # coupe la description pour ne pas dépasser 300 caractères
   "runInterval": 60,
+  "removeDuplicate": true,
+  "imageAlt": "$title",
+  "imageField": "",
   "dateField": ""
 }
 ```
@@ -176,17 +181,22 @@ Quand le "publishEmbed" est en "True", il n'est pas nécéssaire d'ajouter la va
 
 ```json
 {
-  "string": "$title - $link $description", # en général le titre suffit 
-  "publishEmbed": true, # false déconseillé de mettre en false sauf si pas de lien
-  "languages": ["en"], # fr, de, es, etc...
-  "truncate": true, #false
-  "runInterval": 60, # 120 absent de la branch main
-  "imageField": "enclosure", # a changer par le nom de votre balise image pour l'imposer au besoin
-  "ogUserAgent": "", # permet d'imposer un autre user-agent pour se faire passer pour un browser
-  "forceDescriptionEmbed": "false", # true permet de forcer l'utilisation du champ description du RSS
-  "descriptionClearHTML": "true", # true va nettoyer le texte de la description de balises html
-  "dateField": "" # par défaut, il cherche pubDate sauf si le flux RSS n'est pas standard
+  "string": "$title - $link",
+  "publishEmbed": true,
+  "embedType": "card",
+  "languages": ["en"],
+  "ogUserAgent": "",
+  "truncate": true,
+  "runInterval": 60,
+  "dateField": "",
+  "imageField": "",
+  "imageAlt": "$title",
+  "forceDescriptionEmbed": false,
+  "removeDuplicate": true,
+  "descriptionClearHTML": false,
+  "titleClearHTML": false
 }
+
 ```
 
 ### step 3
