@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2024-12-15T12:48:43.805Z
+date: 2024-12-15T12:50:04.572Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -189,6 +189,10 @@ Bluesky Social Wrapper
 
 Bannerizer
 - https://bannerizer.glitch.me
+
+--- 
+Embed Bluesky
+- https://embedbsky.com/
 
 ---
 Un Générateur de flux RSS pour Bluesky
