@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2024-12-15T12:50:04.572Z
+date: 2024-12-15T13:10:57.602Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -136,6 +136,7 @@ Tokimeki
 
 ## Deleters
 - https://skysweeper.p8.lu/
+- https://deleter.shiroyama.us/
 - https://github.com/pojntfx/skysweeper 
 - https://codeberg.org/sleep/deleteskee
 - https://github.com/Gorcenski/skeeter-deleter
