@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2024-11-24T13:29:53.682Z
+date: 2024-12-15T12:47:46.853Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -133,6 +133,16 @@ Bluedeck
 
 Tokimeki
 - https://tokimekibluesky.vercel.app/
+
+## Deleters
+
+- https://codeberg.org/sleep/deleteskee
+- https://github.com/Gorcenski/skeeter-deleter
+- https://gist.github.com/rmdes/4e3e7b85d8bd58b419240def8dd21252
+
+Premium
+
+- https://redact.dev/
 
 ## Extensions
 
