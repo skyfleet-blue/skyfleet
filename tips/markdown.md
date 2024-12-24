@@ -2,7 +2,7 @@
 title: Liens Markdown
 description: Comment faire des liens Markdown ? Tout savoir sur le support du Markdown sur Bluesky
 published: true
-date: 2023-11-01T17:39:29.492Z
+date: 2024-12-24T17:28:58.471Z
 tags: astuces, markdown
 editor: markdown
 dateCreated: 2023-10-22T17:07:16.085Z
@@ -47,7 +47,7 @@ Ce qui donnera ce résultat : [Lien vers ce blog](https://skyfleet.blue/fr/home)
 À l'heure actuelle, ni le site ni l'application officielle Bluesky ne permet l'usage de cette syntaxe. Il faut alors passer par l'un de ces sites tiers, en n'oubliant pas d'utiliser un [mot de passe d'application](./app-passwords) pour y accéder :
 
 - https://deck.blue
-- https://lemonmeant.github.io/splitter_beta/
+- https://lemonmeant.github.io/
 - https://micro.blog
 - https://blue.thread.center
 
