@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2024-12-30T18:52:44.087Z
+date: 2024-12-30T19:29:38.492Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -269,6 +269,7 @@ Bluesky Info
 
 Banners
 - https://bskybanner.com/
+- https://www.brandbird.app/tools/bluesky-banner-generator
 
 ----
 Plus d'outils : 
