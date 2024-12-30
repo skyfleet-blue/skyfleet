@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2024-12-30T18:33:18.654Z
+date: 2024-12-30T18:44:31.670Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -348,6 +348,9 @@ Bluesky Score
 
 Bluesky Meter
 - https://blueskymeter.com
+
+Blueview 
+- https://blueview.app/
 
 ## Recherche
 
