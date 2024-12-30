@@ -2,7 +2,7 @@
 title: Listes des Comptes
 description: Liste des comptes Bluesky faisant partie de la Skyfleet
 published: true
-date: 2023-11-09T18:59:42.770Z
+date: 2024-12-30T11:55:19.951Z
 tags: bluesky, skyfleet
 editor: markdown
 dateCreated: 2023-10-30T19:52:21.630Z
@@ -29,10 +29,6 @@ Le journal Le Monde et ses customs feeds par catégorie
 
 #### Ukraine 🇬🇧🇺🇦
 - [AmplifyUkraine](https://bsky.app/profile/amplifyukraine.eu)
----
-
-#### Média d'investigation DiscloseNGO 🇬🇧 🇫🇷
-- [DiscloseNGO](https://bsky.app/profile/disclosengo.bsky.social)
 
 ---
 
@@ -79,9 +75,6 @@ une sélection médias alternatifs
 
 
 ### Thématique / Topic
-
-#### Public Sénat 🇫🇷
-- [Public Senat](https://bsky.app/profile/publicsenat.skyfleet.blue)
 
 ---
 #### Assemblée Nationale 🇫🇷
@@ -134,8 +127,8 @@ une sélection médias alternatifs
 - [the Pod Feed](https://bsky.app/profile/podfeed.skyfleet.blue)
 ---
 
-#### Veille info sur les élections américaine  🇺🇸
-- [US Elections](https://bsky.app/profile/elections.skyfleet.blue)
+#### Veille info sur la politique américaine  🇺🇸
+- [US Elections](https://bsky.app/profile/uspol.skyfleet.blue)
 ---
 
 #### Veille info les arnaques en rapport avec la crypto  🇺🇸
