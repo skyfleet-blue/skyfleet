@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2024-12-30T18:44:31.670Z
+date: 2024-12-30T18:52:44.087Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -274,6 +274,8 @@ Banners
 Plus d'outils : 
 
 - https://blueskystash.com/
+- https://www.bskyinfo.com/tools/
+- https://blueskydirectory.com/
 
 ---
 Vous cherchez à partager un lien Bluesky avec quelqu'un qui n'est pas sur Bluesky ? 📌
