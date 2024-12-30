@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2024-12-29T21:20:27.531Z
+date: 2024-12-30T11:52:21.875Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -182,6 +182,9 @@ blockenheimer: a mass blocking tool for bluesky.app by [Boykisser](https://boyki
 Unfollow management 
 - https://unfollow.blue
 
+Unfollow blocked/deleted Follows
+- https://cleanfollow-bsky.pages.dev
+
 ---
 Bluesky Social Wrapper 
 - https://blue.amazingca.dev/
@@ -249,6 +252,12 @@ Bluesky DID/Post Resolver
 Blueskies ahead viewer : 
 
 - https://blue-skies-ahead.glitch.me/
+
+Bluesky Info
+
+- https://internect.info
+- https://boat.kelinci.net
+- https://pdsls.dev/
 
 ---
 Vous cherchez à partager un lien Bluesky avec quelqu'un qui n'est pas sur Bluesky ? 📌
@@ -339,6 +348,8 @@ Firesky
 - [Bluesky Heatmap generator](https://bluesky-heatmap.fly.dev/)
 
 - [Firehose 3D](https://firehose3d.theo.io)
+
+- [Treeverse](https://treeverse.app/)
 
 ---
 
