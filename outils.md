@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2024-12-30T18:28:59.388Z
+date: 2024-12-30T18:33:18.654Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -32,6 +32,11 @@ ThreadWriter pour Bluesky
 - [ThreadWriter](https://this.how/threadWriterForBluesky/)
 
 ---
+
+### Notifications
+
+Rcevoir en message privé des notifications de block/liste/starter-pack
+- https://bsky.app/profile/listifications.app
 
 ### Thread Viewers
 
