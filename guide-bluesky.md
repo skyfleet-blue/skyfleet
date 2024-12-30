@@ -2,7 +2,7 @@
 title: Guides pour Bluesky
 description: Collection de guide pour bien démarrer sur Bluesky
 published: true
-date: 2023-10-31T09:17:58.232Z
+date: 2024-12-30T18:43:52.387Z
 tags: bluesky, guide
 editor: markdown
 dateCreated: 2023-10-30T19:52:06.647Z
@@ -24,3 +24,11 @@ dateCreated: 2023-10-30T19:52:06.647Z
 - How to Bluesky by [plutopsyche](https://plutopsyche.medium.com/how-to-bluesky-94716507e7e6)
 - BlueSky for [Scientists](blueskyscience.steveharoz.com) 
 - Bluesky. What you [need to know](https://www.fenarinarsa.com/?p=2773) by [@fenarinarsa.com](https://bsky.app/profile/did:plc:fb3iwxg23jziddgbtsixx3zu)
+
+### Starter Packs: 
+
+- https://blueskydirectory.com/starter-packs
+
+Qui est dans quel Starter Pack ? 
+
+- https://whichpack.com
