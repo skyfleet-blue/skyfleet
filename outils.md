@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2024-12-30T18:27:22.797Z
+date: 2024-12-30T18:28:59.388Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -17,6 +17,8 @@ dateCreated: 2023-10-30T19:52:14.567Z
 # Tabs {.tabset}
 ## Threads
 
+Bluesky Thread Composer
+- https://bluesky-thread-composer.pages.dev/
 
 le [Thread Splitter](https://lemonmeant.github.io/splitter/) créer des threads avec Images sur Bluesky et liens [markdown](/fr/tips/markdown)
 
