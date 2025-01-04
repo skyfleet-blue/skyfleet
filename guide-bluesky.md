@@ -2,7 +2,7 @@
 title: Guides pour Bluesky
 description: Collection de guide pour bien démarrer sur Bluesky
 published: true
-date: 2024-12-30T18:43:52.387Z
+date: 2025-01-04T20:44:30.527Z
 tags: bluesky, guide
 editor: markdown
 dateCreated: 2023-10-30T19:52:06.647Z
@@ -28,6 +28,7 @@ dateCreated: 2023-10-30T19:52:06.647Z
 ### Starter Packs: 
 
 - https://blueskydirectory.com/starter-packs
+- https://blueskystarterpack.com/starter-packs
 
 Qui est dans quel Starter Pack ? 
 
