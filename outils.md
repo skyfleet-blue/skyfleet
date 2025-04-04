@@ -2,7 +2,7 @@
 title: Outils pour Bluesky
 description: Outils pour Bluesky
 published: true
-date: 2025-04-04T14:46:47.000Z
+date: 2025-04-04T14:48:03.520Z
 tags: bluesky, outils
 editor: markdown
 dateCreated: 2023-10-30T19:52:14.567Z
@@ -15,6 +15,7 @@ dateCreated: 2023-10-30T19:52:14.567Z
 
 Pour une liste bien plus complète d'outils Bluesky
 visiter : https://www.bskyinfo.com/tools/
+![2025-04-04_16-47_1.png](/captures/2025-04-04_16-47_1.png)
 
 # Tabs {.tabset}
 ## Threads
