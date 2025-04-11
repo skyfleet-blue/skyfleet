@@ -2,7 +2,7 @@
 title: Transparence
 description: Transparence à propos de Skyfleet, méthodologie, politique éditoriale, frais de fonctionnement
 published: true
-date: 2024-11-11T20:03:45.362Z
+date: 2025-04-11T13:51:04.445Z
 tags: édition, frais, transparence, skyfleet
 editor: markdown
 dateCreated: 2023-10-30T19:52:37.543Z
@@ -17,7 +17,7 @@ dateCreated: 2023-10-30T19:52:37.543Z
 ## Politique de Rédaction
 
 - Le seul moment où un choix rédactionnel est fait, c'est les [skyfleet-sources](/fr/skyfleet-sources) qui vont publier sur les différents comptes, c'est le seul moment où mon biais de sélection de sources intervient et impact le résultat global sur chaque compte de la flotte Skyfleet. 
-- Pour certain compte dont la veille est plus large (par example le compte Climat, Ukraine, Elections USA) les sources sont dynamiques, dans le sens où elles vont varier hors d'une présélection fixe car elles sont le reflets de ce qui se passe dans l'actualité et ce qui atteint le système d'information de Google News. 
+- Pour certain compte dont la veille est plus large (par example le compte Climat, Ukraine, Politique US, Trumpwatch) les sources sont dynamiques, dans le sens où elles vont varier hors d'une présélection fixe car elles sont le reflets de ce qui se passe dans l'actualité, il peut y avoir des posts fait manuellement, mais c'est rare. 
 - Ce système ne peut pas tout voir, tout savoir sur toute les bonnes sources (ou pas) et donc si vous avez des suggestions, elles sont bienvenues ! 
 - Pour des comptes tel que Sciences, FoodFeed, Climat, Ukraine, Sectes, Cultish, Techfr et d'autres la sélection des sources s'est en partie ou totalement faite avec l'aide personnes qui ont demandé à avoir un compte de la sorte sur Bluesky et donc pour ces comptes, la sélection des sources a été le fruit d'une collaboration et n'est pas limitée par mon seul biais, c'est la méthode de travail de sélection de source que je préfère et essaie d'utiliser le plus souvent possible. 
 
