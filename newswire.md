@@ -2,7 +2,7 @@
 title: newswire
 description: 
 published: true
-date: 2025-08-30T17:09:25.381Z
+date: 2025-08-30T17:12:08.480Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-30T16:26:10.283Z
@@ -18,3 +18,5 @@ dateCreated: 2025-08-30T16:26:10.283Z
 [rappel-conso](/fr/newswire/rappel-conso)
 
 [africa-fr](/fr/newswire/africa-fr)
+
+[altermedias](/fr/newswire/altermedias)
