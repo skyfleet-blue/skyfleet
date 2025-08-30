@@ -1,0 +1,204 @@
+<!--
+title: Trumpwatch
+description: 
+published: true
+date: 2025-08-30T16:29:33.028Z
+tags: 
+editor: code
+dateCreated: 2025-08-30T16:29:33.028Z
+-->
+
+<script>
+/**
+ * Wiki.js JSON Feed → Cards (vanilla JS)
+ * Works with feeds shaped like your example (Freshrss / Google Reader style).
+ * Reuse on other pages by changing the data-feed-url on the container.
+ */
+
+(function () {
+  // ==== CONFIG (override via data-* on container) ====
+  const DEFAULTS = {
+    feedUrl: 'https://rss.skyfleet.blue/api/query.php?user=rick&t=2nSwwHKvpQbEmbP3PgZ5q0&f=greader',
+    pollSeconds: 120,            // refresh interval
+    maxItems: 100,               // render cap
+    showOrigin: true,
+    showImages: true
+  };
+
+  const container = document.querySelector('[data-json-feed]');
+  if (!container) return;
+
+  // Read per-page config from data attributes
+  const cfg = {
+    feedUrl: container.dataset.feedUrl || DEFAULTS.feedUrl,
+    pollSeconds: Number(container.dataset.pollSeconds || DEFAULTS.pollSeconds),
+    maxItems: Number(container.dataset.maxItems || DEFAULTS.maxItems),
+    showOrigin: container.dataset.showOrigin !== 'false',
+    showImages: container.dataset.showImages !== 'false'
+  };
+
+  // ---- Small helpers
+  const stripUserState = (cats) => (cats || []).filter(c => !/^user\/-\/state\//.test(c));
+  const plural = (n, s) => n + ' ' + (n === 1 ? s : s + 's');
+
+  // Very small HTML sanitizer: removes scripts/iframes and dangerous attributes.
+  function sanitizeHTML(dirty) {
+    if (!dirty) return '';
+    const tmp = document.createElement('div');
+    tmp.innerHTML = dirty;
+    tmp.querySelectorAll('script, iframe, object, embed, link, style').forEach(el => el.remove());
+    tmp.querySelectorAll('*').forEach(el => {
+      [...el.attributes].forEach(attr => {
+        const n = attr.name.toLowerCase();
+        if (n.startsWith('on') || n === 'srcdoc') el.removeAttribute(attr.name);
+      });
+    });
+    return tmp.innerHTML;
+  }
+
+  // Text excerpt from HTML
+  function excerpt(html, maxLen = 240) {
+    const d = document.createElement('div');
+    d.innerHTML = sanitizeHTML(html);
+    const text = d.textContent.replace(/\s+/g, ' ').trim();
+    return text.length > maxLen ? text.slice(0, maxLen - 1) + '…' : text;
+  }
+
+  function pickImage(item) {
+    const enc = item.enclosure || [];
+    // prefer jpg/png if present, otherwise first image
+    const byPref = enc.find(e => /image\/(jpeg|jpg|png)/i.test(e.type || '')) || enc[0];
+    return byPref ? byPref.href : null;
+  }
+
+  function formatDate(epochSeconds) {
+    // Wiki.js pages are viewed by humans; format in local TZ with short style
+    const d = new Date(Number(epochSeconds) * 1000);
+    try {
+      return new Intl.DateTimeFormat(undefined, {
+        dateStyle: 'medium', timeStyle: 'short'
+      }).format(d);
+    } catch {
+      return d.toISOString();
+    }
+  }
+
+  function relativeTime(epochSeconds) {
+    const diffMs = Date.now() - (Number(epochSeconds) * 1000);
+    const sec = Math.round(diffMs / 1000);
+    const min = Math.round(sec / 60);
+    const hr  = Math.round(min / 60);
+    const day = Math.round(hr / 24);
+    if (sec < 60) return plural(sec, 'second') + ' ago';
+    if (min < 60) return plural(min, 'minute') + ' ago';
+    if (hr  < 24) return plural(hr,  'hour')   + ' ago';
+    return plural(day, 'day') + ' ago';
+  }
+
+  // Render one card
+  function renderCard(item) {
+    const url = (item.canonical?.[0]?.href) || (item.alternate?.[0]?.href) || item.guid || '#';
+    const img = cfg.showImages ? pickImage(item) : null;
+    const cats = stripUserState(item.categories);
+    const sourceTitle = item.origin?.title || '';
+    const sourceUrl   = item.origin?.htmlUrl || '';
+
+    const contentHtml = item.content?.content ? sanitizeHTML(item.content.content) : '';
+
+    return `
+      <article class="wj-card" data-item-id="${item.id}">
+        ${img ? `<a class="wj-image" href="${url}" target="_blank" rel="noopener">
+                    <img loading="lazy" alt="" src="${img}">
+                 </a>` : ''}
+        <div class="wj-body">
+          <h3 class="wj-title">
+            <a href="${url}" target="_blank" rel="noopener">${item.title || '(no title)'}</a>
+          </h3>
+          <div class="wj-meta">
+            ${item.author ? `<span class="wj-author" title="Author">${item.author}</span>` : ''}
+            ${item.published ? `<span class="wj-dot">•</span><time title="${formatDate(item.published)}">${relativeTime(item.published)}</time>` : ''}
+            ${cfg.showOrigin && sourceTitle ? `<span class="wj-dot">•</span><a class="wj-origin" href="${sourceUrl || url}" target="_blank" rel="noopener">${sourceTitle}</a>` : ''}
+          </div>
+          <p class="wj-desc">${contentHtml ? excerpt(contentHtml) : ''}</p>
+          ${cats.length ? `
+            <div class="wj-tags">
+              ${cats.map(c => `<span class="wj-tag">${c}</span>`).join('')}
+            </div>` : ''}
+        </div>
+      </article>
+    `;
+  }
+
+  // State across polls
+  const seen = new Set();
+
+  function dedupeAndSort(items) {
+    // Newest first by "published" (fallback to timestampUsec)
+    const normalized = items
+      .filter(it => {
+        if (seen.has(it.id)) return false;
+        seen.add(it.id);
+        return true;
+      })
+      .sort((a, b) => (b.published || Number(b.timestampUsec) || 0) - (a.published || Number(a.timestampUsec) || 0));
+    return normalized;
+  }
+
+  function render(items, append = true) {
+    const target = container.querySelector('.wj-grid');
+    if (!append) target.innerHTML = '';
+    const html = items.slice(0, cfg.maxItems).map(renderCard).join('');
+    if (append) {
+      target.insertAdjacentHTML('afterbegin', html); // new on top
+    } else {
+      target.innerHTML = html;
+    }
+    // Update header count
+    const countEl = container.querySelector('[data-count]');
+    if (countEl) countEl.textContent = target.querySelectorAll('.wj-card').length;
+  }
+
+  function setStatus(msg, ok=true) {
+    const el = container.querySelector('.wj-status');
+    if (!el) return;
+    el.textContent = msg;
+    el.classList.toggle('wj-error', !ok);
+  }
+
+  async function fetchOnce() {
+    try {
+      setStatus('Refreshing…');
+      const res = await fetch(cfg.feedUrl, { headers: { 'Accept': 'application/json' }, cache: 'no-store' });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      const items = Array.isArray(data.items) ? data.items : [];
+      const fresh = dedupeAndSort(items);
+      if (fresh.length) render(fresh, /*append*/ true);
+      setStatus(`Last update: ${new Date().toLocaleTimeString()}`);
+    } catch (e) {
+      setStatus(`Error: ${e.message}`, false);
+      console.error('[WikiJS JSON Cards] fetch error', e);
+    }
+  }
+
+  // Initial paint (empty grid & status)
+  if (!container.querySelector('.wj-grid')) {
+    container.insertAdjacentHTML('beforeend', `
+      <div class="wj-head">
+        <div class="wj-titlebar">
+          <strong>${container.dataset.title || 'Feed'}</strong>
+          <span class="wj-count"><span data-count>0</span> items</span>
+        </div>
+        <div class="wj-status">Loading…</div>
+      </div>
+      <div class="wj-grid" role="feed" aria-busy="true"></div>
+    `);
+  }
+
+  // First load then poll
+  fetchOnce();
+  if (cfg.pollSeconds > 0) {
+    setInterval(fetchOnce, cfg.pollSeconds * 1000);
+  }
+})();
+</script>
