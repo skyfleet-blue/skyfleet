@@ -2,7 +2,7 @@
 title: newswire
 description: 
 published: true
-date: 2025-08-30T17:00:04.527Z
+date: 2025-08-30T17:03:22.735Z
 tags: 
 editor: markdown
 dateCreated: 2025-08-30T16:26:10.283Z
@@ -12,3 +12,5 @@ dateCreated: 2025-08-30T16:26:10.283Z
 [trumpwatch](/fr/newswire/trumpwatch)
 
 [mediaslibres](/fr/newswire/mediaslibres)
+
+[tech-fr](/fr/newswire/tech-fr)
